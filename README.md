@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my GitHub profile page 👋
 
-<!--
-**niden/niden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am passionate about open-source!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👷 Projects I have been working on
+
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - 📚 Phalcon PHP Framework (v5)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - 📚 Phalcon PHP Framework (v6) (PHP based)
+
+#### 📊 My stats
+
+<img align="right" alt="azjezz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=niden&count_private=1&show_icons=true&" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niden)
