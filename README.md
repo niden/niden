@@ -30,6 +30,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [zephir-lang/zephir-docs-app](https://github.com/zephir-lang/zephir-docs-app) ([v1.0p](https://github.com/zephir-lang/zephir-docs-app/releases/tag/v1.0p), 3 years ago) - Application powering the Zephir documentation
 - [zephir-lang/zephir-website](https://github.com/zephir-lang/zephir-website) ([v1.0p](https://github.com/zephir-lang/zephir-website/releases/tag/v1.0p), 3 years ago) - Zephir - Web site source
 
+#### 🔨 My recent Pull Requests
+
+- [T15896 numeric input](https://github.com/phalcon/cphalcon/pull/15899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [T15879 crypt length](https://github.com/phalcon/cphalcon/pull/15895) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [Phalcon v5.0.0-beta3](https://github.com/phalcon/ide-stubs/pull/74) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 days ago)
+- [Create Post “2022-02-08-phalcon-5-0-0beta3-released”](https://github.com/phalcon/blog/pull/491) on [phalcon/blog](https://github.com/phalcon/blog) (2 days ago)
+- [5.0.0beta3](https://github.com/phalcon/cphalcon/pull/15892) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3045) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [5.0.0beta3 Release](https://github.com/phalcon/cphalcon/pull/15891) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [T15883 model extend](https://github.com/phalcon/cphalcon/pull/15890) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3044) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [T15880 route getname](https://github.com/phalcon/cphalcon/pull/15881) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
+
+
 #### 📊 My stats
 
 <img align="right" alt="azjezz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=niden&count_private=1&show_icons=true&" />
