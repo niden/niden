@@ -6,12 +6,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 weeks ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (2 months ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (2 months ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 months ago)
@@ -19,7 +19,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :pushpin: Latest releases I've contributed to
 
-- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 5 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
+- [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 6 days ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0-beta.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0-beta.3), 1 week ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0beta3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0beta3), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v1.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v1.0.1), 2 months ago) - Phalcon 5 module for Codeception
@@ -32,8 +32,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
-- [Aligning with cphalcon](https://github.com/phalcon/phalcon/pull/237) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
-- [removing $ characters](https://github.com/phalcon/cphalcon/pull/15905) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [Aligning with cphalcon](https://github.com/phalcon/phalcon/pull/237) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [removing $ characters](https://github.com/phalcon/cphalcon/pull/15905) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15896 numeric input](https://github.com/phalcon/cphalcon/pull/15899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15879 crypt length](https://github.com/phalcon/cphalcon/pull/15895) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Phalcon v5.0.0-beta3](https://github.com/phalcon/ide-stubs/pull/74) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
