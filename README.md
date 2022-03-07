@@ -6,7 +6,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :wrench: Work in progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 weeks ago)
@@ -32,6 +32,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
+- [Cache store ](https://github.com/phalcon/phalcon/pull/240) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
 - [Aligning with cphalcon](https://github.com/phalcon/phalcon/pull/237) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [removing $ characters](https://github.com/phalcon/cphalcon/pull/15905) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [T15896 numeric input](https://github.com/phalcon/cphalcon/pull/15899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
@@ -41,7 +42,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.0.0beta3](https://github.com/phalcon/cphalcon/pull/15892) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3045) on [phalcon/docs](https://github.com/phalcon/docs) (4 weeks ago)
 - [5.0.0beta3 Release](https://github.com/phalcon/cphalcon/pull/15891) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [T15883 model extend](https://github.com/phalcon/cphalcon/pull/15890) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 
 
 #### 📊 My stats
