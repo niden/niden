@@ -6,13 +6,13 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :wrench: Work in progress
 
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (5 days ago)
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (5 days ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (5 days ago)
-- [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (5 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (5 days ago)
-- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (5 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (6 days ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (6 days ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
+- [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (6 days ago)
 - [phalcon/proxy-psr11](https://github.com/phalcon/proxy-psr11) - Package to offer PSR-11 (Container) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr7](https://github.com/phalcon/proxy-psr7) - Package to offer PSR-7 (HTTP Message) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
@@ -32,6 +32,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3047) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [T15928 psr container](https://github.com/phalcon/cphalcon/pull/15947) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15930 psr link](https://github.com/phalcon/cphalcon/pull/15944) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15927 psr cache](https://github.com/phalcon/cphalcon/pull/15942) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
@@ -41,7 +42,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Create Post “2022-03-30-status-update-psr-packagecloud”](https://github.com/phalcon/blog/pull/492) on [phalcon/blog](https://github.com/phalcon/blog) (1 month ago)
 - [T15928 psr container](https://github.com/phalcon/phalcon/pull/246) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [T15930 psr link](https://github.com/phalcon/phalcon/pull/245) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
-- [T15927 psr cache](https://github.com/phalcon/phalcon/pull/244) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 
 
 #### 📊 My stats
