@@ -6,9 +6,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :wrench: Work in progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (4 days ago)
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (5 days ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (5 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (1 month ago)
@@ -19,8 +19,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 4 days ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 4 days ago) - Phalcon 5 module for Codeception
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 5 days ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 5 days ago) - Phalcon 5 module for Codeception
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC1](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC1), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 3 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 6 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
@@ -32,9 +32,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [Initial functionality](https://github.com/phalcon/proxy-psr3/pull/1) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (4 days ago)
-- [Prep for v2 release](https://github.com/Codeception/module-phalcon5/pull/6) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [Initial functionality](https://github.com/phalcon/proxy-psr3/pull/1) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (5 days ago)
+- [Prep for v2 release](https://github.com/Codeception/module-phalcon5/pull/6) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (5 days ago)
 - [Create Post “2022-05-31-phalcon-v5-0-0rc1-released”](https://github.com/phalcon/blog/pull/496) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 - [5.0.0RC1](https://github.com/phalcon/cphalcon/pull/15975) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.0.0 RC1 Release](https://github.com/phalcon/cphalcon/pull/15974) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
