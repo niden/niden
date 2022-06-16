@@ -6,8 +6,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :wrench: Work in progress
 
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (5 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (6 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (1 week ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 week ago)
@@ -19,7 +19,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### :pushpin: Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC2), 6 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 1 week ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 1 week ago) - Phalcon 5 module for Codeception
 - [zephir-lang/php-zephir-parser](https://github.com/zephir-lang/php-zephir-parser) ([v1.5.0](https://github.com/zephir-lang/php-zephir-parser/releases/tag/v1.5.0), 4 months ago) - The Zephir Parser delivered as a C extension for the PHP language.
@@ -32,14 +32,14 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
-- [T15992 validation length](https://github.com/phalcon/cphalcon/pull/15995) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T15992 tag htmlspecialchars](https://github.com/phalcon/cphalcon/pull/15993) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T15977 gd webm](https://github.com/phalcon/cphalcon/pull/15989) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [Update Post “2022-06-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/498) on [phalcon/blog](https://github.com/phalcon/blog) (5 days ago)
-- [Create Post “2022-06-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/497) on [phalcon/blog](https://github.com/phalcon/blog) (5 days ago)
-- [5.0.0RC2](https://github.com/phalcon/cphalcon/pull/15987) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
-- [5.0.0RC2 prep](https://github.com/phalcon/cphalcon/pull/15986) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
-- [T15984 null arguments deprecation](https://github.com/phalcon/cphalcon/pull/15985) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [T15992 validation length](https://github.com/phalcon/cphalcon/pull/15995) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T15992 tag htmlspecialchars](https://github.com/phalcon/cphalcon/pull/15993) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [T15977 gd webm](https://github.com/phalcon/cphalcon/pull/15989) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [Update Post “2022-06-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/498) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
+- [Create Post “2022-06-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/497) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
+- [5.0.0RC2](https://github.com/phalcon/cphalcon/pull/15987) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [5.0.0RC2 prep](https://github.com/phalcon/cphalcon/pull/15986) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [T15984 null arguments deprecation](https://github.com/phalcon/cphalcon/pull/15985) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15978 html string 3](https://github.com/phalcon/cphalcon/pull/15983) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
