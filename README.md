@@ -32,7 +32,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
-- [T15992 validation length](https://github.com/phalcon/cphalcon/pull/15995) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [T15992 validation length](https://github.com/phalcon/cphalcon/pull/15995) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
 - [T15992 tag htmlspecialchars](https://github.com/phalcon/cphalcon/pull/15993) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15977 gd webm](https://github.com/phalcon/cphalcon/pull/15989) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Update Post “2022-06-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/498) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
@@ -41,7 +41,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.0.0RC2 prep](https://github.com/phalcon/cphalcon/pull/15986) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15984 null arguments deprecation](https://github.com/phalcon/cphalcon/pull/15985) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T15978 html string 3](https://github.com/phalcon/cphalcon/pull/15983) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 
 #### 📊 My stats
