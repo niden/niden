@@ -41,7 +41,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.0.0RC2 prep](https://github.com/phalcon/cphalcon/pull/15986) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T15984 null arguments deprecation](https://github.com/phalcon/cphalcon/pull/15985) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T15978 html string 3](https://github.com/phalcon/cphalcon/pull/15983) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3050) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 
 
 #### 📊 My stats
