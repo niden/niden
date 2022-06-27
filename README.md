@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 weeks ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 weeks ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (3 weeks ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (3 weeks ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
