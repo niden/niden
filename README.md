@@ -7,8 +7,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### :wrench: Work in progress
 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 day ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (1 month ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 month ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
@@ -32,16 +32,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 My recent Pull Requests
 
-- [Minor fix](https://github.com/phalcon/cphalcon/pull/16018) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Create Post “2022-07-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/499) on [phalcon/blog](https://github.com/phalcon/blog) (2 days ago)
-- [5.0.0RC3 Release](https://github.com/phalcon/cphalcon/pull/16016) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [5.0.0RC3 Release prep](https://github.com/phalcon/cphalcon/pull/16014) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3057) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3056) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3055) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3054) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3053) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3052) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [Create Post “2022-07-12-phalcon-v5-0-0rc3-released”](https://github.com/phalcon/blog/pull/502) on [phalcon/blog](https://github.com/phalcon/blog) (1 day ago)
+- [Update Post “2022-07-12-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/501) on [phalcon/blog](https://github.com/phalcon/blog) (1 day ago)
+- [Create Post “2022-07-12-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/500) on [phalcon/blog](https://github.com/phalcon/blog) (1 day ago)
+- [Minor fix](https://github.com/phalcon/cphalcon/pull/16018) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Create Post “2022-07-10-phalcon-v5-0-0rc2-released”](https://github.com/phalcon/blog/pull/499) on [phalcon/blog](https://github.com/phalcon/blog) (3 days ago)
+- [5.0.0RC3 Release](https://github.com/phalcon/cphalcon/pull/16016) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [5.0.0RC3 Release prep](https://github.com/phalcon/cphalcon/pull/16014) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3057) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3056) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3055) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 
 
 #### 📊 My stats
