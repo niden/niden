@@ -4,28 +4,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 ---
 
-<a href="https://github.com/niden">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/niden">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/niden">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+![](./header.svg)
 
-<a href="https://github.com/niden">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
+![](./repositories.svg)
 
-<a href="https://github.com/niden">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
+![](./iso_calender.svg)
 
-<a href="https://github.com/niden">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/niden">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+![](./issue_pr_lang.svg)
+
+![](./github-habits.svg)
+
+![](./achievements.svg)
+
+
