@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.5 characters per line of code written</li>
+                        <li>Has approximately 45.0 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -28,14 +28,24 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">21</span>
-                            <div class="bar" style="height: 6.0344827586206895px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19</span>
+                            <div class="bar" style="height: 5.459770114942529px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">174</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             18
+                        </div>
+                        <div class="entry">
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            19
+                        </div>
+                        <div class="entry">
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 0.5747126436781609px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            20
                         </div>
                     </div>
                 </div>
