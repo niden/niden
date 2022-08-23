@@ -4,7 +4,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -28,10 +28,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (today)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
 
 
