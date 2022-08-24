@@ -9,14 +9,24 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
+- [phalcon-orphanage/framework-bench](https://github.com/phalcon-orphanage/framework-bench) - Framework benchmarks (4 weeks ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 weeks ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 months ago)
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (2 months ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (4 months ago)
 
-#### 🌱 My latest projects
+#### 🔨 Latest Pull Requests I published
 
-- [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions
-- [niden/cardoe](https://github.com/niden/cardoe) - ADR Test Bed
-- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images
-- [niden/phalcon-angular-harryhogfootball](https://github.com/niden/phalcon-angular-harryhogfootball) - Application written with phalconphp and angularjs to record and display the Kicks and Game balls of Harry Hog Football
-- [niden/Localized_World_Regions](https://github.com/niden/Localized_World_Regions) - JSON encoded files with regions (states, provinces, emirates etc.) and their ISO codes
+- [T16072 logger stream no lock](https://github.com/phalcon/cphalcon/pull/16073) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [T16070 numericality](https://github.com/phalcon/cphalcon/pull/16071) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16064 ctype null](https://github.com/phalcon/cphalcon/pull/16068) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [Fixing docblock for autocompletion](https://github.com/phalcon/cphalcon/pull/16067) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,12 +36,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 9 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 10 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
 
-#### 🔨 Latest Pull Requests I published
+#### 🌱 My latest projects
 
-- [T16070 numericality](https://github.com/phalcon/cphalcon/pull/16071) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16064 ctype null](https://github.com/phalcon/cphalcon/pull/16068) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Fixing docblock for autocompletion](https://github.com/phalcon/cphalcon/pull/16067) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
+- [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions
+- [niden/cardoe](https://github.com/niden/cardoe) - ADR Test Bed
+- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images
+- [niden/phalcon-angular-harryhogfootball](https://github.com/niden/phalcon-angular-harryhogfootball) - Application written with phalconphp and angularjs to record and display the Kicks and Game balls of Harry Hog Football
+- [niden/Localized_World_Regions](https://github.com/niden/Localized_World_Regions) - JSON encoded files with regions (states, provinces, emirates etc.) and their ISO codes
 
 
