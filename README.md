@@ -4,8 +4,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
@@ -17,16 +17,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16072 logger stream no lock](https://github.com/phalcon/cphalcon/pull/16073) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [T16070 numericality](https://github.com/phalcon/cphalcon/pull/16071) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16064 ctype null](https://github.com/phalcon/cphalcon/pull/16068) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Fixing docblock for autocompletion](https://github.com/phalcon/cphalcon/pull/16067) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [T16072 logger stream no lock](https://github.com/phalcon/cphalcon/pull/16073) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16070 numericality](https://github.com/phalcon/cphalcon/pull/16071) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T16064 ctype null](https://github.com/phalcon/cphalcon/pull/16068) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Fixing docblock for autocompletion](https://github.com/phalcon/cphalcon/pull/16067) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
