@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3072) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [T16072 logger stream no lock](https://github.com/phalcon/cphalcon/pull/16073) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16070 numericality](https://github.com/phalcon/cphalcon/pull/16071) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3070) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3069) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3068) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3067) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
