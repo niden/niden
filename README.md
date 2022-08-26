@@ -4,16 +4,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 day ago)
+- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 month ago)
 - [phalcon-orphanage/framework-bench](https://github.com/phalcon-orphanage/framework-bench) - Framework benchmarks (1 month ago)
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 months ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 month ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (2 months ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
