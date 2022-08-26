@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3073) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [Adding GH workflow](https://github.com/phalcon/proxy-psr3/pull/2) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (1 day ago)
 - [Proxy PSR16 implementation](https://github.com/phalcon/proxy-psr16/pull/1) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 day ago)
 - [Proxy PSR13 implementation](https://github.com/phalcon/proxy-psr13/pull/1) on [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) (1 day ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16063 implicit flush](https://github.com/phalcon/cphalcon/pull/16069) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [T16064 ctype null](https://github.com/phalcon/cphalcon/pull/16068) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [Fixing docblock for autocompletion](https://github.com/phalcon/cphalcon/pull/16067) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3071) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
