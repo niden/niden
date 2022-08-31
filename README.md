@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3077) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3076) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [Minor fixes](https://github.com/phalcon/cphalcon/pull/16077) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/135) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 day ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Proxy PSR16 implementation](https://github.com/phalcon/proxy-psr16/pull/1) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (6 days ago)
 - [Proxy PSR13 implementation](https://github.com/phalcon/proxy-psr13/pull/1) on [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3072) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [T16072 logger stream no lock](https://github.com/phalcon/cphalcon/pull/16073) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
