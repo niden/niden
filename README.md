@@ -4,9 +4,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 day ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 day ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 week ago)
