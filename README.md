@@ -4,11 +4,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
-- [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (4 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (4 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 days ago)
+- [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (5 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (5 days ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 week ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 week ago)
@@ -17,20 +17,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3082) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3081) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3080) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3079) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
-- [updating for v5.0](https://github.com/phalcon/tutorial/pull/14) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (4 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3078) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3077) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3076) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [Minor fixes](https://github.com/phalcon/cphalcon/pull/16077) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3082) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3081) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3080) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3079) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [updating for v5.0](https://github.com/phalcon/tutorial/pull/14) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3078) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3077) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3076) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [Minor fixes](https://github.com/phalcon/cphalcon/pull/16077) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.0.x](https://github.com/phalcon/tutorial/releases/tag/5.0.x), 4 days ago) - Phalcon Tutorial
+- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.0.x](https://github.com/phalcon/tutorial/releases/tag/5.0.x), 5 days ago) - Phalcon Tutorial
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 4 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
