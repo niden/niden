@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3079) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [updating for v5.0](https://github.com/phalcon/tutorial/pull/14) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3078) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3077) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
