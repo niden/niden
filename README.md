@@ -4,8 +4,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (3 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 week ago)
@@ -17,11 +17,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3082) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3081) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
@@ -34,7 +34,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
-- [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 9 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 10 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 
 #### 🌱 My latest projects
 
