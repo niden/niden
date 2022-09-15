@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3082) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3081) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3080) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3079) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
