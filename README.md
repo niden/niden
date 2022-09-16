@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (today)
 - [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 week ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3082) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3081) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3080) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
