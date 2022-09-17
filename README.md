@@ -4,9 +4,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (today)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1 day ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (2 weeks ago)
@@ -17,8 +17,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (today)
-- [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (1 day ago)
+- [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
