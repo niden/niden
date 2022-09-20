@@ -4,9 +4,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 days ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (2 weeks ago)
@@ -17,15 +17,15 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (1 day ago)
-- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (3 days ago)
-- [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (2 days ago)
+- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (4 days ago)
+- [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
