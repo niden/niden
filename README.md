@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16108 escaper attributes](https://github.com/phalcon/cphalcon/pull/16109) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (2 days ago)
 - [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (4 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3083) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
