@@ -4,7 +4,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (5 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3088) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [T16108 escaper attributes](https://github.com/phalcon/cphalcon/pull/16109) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
 - [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (3 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3086) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3085) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3084) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
