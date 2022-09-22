@@ -4,8 +4,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (6 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
