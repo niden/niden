@@ -17,6 +17,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16112) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [v5.0.0 stable](https://github.com/phalcon/ide-stubs/pull/78) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (today)
 - [v5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16111) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3089) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3088) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
@@ -25,16 +27,14 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (4 days ago)
 - [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (6 days ago)
 - [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3087) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [5.0.x compatibility](https://github.com/phalcon/migrations/pull/136) on [phalcon/migrations](https://github.com/phalcon/migrations) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.0.x](https://github.com/phalcon/tutorial/releases/tag/5.0.x), 3 weeks ago) - Phalcon Tutorial
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0RC4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0RC4), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 10 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 11 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
 
 #### 🌱 My latest projects
 
