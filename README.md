@@ -4,37 +4,37 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (6 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (3 weeks ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
-- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (3 weeks ago)
+- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (4 weeks ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (4 weeks ago)
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (4 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16112) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [v5.0.0 stable](https://github.com/phalcon/ide-stubs/pull/78) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (today)
-- [v5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16111) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3089) on [phalcon/docs](https://github.com/phalcon/docs) (today)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3088) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
-- [T16108 escaper attributes](https://github.com/phalcon/cphalcon/pull/16109) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (4 days ago)
-- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (6 days ago)
+- [5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16112) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [v5.0.0 stable](https://github.com/phalcon/ide-stubs/pull/78) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 day ago)
+- [v5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16111) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3089) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3088) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
+- [T16108 escaper attributes](https://github.com/phalcon/cphalcon/pull/16109) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [T16102 get set short](https://github.com/phalcon/cphalcon/pull/16103) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [v5 Prep](https://github.com/phalcon/vokuro/pull/165) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (5 days ago)
+- [v5.0.0 prep](https://github.com/phalcon/rest-api/pull/41) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (1 week ago)
 - [T16094 JWT verify](https://github.com/phalcon/cphalcon/pull/16095) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.0), 1 day ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.0](https://github.com/phalcon/cphalcon/releases/tag/v5.0.0), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.0.x](https://github.com/phalcon/tutorial/releases/tag/5.0.x), 3 weeks ago) - Phalcon Tutorial
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.0](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.0), 3 months ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.0](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.0), 3 months ago) - Phalcon 5 module for Codeception
-- [phalcon/traits](https://github.com/phalcon/traits) ([1.2.1](https://github.com/phalcon/traits/releases/tag/1.2.1), 10 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
-- [zephir-lang/setup-php-sdk](https://github.com/zephir-lang/setup-php-sdk) ([v1.0](https://github.com/zephir-lang/setup-php-sdk/releases/tag/v1.0), 11 months ago) - GitHub Action to setup PHP SDK and Developer Pack for Windows PHP builds
 
 #### 🌱 My latest projects
 
