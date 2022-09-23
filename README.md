@@ -7,9 +7,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (today)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (3 weeks ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (4 weeks ago)
@@ -17,16 +17,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/510) on [phalcon/blog](https://github.com/phalcon/blog) (today)
+- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/509) on [phalcon/blog](https://github.com/phalcon/blog) (today)
+- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/508) on [phalcon/blog](https://github.com/phalcon/blog) (today)
+- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/507) on [phalcon/blog](https://github.com/phalcon/blog) (today)
+- [Create Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/506) on [phalcon/blog](https://github.com/phalcon/blog) (today)
 - [v5.0.1](https://github.com/phalcon/ide-stubs/pull/79) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (today)
 - [5.0.1 Release](https://github.com/phalcon/cphalcon/pull/16119) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [5.0.1 Prep](https://github.com/phalcon/cphalcon/pull/16118) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16115 jwt validate](https://github.com/phalcon/cphalcon/pull/16116) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3090) on [phalcon/docs](https://github.com/phalcon/docs) (today)
-- [5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16112) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [v5.0.0 stable](https://github.com/phalcon/ide-stubs/pull/78) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 day ago)
-- [v5.0.0 Stable](https://github.com/phalcon/cphalcon/pull/16111) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3089) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3088) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
