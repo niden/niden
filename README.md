@@ -30,11 +30,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.1](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.1), today) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.2), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.0](https://github.com/phalcon/migrations/releases/tag/v3.0.0), 2 days ago) - Generate or migrate database changes via migrations.
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) ([v5.0.0](https://github.com/phalcon/rest-api/releases/tag/v5.0.0), 3 days ago) - Implementation of an API application using the Phalcon Framework
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.0.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.0.1), 5 days ago) - Phalcon IDE Stubs
-- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.0.x](https://github.com/phalcon/tutorial/releases/tag/5.0.x), 3 weeks ago) - Phalcon Tutorial
 
 #### 🌱 My latest projects
 
