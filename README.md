@@ -4,16 +4,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (today)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 day ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (3 weeks ago)
-- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
