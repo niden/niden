@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3091) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [v5.0.x prep](https://github.com/phalcon/proxy-psr16/pull/2) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 day ago)
 - [Corrections - Actions](https://github.com/phalcon/proxy-psr3/pull/3) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (1 day ago)
 - [Update Post “2022-09-27-phalcon-v5-0-2-released”](https://github.com/phalcon/blog/pull/512) on [phalcon/blog](https://github.com/phalcon/blog) (2 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/510) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
 - [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/509) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
 - [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/508) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
-- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/507) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
