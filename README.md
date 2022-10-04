@@ -4,16 +4,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (today)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (5 days ago)
-- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (6 days ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (6 days ago)
+- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (6 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1 week ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -30,11 +30,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), today) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 5 days ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([1.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/1.0.0), 5 days ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.1](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.1), 6 days ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.0](https://github.com/phalcon/migrations/releases/tag/v3.0.0), 1 week ago) - Generate or migrate database changes via migrations.
 
 #### 🌱 My latest projects
 
