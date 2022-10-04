@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Uncamelize/Camelize](https://github.com/phalcon/traits/pull/13) on [phalcon/traits](https://github.com/phalcon/traits) (today)
 - [T266 scrutinizer issues](https://github.com/phalcon/phalcon/pull/267) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
 - [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/265) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3091) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Create Post “2022-09-27-phalcon-v5-0-2-released”](https://github.com/phalcon/blog/pull/511) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 - [v5.0.2 prep](https://github.com/phalcon/cphalcon/pull/16125) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16123 html attributes](https://github.com/phalcon/cphalcon/pull/16124) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [Update Post “2022-09-23-phalcon-v5-0-0-and-v5-0-1-released”](https://github.com/phalcon/blog/pull/510) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
