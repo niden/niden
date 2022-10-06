@@ -30,11 +30,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.3), today) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 2 days ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 1 week ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([1.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/1.0.0), 1 week ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.1](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.1), 1 week ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 
 #### 🌱 My latest projects
 
