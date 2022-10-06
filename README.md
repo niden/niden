@@ -4,11 +4,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
-- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (6 days ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
+- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
@@ -17,22 +17,22 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16134 escaper flags](https://github.com/phalcon/cphalcon/pull/16136) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [Uncamelize/Camelize](https://github.com/phalcon/traits/pull/13) on [phalcon/traits](https://github.com/phalcon/traits) (1 day ago)
-- [T266 scrutinizer issues](https://github.com/phalcon/phalcon/pull/267) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/265) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3091) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [T16135 stringval flags](https://github.com/phalcon/cphalcon/pull/16138) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16134 escaper flags](https://github.com/phalcon/cphalcon/pull/16136) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [Uncamelize/Camelize](https://github.com/phalcon/traits/pull/13) on [phalcon/traits](https://github.com/phalcon/traits) (2 days ago)
+- [T266 scrutinizer issues](https://github.com/phalcon/phalcon/pull/267) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/265) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3091) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [v5.0.x prep](https://github.com/phalcon/proxy-psr16/pull/2) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 week ago)
 - [Corrections - Actions](https://github.com/phalcon/proxy-psr3/pull/3) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (1 week ago)
 - [Update Post “2022-09-27-phalcon-v5-0-2-released”](https://github.com/phalcon/blog/pull/512) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 - [Create Post “2022-09-27-phalcon-v5-0-2-released”](https://github.com/phalcon/blog/pull/511) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
-- [v5.0.2 prep](https://github.com/phalcon/cphalcon/pull/16125) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 1 day ago) - Traits used primarily in the v6 package but also available as a helper package for applications
-- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 6 days ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
-- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([1.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/1.0.0), 6 days ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
+- [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 2 days ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 1 week ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
+- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([1.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/1.0.0), 1 week ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) ([1.0.1](https://github.com/phalcon/proxy-psr3/releases/tag/1.0.1), 1 week ago) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.2](https://github.com/phalcon/cphalcon/releases/tag/v5.0.2), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 
