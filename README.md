@@ -5,6 +5,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (today)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
@@ -12,11 +13,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Create Post “2022-10-06-phalcon-v5-0-3-released”](https://github.com/phalcon/blog/pull/513) on [phalcon/blog](https://github.com/phalcon/blog) (today)
 - [5.0.3 - optimized build files](https://github.com/phalcon/cphalcon/pull/16143) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [v5.0.3](https://github.com/phalcon/cphalcon/pull/16142) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [v5.0.3 Prep](https://github.com/phalcon/cphalcon/pull/16140) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T266 scrutinizer issues](https://github.com/phalcon/phalcon/pull/267) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
 - [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/265) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3091) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [v5.0.x prep](https://github.com/phalcon/proxy-psr16/pull/2) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
