@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16157 mysql descripe indexes](https://github.com/phalcon/cphalcon/pull/16158) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3094) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
 - [v5.0.0 ](https://github.com/phalcon/invo/pull/96) on [phalcon/invo](https://github.com/phalcon/invo) (2 days ago)
 - [T16153 security workfactor not calculated](https://github.com/phalcon/cphalcon/pull/16154) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [v5.0.3 Prep](https://github.com/phalcon/cphalcon/pull/16140) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16135 stringval flags](https://github.com/phalcon/cphalcon/pull/16138) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16134 escaper flags](https://github.com/phalcon/cphalcon/pull/16136) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [Uncamelize/Camelize](https://github.com/phalcon/traits/pull/13) on [phalcon/traits](https://github.com/phalcon/traits) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
