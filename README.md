@@ -4,10 +4,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 days ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
@@ -30,9 +30,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.4](https://github.com/phalcon/cphalcon/releases/tag/v5.0.4), today) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 4 days ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 1 week ago) - This package will add the dd and dump helpers to your Phalcon application.
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.0.3](https://github.com/phalcon/cphalcon/releases/tag/v5.0.3), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 1 week ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 2 weeks ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
 
