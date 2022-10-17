@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [v5.0.4](https://github.com/phalcon/cphalcon/pull/16164) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [v5.0.4 Prep](https://github.com/phalcon/cphalcon/pull/16163) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16161 mvc model fireevent return value must be of type bool null returned](https://github.com/phalcon/cphalcon/pull/16162) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16157 mysql descripe indexes](https://github.com/phalcon/cphalcon/pull/16158) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Create Post “2022-10-06-phalcon-v5-0-3-released”](https://github.com/phalcon/blog/pull/513) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 - [5.0.3 - optimized build files](https://github.com/phalcon/cphalcon/pull/16143) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [v5.0.3](https://github.com/phalcon/cphalcon/pull/16142) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [v5.0.3 Prep](https://github.com/phalcon/cphalcon/pull/16140) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
