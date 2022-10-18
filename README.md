@@ -4,11 +4,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (5 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (2 weeks ago)
@@ -17,6 +17,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3096) on [phalcon/docs](https://github.com/phalcon/docs) (today)
+- [Create Post “2022-10-18-phalcon-v5-0-4-released”](https://github.com/phalcon/blog/pull/514) on [phalcon/blog](https://github.com/phalcon/blog) (today)
 - [v5.0.4](https://github.com/phalcon/cphalcon/pull/16164) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [v5.0.4 Prep](https://github.com/phalcon/cphalcon/pull/16163) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16161 mvc model fireevent return value must be of type bool null returned](https://github.com/phalcon/cphalcon/pull/16162) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
@@ -25,8 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [v5.0.0 ](https://github.com/phalcon/invo/pull/96) on [phalcon/invo](https://github.com/phalcon/invo) (5 days ago)
 - [T16153 security workfactor not calculated](https://github.com/phalcon/cphalcon/pull/16154) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
 - [Create Post “2022-10-06-phalcon-v5-0-3-released”](https://github.com/phalcon/blog/pull/513) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
-- [5.0.3 - optimized build files](https://github.com/phalcon/cphalcon/pull/16143) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [v5.0.3](https://github.com/phalcon/cphalcon/pull/16142) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
