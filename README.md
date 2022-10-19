@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16171 config insensitive](https://github.com/phalcon/cphalcon/pull/16172) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [`Cli` namespace](https://github.com/phalcon/phalcon/pull/289) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3096) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [Create Post “2022-10-18-phalcon-v5-0-4-released”](https://github.com/phalcon/blog/pull/514) on [phalcon/blog](https://github.com/phalcon/blog) (1 day ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16157 mysql descripe indexes](https://github.com/phalcon/cphalcon/pull/16158) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3094) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [v5.0.0 ](https://github.com/phalcon/invo/pull/96) on [phalcon/invo](https://github.com/phalcon/invo) (6 days ago)
-- [T16153 security workfactor not calculated](https://github.com/phalcon/cphalcon/pull/16154) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
