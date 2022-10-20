@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3099) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [T16170 strict session id syntax](https://github.com/phalcon/cphalcon/pull/16173) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16171 config insensitive](https://github.com/phalcon/cphalcon/pull/16172) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [`Cli` namespace](https://github.com/phalcon/phalcon/pull/289) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [v5.0.4 Prep](https://github.com/phalcon/cphalcon/pull/16163) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [T16161 mvc model fireevent return value must be of type bool null returned](https://github.com/phalcon/cphalcon/pull/16162) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [T16157 mysql descripe indexes](https://github.com/phalcon/cphalcon/pull/16158) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3094) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
