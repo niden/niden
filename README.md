@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16186 cli application throwing warning](https://github.com/phalcon/cphalcon/pull/16189) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3100) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
 - [T16097 volt render notice undefined index name](https://github.com/phalcon/cphalcon/pull/16187) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
 - [Create Post “2022-10-24-phalcon-v5-0-5-released”](https://github.com/phalcon/blog/pull/516) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T35 tag](https://github.com/phalcon/phalcon/pull/290) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3099) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [T16170 strict session id syntax](https://github.com/phalcon/cphalcon/pull/16173) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [T16171 config insensitive](https://github.com/phalcon/cphalcon/pull/16172) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
