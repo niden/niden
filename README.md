@@ -17,6 +17,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [v5.1.0](https://github.com/phalcon/ide-stubs/pull/81) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (today)
+- [5.1.0](https://github.com/phalcon/cphalcon/pull/16193) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [5.1.0 prep](https://github.com/phalcon/cphalcon/pull/16192) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T15956 clear form](https://github.com/phalcon/cphalcon/pull/16191) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16188 cannot fetch patch payload](https://github.com/phalcon/cphalcon/pull/16190) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
@@ -25,8 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16097 volt render notice undefined index name](https://github.com/phalcon/cphalcon/pull/16187) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
 - [Create Post “2022-10-24-phalcon-v5-0-5-released”](https://github.com/phalcon/blog/pull/516) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
 - [updating stubs for 5.0.5](https://github.com/phalcon/ide-stubs/pull/80) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
-- [5.0.5 Version](https://github.com/phalcon/cphalcon/pull/16182) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [5.0.5](https://github.com/phalcon/cphalcon/pull/16181) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
