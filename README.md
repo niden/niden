@@ -4,8 +4,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T15956 clear form](https://github.com/phalcon/cphalcon/pull/16191) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16188 cannot fetch patch payload](https://github.com/phalcon/cphalcon/pull/16190) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T16186 cli application throwing warning](https://github.com/phalcon/cphalcon/pull/16189) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3100) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.0.5 Version](https://github.com/phalcon/cphalcon/pull/16182) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.0.5](https://github.com/phalcon/cphalcon/pull/16181) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T35 tag](https://github.com/phalcon/phalcon/pull/290) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3099) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
