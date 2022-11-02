@@ -4,11 +4,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (today)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 weeks ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (4 weeks ago)
@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Create Post “2022-11-02-phalcon-5-1-0-released”](https://github.com/phalcon/blog/pull/518) on [phalcon/blog](https://github.com/phalcon/blog) (today)
 - [v5.1.0](https://github.com/phalcon/ide-stubs/pull/81) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 day ago)
 - [5.1.0](https://github.com/phalcon/cphalcon/pull/16193) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [5.1.0 prep](https://github.com/phalcon/cphalcon/pull/16192) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3100) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
 - [T16097 volt render notice undefined index name](https://github.com/phalcon/cphalcon/pull/16187) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Create Post “2022-10-24-phalcon-v5-0-5-released”](https://github.com/phalcon/blog/pull/516) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
-- [updating stubs for 5.0.5](https://github.com/phalcon/ide-stubs/pull/80) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
