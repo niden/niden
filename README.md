@@ -4,6 +4,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (today)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
@@ -13,10 +14,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 month ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 month ago)
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland (1 month ago)
-- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/140) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3107) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [T39 validation](https://github.com/phalcon/phalcon/pull/291) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
 - [Create Post “2022-11-14-phalcon-5-1-1-released”](https://github.com/phalcon/blog/pull/521) on [phalcon/blog](https://github.com/phalcon/blog) (1 day ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3103) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3101) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [Create Post “2022-11-02-phalcon-5-1-0-released”](https://github.com/phalcon/blog/pull/518) on [phalcon/blog](https://github.com/phalcon/blog) (1 week ago)
-- [v5.1.0](https://github.com/phalcon/ide-stubs/pull/81) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
