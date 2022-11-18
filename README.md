@@ -17,6 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T16214 delete getrelated](https://github.com/phalcon/cphalcon/pull/16215) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [T21 forms](https://github.com/phalcon/phalcon/pull/292) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/140) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3107) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
@@ -26,7 +27,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.1.1 Prep](https://github.com/phalcon/cphalcon/pull/16205) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
 - [T16202 - Escape::html zero string](https://github.com/phalcon/cphalcon/pull/16204) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3103) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3101) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
