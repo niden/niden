@@ -4,7 +4,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=niden&show_icons=true&count_private=true&hide_title=t
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=niden&show_icons=true&count_private=true&hide_title=true)
 
 #### 👷 Work in Progress
 
