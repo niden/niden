@@ -8,11 +8,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (today)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 day ago)
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 day ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
