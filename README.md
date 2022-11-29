@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Updating code](https://github.com/phalcon/invo/pull/99) on [phalcon/invo](https://github.com/phalcon/invo) (today)
 - [T16223 debug links](https://github.com/phalcon/cphalcon/pull/16230) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3111) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
 - [V6.0.x tests](https://github.com/phalcon/phalcon/pull/293) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/140) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3107) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [T39 validation](https://github.com/phalcon/phalcon/pull/291) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
-- [Create Post “2022-11-14-phalcon-5-1-1-released”](https://github.com/phalcon/blog/pull/521) on [phalcon/blog](https://github.com/phalcon/blog) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
