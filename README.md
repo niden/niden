@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [5.1.2](https://github.com/phalcon/cphalcon/pull/16236) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [Prep for 5.1.2](https://github.com/phalcon/cphalcon/pull/16235) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3113) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [Prep for 5.1.2](https://github.com/phalcon/ide-stubs/pull/82) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (today)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3111) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
 - [V6.0.x tests](https://github.com/phalcon/phalcon/pull/293) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
 - [Create Post “2022-11-26-uploading-coverage-reports-to-codecov-io-and-codacy”](https://github.com/niden-net/niden-net/pull/35) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (4 days ago)
-- [T16214 delete getrelated](https://github.com/phalcon/cphalcon/pull/16215) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
