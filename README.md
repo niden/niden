@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 day ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (today)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 days ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
