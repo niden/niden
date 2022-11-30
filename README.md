@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [TagFactory, Profiler, Cil container fixes](https://github.com/phalcon/cphalcon/pull/16234) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [Updating code](https://github.com/phalcon/invo/pull/99) on [phalcon/invo](https://github.com/phalcon/invo) (1 day ago)
 - [T16223 debug links](https://github.com/phalcon/cphalcon/pull/16230) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3111) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T21 forms](https://github.com/phalcon/phalcon/pull/292) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/140) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3107) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [T39 validation](https://github.com/phalcon/phalcon/pull/291) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
