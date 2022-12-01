@@ -9,15 +9,15 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 day ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (3 days ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (3 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (4 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.2](https://github.com/phalcon/cphalcon/releases/tag/v5.1.2), today) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.2), 1 day ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.1](https://github.com/phalcon/cphalcon/releases/tag/v5.1.1), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 1 month ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 1 month ago) - This package will add the dd and dump helpers to your Phalcon application.
 - [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 1 month ago) - Traits used primarily in the v6 package but also available as a helper package for applications
