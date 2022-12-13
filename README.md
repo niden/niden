@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (today)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (today)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
@@ -21,10 +21,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (today)
-- [T16240 micro finish](https://github.com/phalcon/cphalcon/pull/16241) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3115) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [T16240 micro finish](https://github.com/phalcon/cphalcon/pull/16241) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3115) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
 - [Fixing references for tagFactory](https://github.com/phalcon/ide-stubs/pull/83) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 - [5.1.2](https://github.com/phalcon/cphalcon/pull/16236) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Prep for 5.1.2](https://github.com/phalcon/cphalcon/pull/16235) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
