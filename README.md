@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Added Phalcon v5](https://github.com/pmjones/php-history/pull/43) on [pmjones/php-history](https://github.com/pmjones/php-history) (today)
 - [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
 - [T16240 micro finish](https://github.com/phalcon/cphalcon/pull/16241) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Prep for 5.1.2](https://github.com/phalcon/cphalcon/pull/16235) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3113) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [Prep for 5.1.2](https://github.com/phalcon/ide-stubs/pull/82) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
-- [TagFactory, Profiler, Cil container fixes](https://github.com/phalcon/cphalcon/pull/16234) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
