@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update Post “2022-12-18-fujitsu-scansnap-s1300-in-linux”](https://github.com/niden-net/niden-net/pull/36) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (today)
 - [Added Phalcon v5](https://github.com/pmjones/php-history/pull/43) on [pmjones/php-history](https://github.com/pmjones/php-history) (3 days ago)
 - [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.1.2](https://github.com/phalcon/cphalcon/pull/16236) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Prep for 5.1.2](https://github.com/phalcon/cphalcon/pull/16235) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3113) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [Prep for 5.1.2](https://github.com/phalcon/ide-stubs/pull/82) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
