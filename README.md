@@ -8,16 +8,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (today)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (2 days ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (3 days ago)
 - [pmjones/php-history](https://github.com/pmjones/php-history) - A list of the years-of-introductions of notable (to me) PHP framework and library projects. (5 days ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (6 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
