@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (4 days ago)
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (6 days ago)
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (5 days ago)
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 week ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 week ago)
 - [pmjones/php-history](https://github.com/pmjones/php-history) - A list of the years-of-introductions of notable (to me) PHP framework and library projects. (1 week ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 week ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update Post “2022-12-18-fujitsu-scansnap-s1300-in-linux”](https://github.com/niden-net/niden-net/pull/36) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (6 days ago)
+- [Update Post “2022-12-18-fujitsu-scansnap-s1300-in-linux”](https://github.com/niden-net/niden-net/pull/36) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (1 week ago)
 - [Added Phalcon v5](https://github.com/pmjones/php-history/pull/43) on [pmjones/php-history](https://github.com/pmjones/php-history) (1 week ago)
 - [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
