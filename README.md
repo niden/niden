@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Create Post “2022-12-25-merry-christmas-and-phalcon-5-1-3-released”](https://github.com/phalcon/blog/pull/522) on [phalcon/blog](https://github.com/phalcon/blog) (today)
 - [5.1.3 Release](https://github.com/phalcon/cphalcon/pull/16249) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [5.1.3 prep](https://github.com/phalcon/cphalcon/pull/16248) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
 - [Update Post “2022-12-18-fujitsu-scansnap-s1300-in-linux”](https://github.com/niden-net/niden-net/pull/36) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (1 week ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16240 micro finish](https://github.com/phalcon/cphalcon/pull/16241) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3115) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [Fixing references for tagFactory](https://github.com/phalcon/ide-stubs/pull/83) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (3 weeks ago)
-- [5.1.2](https://github.com/phalcon/cphalcon/pull/16236) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
