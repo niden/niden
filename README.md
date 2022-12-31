@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T2 annotations](https://github.com/phalcon/phalcon/pull/302) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (today)
 - [Phalcon\Db](https://github.com/phalcon/phalcon/pull/301) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
 - [Create Post “2022-12-25-merry-christmas-and-phalcon-5-1-3-released”](https://github.com/phalcon/blog/pull/522) on [phalcon/blog](https://github.com/phalcon/blog) (6 days ago)
 - [5.1.3 Release](https://github.com/phalcon/cphalcon/pull/16249) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3116) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [T16240 micro finish](https://github.com/phalcon/cphalcon/pull/16241) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3115) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
