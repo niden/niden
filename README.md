@@ -8,16 +8,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (today)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (4 days ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
-- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (6 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (6 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (6 days ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (6 days ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (6 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -34,11 +34,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.0](https://github.com/phalcon/traits/releases/tag/2.0.0), today) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.3](https://github.com/phalcon/cphalcon/releases/tag/v5.1.3), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.3), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 2 months ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 2 months ago) - This package will add the dd and dump helpers to your Phalcon application.
-- [phalcon/traits](https://github.com/phalcon/traits) ([1.3.0](https://github.com/phalcon/traits/releases/tag/1.3.0), 3 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 
 #### 🌱 My latest projects
 
