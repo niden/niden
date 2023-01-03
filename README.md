@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Reformatted the CHANGELOG](https://github.com/phalcon/traits/pull/36) on [phalcon/traits](https://github.com/phalcon/traits) (today)
 - [v2.0.0](https://github.com/phalcon/traits/pull/16) on [phalcon/traits](https://github.com/phalcon/traits) (2 days ago)
 - [IniTrait](https://github.com/phalcon/traits/pull/15) on [phalcon/traits](https://github.com/phalcon/traits) (2 days ago)
 - [T2 annotations](https://github.com/phalcon/phalcon/pull/302) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.1.3 prep](https://github.com/phalcon/cphalcon/pull/16248) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Update Post “2022-12-18-fujitsu-scansnap-s1300-in-linux”](https://github.com/niden-net/niden-net/pull/36) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (2 weeks ago)
 - [Added Phalcon v5](https://github.com/pmjones/php-history/pull/43) on [pmjones/php-history](https://github.com/pmjones/php-history) (2 weeks ago)
-- [T15032 di infinite loop](https://github.com/phalcon/cphalcon/pull/16242) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
