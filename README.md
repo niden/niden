@@ -34,9 +34,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), today) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.1.4](https://github.com/phalcon/ide-stubs/releases/tag/v5.1.4), today) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.1.4](https://github.com/phalcon/cphalcon/releases/tag/v5.1.4), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.1](https://github.com/phalcon/traits/releases/tag/2.0.1), 1 week ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 3 months ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 3 months ago) - This package will add the dd and dump helpers to your Phalcon application.
 
