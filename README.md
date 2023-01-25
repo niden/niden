@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
