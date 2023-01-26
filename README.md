@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3123) on [phalcon/docs](https://github.com/phalcon/docs) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3118) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [prep for 5.1.4](https://github.com/phalcon/ide-stubs/pull/84) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 - [Create Post “2023-01-10-phalcon-5-1-4-released-and-update”](https://github.com/phalcon/blog/pull/523) on [phalcon/blog](https://github.com/phalcon/blog) (2 weeks ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Fixing codacy issues](https://github.com/phalcon/traits/pull/39) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
 - [Update with master](https://github.com/phalcon/traits/pull/38) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
 - [Sync develop](https://github.com/phalcon/traits/pull/37) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
-- [Reformatted the CHANGELOG](https://github.com/phalcon/traits/pull/36) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
