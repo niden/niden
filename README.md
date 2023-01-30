@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T24 Http](https://github.com/phalcon/phalcon/pull/319) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (today)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3124) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3123) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3118) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.1.4 prep](https://github.com/phalcon/cphalcon/pull/16258) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16255 reflection getclass](https://github.com/phalcon/cphalcon/pull/16257) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Fixing codacy issues](https://github.com/phalcon/traits/pull/39) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
-- [Update with master](https://github.com/phalcon/traits/pull/38) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
