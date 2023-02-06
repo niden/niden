@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (5 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T24 Http](https://github.com/phalcon/phalcon/pull/319) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [T24 Http](https://github.com/phalcon/phalcon/pull/319) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3124) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3123) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3118) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
