@@ -23,13 +23,13 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [5.2.1 Release](https://github.com/phalcon/cphalcon/pull/16298) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [5.2.1 prep](https://github.com/phalcon/cphalcon/pull/16297) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
+- [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [5.2.0 prep](https://github.com/phalcon/cphalcon/pull/16290) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [T16283 title prepend](https://github.com/phalcon/cphalcon/pull/16284) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3127) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
 - [T24 Http](https://github.com/phalcon/phalcon/pull/319) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3124) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3123) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3123) on [phalcon/docs](https://github.com/phalcon/docs) (2 months ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3118) on [phalcon/docs](https://github.com/phalcon/docs) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
