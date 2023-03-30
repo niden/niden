@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 month ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 month ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 month ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3133) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [5.2.1 Release](https://github.com/phalcon/cphalcon/pull/16298) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [5.2.1 prep](https://github.com/phalcon/cphalcon/pull/16297) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3133) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [5.2.1 Release](https://github.com/phalcon/cphalcon/pull/16298) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [5.2.1 prep](https://github.com/phalcon/cphalcon/pull/16297) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [5.2.0 prep](https://github.com/phalcon/cphalcon/pull/16290) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16283 title prepend](https://github.com/phalcon/cphalcon/pull/16284) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
@@ -35,7 +35,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 🔭 Latest releases I've contributed to
 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 3 weeks ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 4 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), 2 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 5 months ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/dd](https://github.com/phalcon/dd) ([v2.0.0](https://github.com/phalcon/dd/releases/tag/v2.0.0), 5 months ago) - This package will add the dd and dump helpers to your Phalcon application.
