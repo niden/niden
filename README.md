@@ -8,16 +8,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (2 days ago)
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 week ago)
+- [niden-net/blog.longhaircareforums.com](https://github.com/niden-net/blog.longhaircareforums.com) - LongHairCareForums Blog (1 day ago)
+- [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (1 day ago)
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 day ago)
+- [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (3 days ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 months ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 months ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (3 months ago)
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -27,7 +27,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.2.1 Release](https://github.com/phalcon/cphalcon/pull/16298) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [5.2.1 prep](https://github.com/phalcon/cphalcon/pull/16297) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
-- [5.2.0 prep](https://github.com/phalcon/cphalcon/pull/16290) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [5.2.0 prep](https://github.com/phalcon/cphalcon/pull/16290) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [T16283 title prepend](https://github.com/phalcon/cphalcon/pull/16284) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3127) on [phalcon/docs](https://github.com/phalcon/docs) (2 months ago)
 - [T24 Http](https://github.com/phalcon/phalcon/pull/319) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 months ago)
@@ -38,7 +38,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), 3 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 6 months ago) - Sample application for the Phalcon PHP Framework
-- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 6 months ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
+- [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 7 months ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
 
 #### 🌱 My latest projects
 
