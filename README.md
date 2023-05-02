@@ -9,11 +9,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 day ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 days ago)
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (4 days ago)
-- [niden-net/blog.longhaircareforums.com](https://github.com/niden-net/blog.longhaircareforums.com) - LongHairCareForums Blog (5 days ago)
-- [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (5 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (5 days ago)
+- [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (6 days ago)
+- [niden-net/blog.longhaircareforums.com](https://github.com/niden-net/blog.longhaircareforums.com) - LongHairCareForums Blog (6 days ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3135) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3135) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
 - [Create Post “2023-04-17-linux-swap-file-in-ram”](https://github.com/niden-net/niden-net/pull/37) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3134) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3133) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
@@ -34,9 +34,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.3](https://github.com/phalcon/traits/releases/tag/2.0.3), 1 day ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
-- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.2](https://github.com/phalcon/traits/releases/tag/2.0.2), 3 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 6 months ago) - Sample application for the Phalcon PHP Framework
 - [phalcon/proxy-psr13](https://github.com/phalcon/proxy-psr13) ([1.0.0](https://github.com/phalcon/proxy-psr13/releases/tag/1.0.0), 7 months ago) - Package to offer PSR-13 (Link) compatibility with Phalcon classes from the PHP userland
 
