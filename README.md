@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (5 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 week ago)
 - [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (1 week ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3137) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3137) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3135) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [Create Post “2023-04-17-linux-swap-file-in-ram”](https://github.com/niden-net/niden-net/pull/37) on [niden-net/niden-net](https://github.com/niden-net/niden-net) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3134) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 2 days ago) - Generate or migrate database changes via migrations.
-- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.3](https://github.com/phalcon/traits/releases/tag/2.0.3), 4 days ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 3 days ago) - Generate or migrate database changes via migrations.
+- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.3](https://github.com/phalcon/traits/releases/tag/2.0.3), 5 days ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/invo](https://github.com/phalcon/invo) ([v2.0.0](https://github.com/phalcon/invo/releases/tag/v2.0.0), 6 months ago) - Sample application for the Phalcon PHP Framework
