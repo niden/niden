@@ -12,8 +12,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 week ago)
-- [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (1 week ago)
-- [niden-net/blog.longhaircareforums.com](https://github.com/niden-net/blog.longhaircareforums.com) - LongHairCareForums Blog (1 week ago)
+- [niden-net/ghostofjefferson-com](https://github.com/niden-net/ghostofjefferson-com) - ghostofjefferson.com blog (2 weeks ago)
+- [niden-net/blog.longhaircareforums.com](https://github.com/niden-net/blog.longhaircareforums.com) - LongHairCareForums Blog (2 weeks ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 3 days ago) - Send mail with Phalcon
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 6 days ago) - Generate or migrate database changes via migrations.
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v2.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v2.0.0), 4 days ago) - Send mail with Phalcon
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v3.0.1](https://github.com/phalcon/migrations/releases/tag/v3.0.1), 1 week ago) - Generate or migrate database changes via migrations.
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.3](https://github.com/phalcon/traits/releases/tag/2.0.3), 1 week ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.1), 2 months ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.1](https://github.com/phalcon/cphalcon/releases/tag/v5.2.1), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
