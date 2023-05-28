@@ -29,7 +29,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3133) on [phalcon/docs](https://github.com/phalcon/docs) (2 months ago)
 - [5.2.1 Release](https://github.com/phalcon/cphalcon/pull/16298) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [5.2.1 prep](https://github.com/phalcon/cphalcon/pull/16297) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
-- [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
+- [5.2.0](https://github.com/phalcon/cphalcon/pull/16291) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
 - [5.2.0 prep](https://github.com/phalcon/cphalcon/pull/16290) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
