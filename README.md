@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
-- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (6 days ago)
-- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (6 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (3 days ago)
+- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (1 week ago)
+- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (1 week ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
@@ -21,8 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 days ago)
+- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 days ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/12) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/11) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Create Products “ps-driver-tanned-for-spiral”](https://github.com/niden-net/dnm.gr/pull/10) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
@@ -30,11 +31,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Update Products “n3-nylon-fousta-1”](https://github.com/niden-net/dnm.gr/pull/9) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Update Products “n3-bone-special-2way”](https://github.com/niden-net/dnm.gr/pull/8) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Update Pages “translations”](https://github.com/niden-net/dnm.gr/pull/7) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
-- [Create Post “2023-06-18-phalcon-v5-2-2-released”](https://github.com/phalcon/blog/pull/535) on [phalcon/blog](https://github.com/phalcon/blog) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 2 days ago) - Phalcon IDE Stubs
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 3 days ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) ([1.0.0](https://github.com/niden-net/niden-net/releases/tag/1.0.0), 3 weeks ago) - niden.net Blog
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.1](https://github.com/pmjones/AutoShell/releases/tag/1.0.1), 1 month ago)
