@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (3 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (3 days ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (3 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (4 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (4 days ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (4 days ago)
 - [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (1 week ago)
 - [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
@@ -21,11 +21,11 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (3 days ago)
-- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (6 days ago)
+- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (4 days ago)
+- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/12) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/11) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (1 week ago)
 - [Create Products “ps-driver-tanned-for-spiral”](https://github.com/niden-net/dnm.gr/pull/10) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (2 weeks ago)
@@ -34,7 +34,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 6 days ago) - Phalcon IDE Stubs
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.2), 1 week ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.2](https://github.com/phalcon/cphalcon/releases/tag/v5.2.2), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) ([1.0.0](https://github.com/niden-net/niden-net/releases/tag/1.0.0), 3 weeks ago) - niden.net Blog
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.1](https://github.com/pmjones/AutoShell/releases/tag/1.0.1), 1 month ago)
