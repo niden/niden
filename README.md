@@ -8,12 +8,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (6 days ago)
-- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (1 week ago)
-- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
+- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (2 weeks ago)
+- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (3 weeks ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/12) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (2 weeks ago)
