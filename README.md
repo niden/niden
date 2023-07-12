@@ -28,8 +28,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/12) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (2 weeks ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/11) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (2 weeks ago)
-- [Create Products “ps-driver-tanned-for-spiral”](https://github.com/niden-net/dnm.gr/pull/10) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (2 weeks ago)
-- [Correcting links](https://github.com/phalcon/awesome-phalcon/pull/137) on [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) (2 weeks ago)
+- [Create Products “ps-driver-tanned-for-spiral”](https://github.com/niden-net/dnm.gr/pull/10) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (3 weeks ago)
+- [Correcting links](https://github.com/phalcon/awesome-phalcon/pull/137) on [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) (3 weeks ago)
 - [Update Products “n3-nylon-fousta-1”](https://github.com/niden-net/dnm.gr/pull/9) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
