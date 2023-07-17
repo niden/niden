@@ -8,22 +8,22 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
-- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (2 weeks ago)
-- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (2 weeks ago)
+- [niden/Git-Pre-Commit-Hook-for-certain-words](https://github.com/niden/Git-Pre-Commit-Hook-for-certain-words) - Checks the commit using the pre-commit git hook for the existence of certain words and stops the commit if they are found (1 day ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (2 weeks ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (2 weeks ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 weeks ago)
+- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (3 weeks ago)
+- [niden-net/trinityplace.eu](https://github.com/niden-net/trinityplace.eu) - trinityplace.eu website (3 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (4 weeks ago)
-- [niden-net/ctbc-com-cy](https://github.com/niden-net/ctbc-com-cy) - ctbc.com.cy website (1 month ago)
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [V6.0.x - composer update](https://github.com/phalcon/phalcon/pull/364) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3146) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [T16244 metadata memcached](https://github.com/phalcon/cphalcon/pull/16369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3145) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/156) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 weeks ago)
 - [Update Translations “translation_strings”](https://github.com/niden-net/dnm.gr/pull/12) on [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) (3 weeks ago)
