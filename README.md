@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (1 day ago)
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (2 days ago)
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
@@ -21,8 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [correcting changelog](https://github.com/Codeception/module-phalcon5/pull/10) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (1 day ago)
-- [v2.0.1 Prep](https://github.com/Codeception/module-phalcon5/pull/9) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (6 days ago)
+- [T16396 jwt addheader](https://github.com/phalcon/cphalcon/pull/16397) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [correcting changelog](https://github.com/Codeception/module-phalcon5/pull/10) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (2 days ago)
+- [v2.0.1 Prep](https://github.com/Codeception/module-phalcon5/pull/9) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3149) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3148) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3147) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
@@ -30,14 +31,13 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [updating stubs for 5.2.3](https://github.com/phalcon/ide-stubs/pull/91) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 - [5.2.3 Release](https://github.com/phalcon/cphalcon/pull/16384) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.2.3 Prep](https://github.com/phalcon/cphalcon/pull/16383) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [T15608 json last error](https://github.com/phalcon/cphalcon/pull/16381) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.1), 6 days ago) - Phalcon 5 module for Codeception
+- [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.1), 1 week ago) - Phalcon 5 module for Codeception
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.2.3](https://github.com/phalcon/cphalcon/releases/tag/v5.2.3), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.2.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.2.3), 2 weeks ago) - Phalcon IDE Stubs
-- [niden-net/niden-net](https://github.com/niden-net/niden-net) ([1.0.0](https://github.com/niden-net/niden-net/releases/tag/1.0.0), 1 month ago) - niden.net Blog
+- [niden-net/niden-net](https://github.com/niden-net/niden-net) ([1.0.0](https://github.com/niden-net/niden-net/releases/tag/1.0.0), 2 months ago) - niden.net Blog
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.1](https://github.com/pmjones/AutoShell/releases/tag/1.0.1), 2 months ago)
 
 #### 🌱 My latest projects
