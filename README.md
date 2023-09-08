@@ -29,7 +29,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.3.0 Release](https://github.com/phalcon/cphalcon/pull/16406) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [5.3.0 Prep](https://github.com/phalcon/cphalcon/pull/16405) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3150) on [phalcon/docs](https://github.com/phalcon/docs) (4 weeks ago)
-- [T16396 jwt addheader](https://github.com/phalcon/cphalcon/pull/16397) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [T16396 jwt addheader](https://github.com/phalcon/cphalcon/pull/16397) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [correcting changelog](https://github.com/Codeception/module-phalcon5/pull/10) on [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
