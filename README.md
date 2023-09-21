@@ -8,20 +8,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 weeks ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 month ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (1 month ago)
 - [niden/Git-Pre-Commit-Hook-for-certain-words](https://github.com/niden/Git-Pre-Commit-Hook-for-certain-words) - Checks the commit using the pre-commit git hook for the existence of certain words and stops the commit if they are found (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 - [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3158) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
@@ -29,8 +29,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16427 logger interpolation](https://github.com/phalcon/cphalcon/pull/16429) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Logger interpolation](https://github.com/phalcon/phalcon/pull/391) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3157) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3155) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
-- [T16414 route routeid type error](https://github.com/phalcon/cphalcon/pull/16415) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3155) on [phalcon/docs](https://github.com/phalcon/docs) (4 weeks ago)
+- [T16414 route routeid type error](https://github.com/phalcon/cphalcon/pull/16415) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
