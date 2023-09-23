@@ -14,7 +14,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 weeks ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 month ago)
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) - Phalcon 5 module for Codeception (1 month ago)
 - [niden/Git-Pre-Commit-Hook-for-certain-words](https://github.com/niden/Git-Pre-Commit-Hook-for-certain-words) - Checks the commit using the pre-commit git hook for the existence of certain words and stops the commit if they are found (2 months ago)
@@ -29,8 +29,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16427 logger interpolation](https://github.com/phalcon/cphalcon/pull/16429) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Logger interpolation](https://github.com/phalcon/phalcon/pull/391) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3157) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3155) on [phalcon/docs](https://github.com/phalcon/docs) (4 weeks ago)
-- [T16414 route routeid type error](https://github.com/phalcon/cphalcon/pull/16415) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3155) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
+- [T16414 route routeid type error](https://github.com/phalcon/cphalcon/pull/16415) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
