@@ -10,9 +10,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
 - [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 month ago)
@@ -22,8 +22,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 🔨 Latest Pull Requests I published
 
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
-- [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
+- [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3158) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [WIP - Micro](https://github.com/phalcon/phalcon/pull/392) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [T16427 logger interpolation](https://github.com/phalcon/cphalcon/pull/16429) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.3.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.3.1), 1 week ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.3.1](https://github.com/phalcon/cphalcon/releases/tag/v5.3.1), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.3.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.3.1), 2 weeks ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.3.1](https://github.com/phalcon/cphalcon/releases/tag/v5.3.1), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.1), 1 month ago) - Phalcon 5 module for Codeception
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) ([1.0.0](https://github.com/niden-net/niden-net/releases/tag/1.0.0), 3 months ago) - niden.net Blog
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.1](https://github.com/pmjones/AutoShell/releases/tag/1.0.1), 4 months ago)
