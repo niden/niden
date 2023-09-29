@@ -21,7 +21,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3162) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3163) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3162) on [phalcon/docs](https://github.com/phalcon/docs) (2 days ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 - [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
@@ -30,11 +31,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16427 logger interpolation](https://github.com/phalcon/cphalcon/pull/16429) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Logger interpolation](https://github.com/phalcon/phalcon/pull/391) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3157) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3155) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.2](https://github.com/pmjones/AutoShell/releases/tag/1.0.2), 2 days ago)
+- [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.2](https://github.com/pmjones/AutoShell/releases/tag/1.0.2), 3 days ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.3.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.3.1), 2 weeks ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.3.1](https://github.com/phalcon/cphalcon/releases/tag/v5.3.1), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [Codeception/module-phalcon5](https://github.com/Codeception/module-phalcon5) ([v2.0.1](https://github.com/Codeception/module-phalcon5/releases/tag/v2.0.1), 1 month ago) - Phalcon 5 module for Codeception
