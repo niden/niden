@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 week ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
@@ -21,12 +21,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16265 getmessages array](https://github.com/phalcon/cphalcon/pull/16446) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16430 logger interpolation](https://github.com/phalcon/cphalcon/pull/16445) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [T16390 min max validation](https://github.com/phalcon/cphalcon/pull/16444) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3163) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [T16265 getmessages array](https://github.com/phalcon/cphalcon/pull/16446) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [T16430 logger interpolation](https://github.com/phalcon/cphalcon/pull/16445) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [T16390 min max validation](https://github.com/phalcon/cphalcon/pull/16444) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3163) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3162) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 - [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (3 weeks ago)
 - [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3158) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
