@@ -21,20 +21,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16451 dm select](https://github.com/phalcon/cphalcon/pull/16452) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [v2 prep - upgade psr](https://github.com/phalcon/proxy-psr16/pull/4) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (6 days ago)
+- [T16451 dm select](https://github.com/phalcon/cphalcon/pull/16452) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [v2 prep - upgade psr](https://github.com/phalcon/proxy-psr16/pull/4) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 week ago)
 - [T16265 getmessages array](https://github.com/phalcon/cphalcon/pull/16446) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16430 logger interpolation](https://github.com/phalcon/cphalcon/pull/16445) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16390 min max validation](https://github.com/phalcon/cphalcon/pull/16444) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3163) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3162) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3162) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3160) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
 - [v5.3.1](https://github.com/phalcon/ide-stubs/pull/93) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 - [5.3.1 Release](https://github.com/phalcon/cphalcon/pull/16433) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([2.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/2.0.0), 6 days ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
+- [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([2.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/2.0.0), 1 week ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.2](https://github.com/pmjones/AutoShell/releases/tag/1.0.2), 3 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.3.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.3.1), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.3.1](https://github.com/phalcon/cphalcon/releases/tag/v5.3.1), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
