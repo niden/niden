@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (5 days ago)
-- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (5 days ago)
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
+- [phalcon/docs](https://github.com/phalcon/docs) - Phalcon Framework documentation (1 day ago)
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) - Command line arguments/options parser to use in Phalcon applications. (1 week ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [niden-net/niden-net](https://github.com/niden-net/niden-net) - niden.net Blog (1 month ago)
@@ -21,20 +21,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [PSR-12 and PHPCS](https://github.com/zephir-lang/zephir/pull/2420) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3169) on [phalcon/docs](https://github.com/phalcon/docs) (5 days ago)
-- [v2.0.0](https://github.com/phalcon/cli-options-parser/pull/21) on [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) (6 days ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3168) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
-- [T16320 model toarray getter](https://github.com/phalcon/cphalcon/pull/16469) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3171) on [phalcon/docs](https://github.com/phalcon/docs) (1 day ago)
+- [PSR-12 and PHPCS](https://github.com/zephir-lang/zephir/pull/2420) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (3 days ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3169) on [phalcon/docs](https://github.com/phalcon/docs) (6 days ago)
+- [v2.0.0](https://github.com/phalcon/cli-options-parser/pull/21) on [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3168) on [phalcon/docs](https://github.com/phalcon/docs) (1 week ago)
+- [T16320 model toarray getter](https://github.com/phalcon/cphalcon/pull/16469) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16467 column 0 to array](https://github.com/phalcon/cphalcon/pull/16468) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [T401 refactor mvc route](https://github.com/phalcon/phalcon/pull/416) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
+- [T401 refactor mvc route](https://github.com/phalcon/phalcon/pull/416) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [T16461 numericality spaces](https://github.com/phalcon/cphalcon/pull/16462) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3165) on [phalcon/docs](https://github.com/phalcon/docs) (1 month ago)
-- [5.4.0 Release](https://github.com/phalcon/ide-stubs/pull/94) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 6 days ago) - Command line arguments/options parser to use in Phalcon applications.
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 1 week ago) - Command line arguments/options parser to use in Phalcon applications.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.4.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.4.0), 1 month ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.4.0](https://github.com/phalcon/cphalcon/releases/tag/v5.4.0), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([2.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/2.0.0), 1 month ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
