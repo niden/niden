@@ -8,23 +8,23 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 days ago)
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (3 days ago)
-- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (4 days ago)
-- [niden-net/growpotatoes.garden](https://github.com/niden-net/growpotatoes.garden) - GrowPotatoes.Garden website (4 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (6 days ago)
-- [phalcon-orphanage/olddocs](https://github.com/phalcon-orphanage/olddocs) - Repository to hold the old documentation (v2) (6 days ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (6 days ago)
-- [zephir-lang/zephir-docs-app](https://github.com/zephir-lang/zephir-docs-app) - Application powering the Zephir documentation (6 days ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
+- [niden/mkdocs-material](https://github.com/niden/mkdocs-material) - Documentation (1 day ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 days ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (4 days ago)
+- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (5 days ago)
+- [niden-net/growpotatoes.garden](https://github.com/niden-net/growpotatoes.garden) - GrowPotatoes.Garden website (5 days ago)
+- [zephir-lang/zephir-website](https://github.com/zephir-lang/zephir-website) - Zephir - Web site source (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
+- [phalcon-orphanage/olddocs](https://github.com/phalcon-orphanage/olddocs) - Repository to hold the old documentation (v2) (1 week ago)
+- [zephir-lang/zephir-docs-app](https://github.com/zephir-lang/zephir-docs-app) - Application powering the Zephir documentation (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
 - [More PHPCS](https://github.com/zephir-lang/zephir/pull/2421) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3171) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
 - [PSR-12 and PHPCS](https://github.com/zephir-lang/zephir/pull/2420) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/docs/pull/3169) on [phalcon/docs](https://github.com/phalcon/docs) (2 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/docs/pull/3169) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 - [v2.0.0](https://github.com/phalcon/cli-options-parser/pull/21) on [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/docs/pull/3168) on [phalcon/docs](https://github.com/phalcon/docs) (3 weeks ago)
 - [T16320 model toarray getter](https://github.com/phalcon/cphalcon/pull/16469) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
@@ -42,10 +42,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🌱 My latest projects
 
+- [niden/mkdocs-material](https://github.com/niden/mkdocs-material) - Documentation
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions
 - [niden/cardoe](https://github.com/niden/cardoe) - ADR Test Bed
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images
-- [niden/phalcon-angular-harryhogfootball](https://github.com/niden/phalcon-angular-harryhogfootball) - Application written with phalconphp and angularjs to record and display the Kicks and Game balls of Harry Hog Football
 
 
