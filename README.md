@@ -8,12 +8,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (1 day ago)
-- [niden/mkdocs-material](https://github.com/niden/mkdocs-material) - Documentation (1 day ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 days ago)
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (4 days ago)
-- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (5 days ago)
-- [niden-net/growpotatoes.garden](https://github.com/niden-net/growpotatoes.garden) - GrowPotatoes.Garden website (5 days ago)
+- [niden/phalcon-docs](https://github.com/niden/phalcon-docs) (1 day ago)
+- [phalcon/docs-app](https://github.com/phalcon/docs-app) - Official Phalcon documentation website. (2 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (4 days ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (5 days ago)
+- [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (6 days ago)
+- [niden-net/growpotatoes.garden](https://github.com/niden-net/growpotatoes.garden) - GrowPotatoes.Garden website (6 days ago)
 - [zephir-lang/zephir-website](https://github.com/zephir-lang/zephir-website) - Zephir - Web site source (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon-orphanage/olddocs](https://github.com/phalcon-orphanage/olddocs) - Repository to hold the old documentation (v2) (1 week ago)
@@ -42,7 +42,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🌱 My latest projects
 
-- [niden/mkdocs-material](https://github.com/niden/mkdocs-material) - Documentation
+- [niden/phalcon-docs](https://github.com/niden/phalcon-docs)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions
 - [niden/cardoe](https://github.com/niden/cardoe) - ADR Test Bed
