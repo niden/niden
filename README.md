@@ -8,34 +8,34 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (4 days ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (4 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (5 days ago)
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (6 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (5 days ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (5 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (6 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 week ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon-orphanage/docs-app](https://github.com/phalcon-orphanage/docs-app) - Official Phalcon documentation website. (2 weeks ago)
 - [niden-net/dnm.gr](https://github.com/niden-net/dnm.gr) - dnm.gr website (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16474 emulate prepares](https://github.com/phalcon/cphalcon/pull/16486) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [T16471 count orderby](https://github.com/phalcon/cphalcon/pull/16485) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [5.5.0](https://github.com/phalcon/ide-stubs/pull/95) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (5 days ago)
-- [5.5.0](https://github.com/phalcon/cphalcon/pull/16482) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [5.5.0 Prep](https://github.com/phalcon/cphalcon/pull/16479) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/214) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 day ago)
+- [T16474 emulate prepares](https://github.com/phalcon/cphalcon/pull/16486) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [T16471 count orderby](https://github.com/phalcon/cphalcon/pull/16485) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [5.5.0](https://github.com/phalcon/ide-stubs/pull/95) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (6 days ago)
+- [5.5.0](https://github.com/phalcon/cphalcon/pull/16482) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [5.5.0 Prep](https://github.com/phalcon/cphalcon/pull/16479) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [More PHPCS](https://github.com/zephir-lang/zephir/pull/2421) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (3 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon-orphanage/docs/pull/3171) on [phalcon-orphanage/docs](https://github.com/phalcon-orphanage/docs) (1 month ago)
 - [PSR-12 and PHPCS](https://github.com/zephir-lang/zephir/pull/2420) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon-orphanage/docs/pull/3169) on [phalcon-orphanage/docs](https://github.com/phalcon-orphanage/docs) (1 month ago)
-- [v2.0.0](https://github.com/phalcon/cli-options-parser/pull/21) on [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.5.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.5.0), 5 days ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.5.0](https://github.com/phalcon/cphalcon/releases/tag/v5.5.0), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.5.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.5.0), 6 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.5.0](https://github.com/phalcon/cphalcon/releases/tag/v5.5.0), 6 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 1 month ago) - Command line arguments/options parser to use in Phalcon applications.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([2.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/2.0.0), 2 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [pmjones/AutoShell](https://github.com/pmjones/AutoShell) ([1.0.2](https://github.com/pmjones/AutoShell/releases/tag/1.0.2), 3 months ago)
