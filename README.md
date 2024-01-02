@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 days ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (6 days ago)
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (6 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (4 days ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
@@ -21,13 +21,13 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/214) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 days ago)
-- [T16474 emulate prepares](https://github.com/phalcon/cphalcon/pull/16486) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [T16471 count orderby](https://github.com/phalcon/cphalcon/pull/16485) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/214) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 days ago)
+- [T16474 emulate prepares](https://github.com/phalcon/cphalcon/pull/16486) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [T16471 count orderby](https://github.com/phalcon/cphalcon/pull/16485) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.5.0](https://github.com/phalcon/ide-stubs/pull/95) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 - [5.5.0](https://github.com/phalcon/cphalcon/pull/16482) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.5.0 Prep](https://github.com/phalcon/cphalcon/pull/16479) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [More PHPCS](https://github.com/zephir-lang/zephir/pull/2421) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (3 weeks ago)
+- [More PHPCS](https://github.com/zephir-lang/zephir/pull/2421) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (4 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon-orphanage/docs/pull/3171) on [phalcon-orphanage/docs](https://github.com/phalcon-orphanage/docs) (1 month ago)
 - [PSR-12 and PHPCS](https://github.com/zephir-lang/zephir/pull/2420) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon-orphanage/docs/pull/3169) on [phalcon-orphanage/docs](https://github.com/phalcon-orphanage/docs) (1 month ago)
