@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 week ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/214) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (6 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/214) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [T16474 emulate prepares](https://github.com/phalcon/cphalcon/pull/16486) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16471 count orderby](https://github.com/phalcon/cphalcon/pull/16485) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.5.0](https://github.com/phalcon/ide-stubs/pull/95) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
