@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (3 days ago)
+- [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (4 days ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 week ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 week ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (1 week ago)
