@@ -8,36 +8,36 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 day ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (2 weeks ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (3 weeks ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (3 weeks ago)
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) - Phalcon Tutorial (3 weeks ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 month ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 month ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [5.6.1](https://github.com/phalcon/ide-stubs/pull/97) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 day ago)
+- [5.6.1 Release](https://github.com/phalcon/cphalcon/pull/16527) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [5.6.1 Prep](https://github.com/phalcon/cphalcon/pull/16526) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16263 deprecation warnings](https://github.com/phalcon/cphalcon/pull/16525) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Rework of tests; new interface](https://github.com/phalcon/proxy-psr3/pull/4) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (3 weeks ago)
 - [T16514 find with source](https://github.com/phalcon/cphalcon/pull/16516) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [Integrating Qodana](https://github.com/phalcon/proxy-psr16/pull/8) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (3 weeks ago)
 - [PHP 8.3 upgrade](https://github.com/phalcon/proxy-psr16/pull/7) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (3 weeks ago)
 - [v5.6.0 ](https://github.com/phalcon/tutorial/pull/15) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (3 weeks ago)
-- [T16371 postgres fix](https://github.com/phalcon/cphalcon/pull/16509) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [Revert &#34;T16371 postgres fix&#34;](https://github.com/phalcon/cphalcon/pull/16508) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [T16371 postgres fix](https://github.com/phalcon/cphalcon/pull/16507) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [5.6.0](https://github.com/phalcon/ide-stubs/pull/96) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.6.1](https://github.com/phalcon/ide-stubs/releases/tag/v5.6.1), 1 day ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.6.1](https://github.com/phalcon/cphalcon/releases/tag/v5.6.1), 1 day ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 3 weeks ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 3 weeks ago) - Phalcon Tutorial
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.6.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.6.0), 1 month ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.6.0](https://github.com/phalcon/cphalcon/releases/tag/v5.6.0), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 2 months ago) - Command line arguments/options parser to use in Phalcon applications.
 
 #### 🌱 My latest projects
