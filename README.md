@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 day ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 days ago)
+- [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (2 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (3 weeks ago)
