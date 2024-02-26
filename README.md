@@ -25,7 +25,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.6.1 Release](https://github.com/phalcon/cphalcon/pull/16527) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.6.1 Prep](https://github.com/phalcon/cphalcon/pull/16526) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16263 deprecation warnings](https://github.com/phalcon/cphalcon/pull/16525) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
+- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [Rework of tests; new interface](https://github.com/phalcon/proxy-psr3/pull/4) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (1 month ago)
 - [T16514 find with source](https://github.com/phalcon/cphalcon/pull/16516) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Integrating Qodana](https://github.com/phalcon/proxy-psr16/pull/8) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 month ago)
