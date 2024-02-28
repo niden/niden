@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 day ago)
 - [phalcon/awesome-phalcon](https://github.com/phalcon/awesome-phalcon) - A curated list of awesome Phalcon libraries and resources (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) - Package to offer PSR-3 (Logger) compatibility with Phalcon classes from the PHP userland (1 month ago)
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland (1 month ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 month ago)
@@ -25,7 +25,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.6.1 Release](https://github.com/phalcon/cphalcon/pull/16527) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.6.1 Prep](https://github.com/phalcon/cphalcon/pull/16526) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16263 deprecation warnings](https://github.com/phalcon/cphalcon/pull/16525) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Rework of tests; new interface](https://github.com/phalcon/proxy-psr3/pull/4) on [phalcon/proxy-psr3](https://github.com/phalcon/proxy-psr3) (1 month ago)
 - [T16514 find with source](https://github.com/phalcon/cphalcon/pull/16516) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Integrating Qodana](https://github.com/phalcon/proxy-psr16/pull/8) on [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) (1 month ago)
