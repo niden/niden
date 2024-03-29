@@ -30,7 +30,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.6.1 Release](https://github.com/phalcon/cphalcon/pull/16527) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [5.6.1 Prep](https://github.com/phalcon/cphalcon/pull/16526) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16263 deprecation warnings](https://github.com/phalcon/cphalcon/pull/16525) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
-- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [Aligning Changelog](https://github.com/phalcon/cphalcon/pull/16521) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
