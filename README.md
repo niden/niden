@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 day ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (5 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 week ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 month ago)
@@ -21,24 +21,24 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [5.7.0 stubs](https://github.com/phalcon/ide-stubs/pull/100) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 day ago)
-- [Update main.yml](https://github.com/phalcon/cphalcon/pull/16588) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [5.7.0](https://github.com/phalcon/cphalcon/pull/16586) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [5.7.0 prep](https://github.com/phalcon/cphalcon/pull/16585) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16582 boolval sanitize](https://github.com/phalcon/cphalcon/pull/16584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [corrected constants; adjusted test](https://github.com/phalcon/cphalcon/pull/16595) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [5.7.0 stubs](https://github.com/phalcon/ide-stubs/pull/100) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 days ago)
+- [Update main.yml](https://github.com/phalcon/cphalcon/pull/16588) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [5.7.0](https://github.com/phalcon/cphalcon/pull/16586) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [5.7.0 prep](https://github.com/phalcon/cphalcon/pull/16585) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [T16582 boolval sanitize](https://github.com/phalcon/cphalcon/pull/16584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
 - [T16571 helperfactory mapper](https://github.com/phalcon/cphalcon/pull/16574) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [T16532 column corrections](https://github.com/phalcon/cphalcon/pull/16564) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Revert &#34;T16532 column corrections&#34;](https://github.com/phalcon/cphalcon/pull/16563) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16532 column corrections](https://github.com/phalcon/cphalcon/pull/16562) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
-- [T16560 min max validator](https://github.com/phalcon/cphalcon/pull/16561) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.7.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.7.0), 1 day ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.7.0](https://github.com/phalcon/cphalcon/releases/tag/v5.7.0), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.7.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.7.0), 2 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.7.0](https://github.com/phalcon/cphalcon/releases/tag/v5.7.0), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 4 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 4 months ago) - Phalcon Tutorial
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 5 months ago) - Command line arguments/options parser to use in Phalcon applications.
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 6 months ago) - Command line arguments/options parser to use in Phalcon applications.
 
 #### 🌱 My latest projects
 
