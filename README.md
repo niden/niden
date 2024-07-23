@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (4 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
@@ -21,10 +21,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [update on 5.8](https://github.com/phalcon/ide-stubs/pull/102) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (4 days ago)
-- [5.8.0 Release](https://github.com/phalcon/cphalcon/pull/16623) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [V5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16622) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16621) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [update on 5.8](https://github.com/phalcon/ide-stubs/pull/102) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (5 days ago)
+- [5.8.0 Release](https://github.com/phalcon/cphalcon/pull/16623) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
+- [V5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16622) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
+- [5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16621) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Fixing tests and interfaces](https://github.com/phalcon/phalcon/pull/495) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [T16608 compiler compilesource](https://github.com/phalcon/cphalcon/pull/16609) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16601 gethostname](https://github.com/phalcon/cphalcon/pull/16602) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 4 days ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 5 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 6 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 6 months ago) - Phalcon Tutorial
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 8 months ago) - Command line arguments/options parser to use in Phalcon applications.
