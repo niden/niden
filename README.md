@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5 days ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
@@ -21,16 +21,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
-- [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
-- [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (5 days ago)
+- [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [T29 mvc](https://github.com/phalcon/phalcon/pull/501) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [T29 mvc](https://github.com/phalcon/phalcon/pull/500) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [update on 5.8](https://github.com/phalcon/ide-stubs/pull/102) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 - [5.8.0 Release](https://github.com/phalcon/cphalcon/pull/16623) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [V5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16622) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [5.8.0 prep](https://github.com/phalcon/cphalcon/pull/16621) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [Fixing tests and interfaces](https://github.com/phalcon/phalcon/pull/495) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
