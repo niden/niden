@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 weeks ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 month ago)
 - [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 months ago)
@@ -21,8 +21,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
 - [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (1 week ago)
 - [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
