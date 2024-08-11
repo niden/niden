@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (1 week ago)
 - [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
@@ -37,7 +37,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 3 weeks ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 1 month ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 6 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
-- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 6 months ago) - Phalcon Tutorial
+- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 7 months ago) - Phalcon Tutorial
 - [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 8 months ago) - Command line arguments/options parser to use in Phalcon applications.
 
 #### 🌱 My latest projects
