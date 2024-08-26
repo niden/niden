@@ -28,7 +28,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (3 weeks ago)
 - [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
+- [T30 Paginator and Mvc/View](https://github.com/phalcon/phalcon/pull/505) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
 - [T29 mvc](https://github.com/phalcon/phalcon/pull/501) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [T29 mvc](https://github.com/phalcon/phalcon/pull/500) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 
