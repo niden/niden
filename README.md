@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
+- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 month ago)
@@ -21,12 +21,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
+- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
 - [T16634 docblock reference](https://github.com/phalcon/cphalcon/pull/16635) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [Optimizations](https://github.com/phalcon/phalcon/pull/512) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [phpunit tests](https://github.com/phalcon/phalcon/pull/510) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [Unit tests with phunit](https://github.com/phalcon/phalcon/pull/508) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [Tests, CI, PDS](https://github.com/phalcon/volt/pull/1) on [phalcon/volt](https://github.com/phalcon/volt) (1 month ago)
 - [T49 container](https://github.com/phalcon/phalcon/pull/507) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
