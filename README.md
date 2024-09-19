@@ -38,7 +38,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 8 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
 - [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.6.x](https://github.com/phalcon/tutorial/releases/tag/5.6.x), 8 months ago) - Phalcon Tutorial
-- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 9 months ago) - Command line arguments/options parser to use in Phalcon applications.
+- [phalcon/cli-options-parser](https://github.com/phalcon/cli-options-parser) ([v2.0.0](https://github.com/phalcon/cli-options-parser/releases/tag/v2.0.0), 10 months ago) - Command line arguments/options parser to use in Phalcon applications.
 
 #### 🌱 My latest projects
 
