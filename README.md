@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (2 weeks ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [T16634 docblock reference](https://github.com/phalcon/cphalcon/pull/16635) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
