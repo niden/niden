@@ -23,7 +23,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
+- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [T16634 docblock reference](https://github.com/phalcon/cphalcon/pull/16635) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Optimizations](https://github.com/phalcon/phalcon/pull/512) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
