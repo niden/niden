@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 day ago)
+- [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (2 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (3 weeks ago)
+- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (4 weeks ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 months ago)
@@ -22,8 +22,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 🔨 Latest Pull Requests I published
 
 - [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [T16634 docblock reference](https://github.com/phalcon/cphalcon/pull/16635) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Optimizations](https://github.com/phalcon/phalcon/pull/512) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [Quality fixes](https://github.com/phalcon/phalcon/pull/511) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
@@ -34,7 +34,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.18.0](https://github.com/zephir-lang/zephir/releases/tag/0.18.0), 1 day ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.18.0](https://github.com/zephir-lang/zephir/releases/tag/0.18.0), 2 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 2 months ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/proxy-psr16](https://github.com/phalcon/proxy-psr16) ([3.0.0](https://github.com/phalcon/proxy-psr16/releases/tag/3.0.0), 8 months ago) - Package to offer PSR-16 (Cache) compatibility with Phalcon classes from the PHP userland
