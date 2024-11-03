@@ -11,7 +11,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (4 weeks ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 month ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (1 month ago)
+- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (2 months ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3 months ago)
@@ -21,10 +21,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/235) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (5 days ago)
-- [T16658 watermark](https://github.com/phalcon/cphalcon/pull/16659) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/235) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (6 days ago)
+- [T16658 watermark](https://github.com/phalcon/cphalcon/pull/16659) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
-- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [changing the mb_strlen to strlen](https://github.com/phalcon/cphalcon/pull/16643) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [Update README.md](https://github.com/phalcon/phalcon/pull/520) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 months ago)
 - [T16634 docblock reference](https://github.com/phalcon/cphalcon/pull/16635) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [Optimizations](https://github.com/phalcon/phalcon/pull/512) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 months ago)
