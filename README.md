@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 month ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (1 month ago)
 - [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (2 months ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Corrections; Code coverage](https://github.com/phalcon/volt/pull/24) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
-- [Fixing tests](https://github.com/phalcon/phalcon/pull/548) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
-- [moved optional parameter to the end](https://github.com/phalcon/volt/pull/23) on [phalcon/volt](https://github.com/phalcon/volt) (6 days ago)
+- [Corrections; Code coverage](https://github.com/phalcon/volt/pull/24) on [phalcon/volt](https://github.com/phalcon/volt) (5 days ago)
+- [Fixing tests](https://github.com/phalcon/phalcon/pull/548) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [moved optional parameter to the end](https://github.com/phalcon/volt/pull/23) on [phalcon/volt](https://github.com/phalcon/volt) (1 week ago)
 - [Dm statement refactor](https://github.com/phalcon/phalcon/pull/546) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/235) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 weeks ago)
 - [T16658 watermark](https://github.com/phalcon/cphalcon/pull/16659) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
