@@ -16,12 +16,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (3 months ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 months ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (4 months ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 months ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (5 months ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add remove behavior method to model manager](https://github.com/phalcon/phalcon/pull/555) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [Add remove behavior method to model manager](https://github.com/phalcon/phalcon/pull/555) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
 - [Corrections; Code coverage](https://github.com/phalcon/volt/pull/24) on [phalcon/volt](https://github.com/phalcon/volt) (2 weeks ago)
 - [Fixing tests](https://github.com/phalcon/phalcon/pull/548) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [moved optional parameter to the end](https://github.com/phalcon/volt/pull/23) on [phalcon/volt](https://github.com/phalcon/volt) (2 weeks ago)
