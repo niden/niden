@@ -25,7 +25,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Corrections; Code coverage](https://github.com/phalcon/volt/pull/24) on [phalcon/volt](https://github.com/phalcon/volt) (3 weeks ago)
 - [Fixing tests](https://github.com/phalcon/phalcon/pull/548) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [moved optional parameter to the end](https://github.com/phalcon/volt/pull/23) on [phalcon/volt](https://github.com/phalcon/volt) (3 weeks ago)
-- [Dm statement refactor](https://github.com/phalcon/phalcon/pull/546) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [Dm statement refactor](https://github.com/phalcon/phalcon/pull/546) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/235) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 month ago)
 - [T16658 watermark](https://github.com/phalcon/cphalcon/pull/16659) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [Fixing composer](https://github.com/phalcon/phalcon/pull/523) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 months ago)
