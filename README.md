@@ -21,8 +21,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (4 days ago)
-- [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (5 days ago)
+- [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
 - [Align develop with master](https://github.com/phalcon/traits/pull/47) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
 - [Aligning with master](https://github.com/phalcon/traits/pull/46) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
@@ -37,7 +37,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/traits](https://github.com/phalcon/traits) ([2.0.4](https://github.com/phalcon/traits/releases/tag/2.0.4), 2 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) ([v1](https://github.com/niden-net/heylorinvestments.com/releases/tag/v1), 3 weeks ago) - heylorinvestments.com website
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.18.0](https://github.com/zephir-lang/zephir/releases/tag/0.18.0), 3 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 5 months ago) - Phalcon IDE Stubs
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 6 months ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 6 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 
 #### 🌱 My latest projects
