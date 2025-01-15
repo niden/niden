@@ -11,17 +11,17 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2 weeks ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) - heylorinvestments.com website (3 weeks ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 month ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (3 months ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (3 months ago)
 - [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (4 months ago)
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (4 months ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (6 days ago)
 - [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
 - [Align develop with master](https://github.com/phalcon/traits/pull/47) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
