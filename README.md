@@ -8,33 +8,33 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2 weeks ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (3 weeks ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) - heylorinvestments.com website (4 weeks ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 months ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (3 months ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (3 months ago)
-- [phalcon/annotations](https://github.com/phalcon/annotations) - Phalon Annotations parser (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (today)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
-- [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [Align develop with master](https://github.com/phalcon/traits/pull/47) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [Aligning with master](https://github.com/phalcon/traits/pull/46) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [aligning with master; updates for new release](https://github.com/phalcon/traits/pull/45) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [Prep release](https://github.com/phalcon/traits/pull/44) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [Changelog, badges](https://github.com/phalcon/traits/pull/43) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [PHPStan](https://github.com/phalcon/traits/pull/42) on [phalcon/traits](https://github.com/phalcon/traits) (2 weeks ago)
-- [Add remove behavior method to model manager](https://github.com/phalcon/phalcon/pull/555) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
+- [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [Align develop with master](https://github.com/phalcon/traits/pull/47) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [Aligning with master](https://github.com/phalcon/traits/pull/46) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [aligning with master; updates for new release](https://github.com/phalcon/traits/pull/45) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [Prep release](https://github.com/phalcon/traits/pull/44) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [Changelog, badges](https://github.com/phalcon/traits/pull/43) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
+- [PHPStan](https://github.com/phalcon/traits/pull/42) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.4](https://github.com/phalcon/traits/releases/tag/2.0.4), 2 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [phalcon/traits](https://github.com/phalcon/traits) ([2.0.4](https://github.com/phalcon/traits/releases/tag/2.0.4), 3 weeks ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) ([v1](https://github.com/niden-net/heylorinvestments.com/releases/tag/v1), 4 weeks ago) - heylorinvestments.com website
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.18.0](https://github.com/zephir-lang/zephir/releases/tag/0.18.0), 3 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 6 months ago) - Phalcon IDE Stubs
