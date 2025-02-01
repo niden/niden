@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 week ago)
+- [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 weeks ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 weeks ago)
 - [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
