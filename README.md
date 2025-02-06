@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 month ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) - heylorinvestments.com website (1 month ago)
@@ -21,8 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Dm info [#181]](https://github.com/phalcon/phalcon/pull/573) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
 - [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (4 weeks ago)
 - [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [typos in changelog](https://github.com/phalcon/traits/pull/48) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
 - [Align develop with master](https://github.com/phalcon/traits/pull/47) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [aligning with master; updates for new release](https://github.com/phalcon/traits/pull/45) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
 - [Prep release](https://github.com/phalcon/traits/pull/44) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
 - [Changelog, badges](https://github.com/phalcon/traits/pull/43) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
-- [PHPStan](https://github.com/phalcon/traits/pull/42) on [phalcon/traits](https://github.com/phalcon/traits) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
