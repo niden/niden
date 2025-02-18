@@ -8,22 +8,22 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (6 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
-- [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) - heylorinvestments.com website (1 month ago)
+- [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) - heylorinvestments.com website (2 months ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3 months ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (4 months ago)
 - [zephir-lang/documentation](https://github.com/zephir-lang/documentation) - Zephir Documentation (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix factories](https://github.com/phalcon/phalcon/pull/579) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
-- [fixing deprecations for PHP 8.4](https://github.com/phalcon/traits/pull/50) on [phalcon/traits](https://github.com/phalcon/traits) (6 days ago)
-- [3.0.0 Version](https://github.com/phalcon/traits/pull/49) on [phalcon/traits](https://github.com/phalcon/traits) (6 days ago)
+- [Fix factories](https://github.com/phalcon/phalcon/pull/579) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [fixing deprecations for PHP 8.4](https://github.com/phalcon/traits/pull/50) on [phalcon/traits](https://github.com/phalcon/traits) (1 week ago)
+- [3.0.0 Version](https://github.com/phalcon/traits/pull/49) on [phalcon/traits](https://github.com/phalcon/traits) (1 week ago)
 - [T180 dm table gateway](https://github.com/phalcon/phalcon/pull/578) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [Dm info [#181]](https://github.com/phalcon/phalcon/pull/573) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 month ago)
@@ -34,8 +34,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/traits](https://github.com/phalcon/traits) ([3.0.0](https://github.com/phalcon/traits/releases/tag/3.0.0), 6 days ago) - Traits used primarily in the v6 package but also available as a helper package for applications
-- [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) ([v1](https://github.com/niden-net/heylorinvestments.com/releases/tag/v1), 1 month ago) - heylorinvestments.com website
+- [phalcon/traits](https://github.com/phalcon/traits) ([3.0.0](https://github.com/phalcon/traits/releases/tag/3.0.0), 1 week ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) ([v1](https://github.com/niden-net/heylorinvestments.com/releases/tag/v1), 2 months ago) - heylorinvestments.com website
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.18.0](https://github.com/zephir-lang/zephir/releases/tag/0.18.0), 4 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.8.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.8.0), 7 months ago) - Phalcon IDE Stubs
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.8.0](https://github.com/phalcon/cphalcon/releases/tag/v5.8.0), 7 months ago) - High performance, full-stack PHP framework delivered as a C extension.
