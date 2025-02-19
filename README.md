@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
@@ -25,7 +25,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [fixing deprecations for PHP 8.4](https://github.com/phalcon/traits/pull/50) on [phalcon/traits](https://github.com/phalcon/traits) (1 week ago)
 - [3.0.0 Version](https://github.com/phalcon/traits/pull/49) on [phalcon/traits](https://github.com/phalcon/traits) (1 week ago)
 - [T180 dm table gateway](https://github.com/phalcon/phalcon/pull/578) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
-- [Dm info [#181]](https://github.com/phalcon/phalcon/pull/573) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [Dm info [#181]](https://github.com/phalcon/phalcon/pull/573) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [Macos upgrade for GitHub Actions](https://github.com/zephir-lang/zephir/pull/2446) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/287) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 month ago)
 - [Phpstan fixes](https://github.com/phalcon/phalcon/pull/563) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
