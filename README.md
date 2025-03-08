@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (3 days ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 weeks ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (3 weeks ago)
@@ -21,16 +21,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16696 cache lifetime](https://github.com/phalcon/cphalcon/pull/16714) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16696 models cache lifetime](https://github.com/phalcon/phalcon/pull/597) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [T16711 redis ssl](https://github.com/phalcon/cphalcon/pull/16712) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [T16711 redis ssl](https://github.com/phalcon/phalcon/pull/596) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [5.9.0 prep](https://github.com/phalcon/cphalcon/pull/16716) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16713 gc iterable](https://github.com/phalcon/cphalcon/pull/16715) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16713 gc iterable](https://github.com/phalcon/phalcon/pull/598) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [T16696 cache lifetime](https://github.com/phalcon/cphalcon/pull/16714) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T16696 models cache lifetime](https://github.com/phalcon/phalcon/pull/597) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [T16711 redis ssl](https://github.com/phalcon/cphalcon/pull/16712) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [T16711 redis ssl](https://github.com/phalcon/phalcon/pull/596) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
 - [T16689 redis hash](https://github.com/phalcon/cphalcon/pull/16706) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16689 redis hash](https://github.com/phalcon/phalcon/pull/592) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [Fix factories](https://github.com/phalcon/phalcon/pull/579) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [fixing deprecations for PHP 8.4](https://github.com/phalcon/traits/pull/50) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
-- [3.0.0 Version](https://github.com/phalcon/traits/pull/49) on [phalcon/traits](https://github.com/phalcon/traits) (3 weeks ago)
-- [T180 dm table gateway](https://github.com/phalcon/phalcon/pull/578) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
