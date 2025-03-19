@@ -8,12 +8,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 week ago)
+- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 weeks ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
 - [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1 month ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 months ago)
@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [T602 breadcrumbs](https://github.com/phalcon/phalcon/pull/605) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
 - [5.9.0 Release](https://github.com/phalcon/ide-stubs/pull/109) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
 - [5.9.0 prep 2](https://github.com/phalcon/cphalcon/pull/16720) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.9.0 Release](https://github.com/phalcon/cphalcon/pull/16719) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.9.0 prep](https://github.com/phalcon/cphalcon/pull/16716) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16713 gc iterable](https://github.com/phalcon/cphalcon/pull/16715) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16713 gc iterable](https://github.com/phalcon/phalcon/pull/598) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
-- [T16696 cache lifetime](https://github.com/phalcon/cphalcon/pull/16714) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
