@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
-- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (5 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (5 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (6 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -21,8 +21,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Phpstan fixes](https://github.com/phalcon/phalcon/pull/606) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
-- [T602 breadcrumbs](https://github.com/phalcon/phalcon/pull/605) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [Phpstan fixes](https://github.com/phalcon/phalcon/pull/606) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
+- [T602 breadcrumbs](https://github.com/phalcon/phalcon/pull/605) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [5.9.0 Release](https://github.com/phalcon/ide-stubs/pull/109) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (2 weeks ago)
 - [5.9.0 prep 2](https://github.com/phalcon/cphalcon/pull/16720) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.9.0 Release](https://github.com/phalcon/cphalcon/pull/16719) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
