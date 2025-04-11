@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phql](https://github.com/phalcon/phql) (5 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/phql](https://github.com/phalcon/phql) (6 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (5 days ago)
-- [T16741 router uri with numbers colons](https://github.com/phalcon/phalcon/pull/615) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
+- [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (6 days ago)
+- [T16741 router uri with numbers colons](https://github.com/phalcon/phalcon/pull/615) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
 - [5.9.2 release](https://github.com/phalcon/cphalcon/pull/16739) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.9.2 prep](https://github.com/phalcon/cphalcon/pull/16738) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.9.1 release](https://github.com/phalcon/ide-stubs/pull/110) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 week ago)
