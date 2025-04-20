@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [5.9.3 prep](https://github.com/phalcon/cphalcon/pull/16756) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (2 weeks ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/phalcon/pull/615) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
@@ -30,7 +31,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Changing build extension php to 8.4](https://github.com/phalcon/cphalcon/pull/16731) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.9.1 Release](https://github.com/phalcon/cphalcon/pull/16730) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [5.9.1 Prep](https://github.com/phalcon/cphalcon/pull/16729) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [Phpstan fixes](https://github.com/phalcon/phalcon/pull/606) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
