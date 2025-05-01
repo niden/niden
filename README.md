@@ -28,9 +28,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
 - [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (3 weeks ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/phalcon/pull/615) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [5.9.2 release](https://github.com/phalcon/cphalcon/pull/16739) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [5.9.2 prep](https://github.com/phalcon/cphalcon/pull/16738) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
-- [5.9.1 release](https://github.com/phalcon/ide-stubs/pull/110) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (4 weeks ago)
+- [5.9.2 release](https://github.com/phalcon/cphalcon/pull/16739) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [5.9.2 prep](https://github.com/phalcon/cphalcon/pull/16738) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [5.9.1 release](https://github.com/phalcon/ide-stubs/pull/110) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
