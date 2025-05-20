@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 weeks ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 weeks ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (4 weeks ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (4 weeks ago)
 - [phalcon/phql](https://github.com/phalcon/phql) (1 month ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
 - [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (2 months ago)
@@ -21,10 +21,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
-- [5.9.3 stubs](https://github.com/phalcon/ide-stubs/pull/112) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (3 weeks ago)
-- [Fixing GA runs](https://github.com/phalcon/cphalcon/pull/16760) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 weeks ago)
+- [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
+- [5.9.3 stubs](https://github.com/phalcon/ide-stubs/pull/112) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (4 weeks ago)
+- [Fixing GA runs](https://github.com/phalcon/cphalcon/pull/16760) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [v5.9.3](https://github.com/phalcon/cphalcon/pull/16758) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
 - [5.9.3 prep](https://github.com/phalcon/cphalcon/pull/16756) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
@@ -34,9 +34,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.19.0](https://github.com/zephir-lang/zephir/releases/tag/0.19.0), 6 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.9.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.9.3), 3 weeks ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.9.3](https://github.com/phalcon/cphalcon/releases/tag/v5.9.3), 3 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.19.0](https://github.com/zephir-lang/zephir/releases/tag/0.19.0), 1 week ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.9.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.9.3), 4 weeks ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.9.3](https://github.com/phalcon/cphalcon/releases/tag/v5.9.3), 4 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [phalcon/traits](https://github.com/phalcon/traits) ([3.0.0](https://github.com/phalcon/traits/releases/tag/3.0.0), 3 months ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 - [niden-net/heylorinvestments.com](https://github.com/niden-net/heylorinvestments.com) ([v1](https://github.com/niden-net/heylorinvestments.com/releases/tag/v1), 5 months ago) - heylorinvestments.com website
 
