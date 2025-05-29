@@ -8,21 +8,21 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (1 day ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 month ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 month ago)
 - [phalcon/phql](https://github.com/phalcon/phql) (1 month ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 month ago)
-- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (2 months ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 months ago)
+- [phalcon/builtwith](https://github.com/phalcon/builtwith) - Websites built with Phalcon (2 months ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 months ago)
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
 - [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
-- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [5.9.3 stubs](https://github.com/phalcon/ide-stubs/pull/112) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 - [Fixing GA runs](https://github.com/phalcon/cphalcon/pull/16760) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [v5.9.3](https://github.com/phalcon/cphalcon/pull/16758) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
