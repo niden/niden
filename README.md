@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (4 days ago)
+- [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (5 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 month ago)
@@ -30,7 +30,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (1 month ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/phalcon/pull/615) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
-- [5.9.2 release](https://github.com/phalcon/cphalcon/pull/16739) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [5.9.2 release](https://github.com/phalcon/cphalcon/pull/16739) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
