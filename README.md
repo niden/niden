@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (4 days ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (5 days ago)
+- [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (5 days ago)
+- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (6 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
@@ -24,7 +24,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [enable 8.4 DLLs](https://github.com/phalcon/cphalcon/pull/16771) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Docker related work](https://github.com/phalcon/cphalcon/pull/16770) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [Fix transaction event trigger order](https://github.com/phalcon/phalcon/pull/628) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [5.9.3 stubs](https://github.com/phalcon/ide-stubs/pull/112) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (1 month ago)
 - [Fixing GA runs](https://github.com/phalcon/cphalcon/pull/16760) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [v5.9.3](https://github.com/phalcon/cphalcon/pull/16758) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
