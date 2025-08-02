@@ -17,7 +17,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 months ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 months ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (3 months ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 months ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
