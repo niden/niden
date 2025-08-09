@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
 - [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (2 months ago)
