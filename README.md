@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
 - [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (2 months ago)
@@ -21,6 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Changes for Atlas.Pdo to work with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (1 day ago)
 - [enable 8.4 DLLs](https://github.com/phalcon/cphalcon/pull/16771) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [Docker related work](https://github.com/phalcon/cphalcon/pull/16770) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
 - [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 months ago)
@@ -28,9 +29,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.9.3 stubs](https://github.com/phalcon/ide-stubs/pull/112) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (3 months ago)
 - [Fixing GA runs](https://github.com/phalcon/cphalcon/pull/16760) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
 - [v5.9.3](https://github.com/phalcon/cphalcon/pull/16758) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
-- [5.9.3 prep](https://github.com/phalcon/cphalcon/pull/16756) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
+- [5.9.3 prep](https://github.com/phalcon/cphalcon/pull/16756) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 months ago)
 - [T16741 router uri with numbers colons](https://github.com/phalcon/cphalcon/pull/16745) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 months ago)
-- [initial formatting and corrections](https://github.com/phalcon/phql/pull/1) on [phalcon/phql](https://github.com/phalcon/phql) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
