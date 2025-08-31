@@ -8,29 +8,29 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (4 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (5 days ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 week ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (1 month ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (2 months ago)
 - [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (2 months ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 months ago)
 - [phalcon/incubator-logger](https://github.com/phalcon/incubator-logger) - Extended Adapters for Phalcon Framework Logger component. (3 months ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 days ago)
-- [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 days ago)
-- [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 days ago)
-- [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (1 week ago)
-- [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (1 week ago)
-- [Changes for Atlas.Pdo to work with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (2 weeks ago)
-- [enable 8.4 DLLs](https://github.com/phalcon/cphalcon/pull/16771) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
-- [Docker related work](https://github.com/phalcon/cphalcon/pull/16770) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 months ago)
-- [Alignment with cphalcon](https://github.com/phalcon/phalcon/pull/629) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 months ago)
+- [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (1 day ago)
+- [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
+- [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 days ago)
+- [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
+- [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
+- [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (2 weeks ago)
+- [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (2 weeks ago)
+- [Upgrades to typehints and PHP 8.4 method signatures](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (2 weeks ago)
+- [enable 8.4 DLLs](https://github.com/phalcon/cphalcon/pull/16771) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
+- [Docker related work](https://github.com/phalcon/cphalcon/pull/16770) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
