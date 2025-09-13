@@ -10,7 +10,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (1 week ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (1 week ago)
-- [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) - Provides Connection and ConnectionLocator functionality. (1 week ago)
+- [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) - Provides Connection and ConnectionLocator functionality. (2 weeks ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 weeks ago)
@@ -23,14 +23,14 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [Adjusments to run Atlas.Query with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/21) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (1 week ago)
 - [Adjusments to run Atlas.Statement with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/6) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (1 week ago)
-- [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (1 week ago)
+- [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (2 weeks ago)
 - [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (3 weeks ago)
 - [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (3 weeks ago)
-- [Upgrades to typehints and PHP 8.4 method signatures](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (3 weeks ago)
+- [Upgrades to typehints and PHP 8.4 method signatures](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
