@@ -28,8 +28,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
-- [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (3 weeks ago)
-- [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (3 weeks ago)
+- [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (4 weeks ago)
+- [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (4 weeks ago)
 - [Upgrades to typehints and PHP 8.4 method signatures](https://github.com/atlasphp/Atlas.Pdo/pull/18) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
