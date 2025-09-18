@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (3 days ago)
 - [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (2 weeks ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (2 weeks ago)
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) - Provides Connection and ConnectionLocator functionality. (2 weeks ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 days ago)
+- [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 days ago)
 - [Adjusments to run Atlas.Query with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/21) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (2 weeks ago)
 - [Adjusments to run Atlas.Statement with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/6) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (2 weeks ago)
 - [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (2 weeks ago)
