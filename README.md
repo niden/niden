@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 week ago)
 - [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (3 weeks ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (3 weeks ago)
@@ -27,14 +27,14 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (3 weeks ago)
 - [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
 - [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
-- [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
-- [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
+- [T9 docker compose](https://github.com/phalcon/rest-api-v6/pull/10) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
+- [T2 composer setup](https://github.com/phalcon/rest-api-v6/pull/8) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
 - [Changes for Atlas.Query to work with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/19) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (1 month ago)
 - [Changes for Atlas.Statement to work with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/4) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 2 weeks ago) - Query statement builders.
+- [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 3 weeks ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 3 weeks ago) - Provides Connection and ConnectionLocator functionality.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 2 months ago) - Send mail with Phalcon
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.19.0](https://github.com/zephir-lang/zephir/releases/tag/0.19.0), 4 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
