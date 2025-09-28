@@ -8,16 +8,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 week ago)
-- [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (3 weeks ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (3 weeks ago)
+- [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (3 weeks ago)
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) - Provides Connection and ConnectionLocator functionality. (4 weeks ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (4 weeks ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 month ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (1 month ago)
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (2 months ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (3 months ago)
-- [phalcon/license](https://github.com/phalcon/license) - The content of license.phalcon.io (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
