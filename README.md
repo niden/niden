@@ -9,8 +9,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 days ago)
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (5 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 week ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (2 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (1 month ago)
@@ -21,10 +21,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Added claim validation for JWT](https://github.com/phalcon/phalcon/pull/680) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
-- [Catching up with the tests video #6](https://github.com/phalcon/rest-api-v6/pull/14) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (6 days ago)
+- [Added claim validation for JWT](https://github.com/phalcon/phalcon/pull/680) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
+- [Catching up with the tests video #6](https://github.com/phalcon/rest-api-v6/pull/14) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Catching up with the tests video #5](https://github.com/phalcon/rest-api-v6/pull/13) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
-- [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
+- [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Adjusments to run Atlas.Query with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/21) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (1 month ago)
 - [Adjusments to run Atlas.Statement with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/6) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (1 month ago)
 - [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (1 month ago)
