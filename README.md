@@ -24,13 +24,13 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Video #7](https://github.com/phalcon/rest-api-v6/pull/15) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Added claim validation for JWT](https://github.com/phalcon/phalcon/pull/680) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [Catching up with the tests video #6](https://github.com/phalcon/rest-api-v6/pull/14) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
-- [Catching up with the tests video #5](https://github.com/phalcon/rest-api-v6/pull/13) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
+- [Catching up with the tests video #5](https://github.com/phalcon/rest-api-v6/pull/13) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
 - [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Adjusments to run Atlas.Query with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/21) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (1 month ago)
 - [Adjusments to run Atlas.Statement with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/6) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (1 month ago)
 - [Adjusments to run Atlas.Pdo with PHP 8.4](https://github.com/atlasphp/Atlas.Pdo/pull/19) on [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) (1 month ago)
-- [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
-- [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
+- [Container/env reading from global ENV](https://github.com/phalcon/phalcon/pull/662) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 months ago)
+- [T4 container](https://github.com/phalcon/rest-api-v6/pull/11) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
