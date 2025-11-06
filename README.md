@@ -8,20 +8,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
-- [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (2 months ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (2 months ago)
+- [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) - Query builders for Atlas.Pdo connections. (2 months ago)
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) - Provides Connection and ConnectionLocator functionality. (2 months ago)
 - [niden/docker-files](https://github.com/niden/docker-files) - Collection of various Dockerfile files for my images (2 months ago)
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) - Send mail with Phalcon (4 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (6 days ago)
+- [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (1 week ago)
 - [README update](https://github.com/phalcon/rest-api-v6/pull/17) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #8](https://github.com/phalcon/rest-api-v6/pull/16) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #7](https://github.com/phalcon/rest-api-v6/pull/15) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
