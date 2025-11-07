@@ -8,10 +8,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 day ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 day ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (2 days ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (4 weeks ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) - Query statement builders. (2 months ago)
@@ -21,20 +21,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
+- [Video #9](https://github.com/phalcon/rest-api-v6/pull/19) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 day ago)
+- [Video #9](https://github.com/phalcon/rest-api-v6/pull/18) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 day ago)
 - [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (1 week ago)
 - [README update](https://github.com/phalcon/rest-api-v6/pull/17) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #8](https://github.com/phalcon/rest-api-v6/pull/16) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #7](https://github.com/phalcon/rest-api-v6/pull/15) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
-- [Added claim validation for JWT](https://github.com/phalcon/phalcon/pull/680) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 weeks ago)
-- [Catching up with the tests video #6](https://github.com/phalcon/rest-api-v6/pull/14) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
+- [Added claim validation for JWT](https://github.com/phalcon/phalcon/pull/680) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [Catching up with the tests video #6](https://github.com/phalcon/rest-api-v6/pull/14) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Catching up with the tests video #5](https://github.com/phalcon/rest-api-v6/pull/13) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Sync with 1.x](https://github.com/phalcon/rest-api-v6/pull/12) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
-- [Adjusments to run Atlas.Query with PHP 8.4](https://github.com/atlasphp/Atlas.Query/pull/21) on [atlasphp/Atlas.Query](https://github.com/atlasphp/Atlas.Query) (2 months ago)
-- [Adjusments to run Atlas.Statement with PHP 8.4](https://github.com/atlasphp/Atlas.Statement/pull/6) on [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-8](https://github.com/phalcon/rest-api-v6/releases/tag/video-8), 1 week ago) - A REST API developed with Phalcon v6
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-9](https://github.com/phalcon/rest-api-v6/releases/tag/video-9), 1 day ago) - A REST API developed with Phalcon v6
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 2 months ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 2 months ago) - Provides Connection and ConnectionLocator functionality.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 3 months ago) - Send mail with Phalcon
