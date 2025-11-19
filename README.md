@@ -9,8 +9,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (5 days ago)
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 week ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (6 days ago)
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (1 month ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
@@ -21,8 +21,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fixing typos](https://github.com/response-interop/interface/pull/1) on [response-interop/interface](https://github.com/response-interop/interface) (5 days ago)
-- [Video 10](https://github.com/phalcon/rest-api-v6/pull/20) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
+- [fixing typos](https://github.com/response-interop/interface/pull/1) on [response-interop/interface](https://github.com/response-interop/interface) (6 days ago)
+- [Video 10](https://github.com/phalcon/rest-api-v6/pull/20) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (6 days ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/19) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/18) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (2 weeks ago)
@@ -34,7 +34,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-10](https://github.com/phalcon/rest-api-v6/releases/tag/video-10), 5 days ago) - A REST API developed with Phalcon v6
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-10](https://github.com/phalcon/rest-api-v6/releases/tag/video-10), 6 days ago) - A REST API developed with Phalcon v6
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 2 months ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 2 months ago) - Provides Connection and ConnectionLocator functionality.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 4 months ago) - Send mail with Phalcon
