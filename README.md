@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (3 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (4 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (4 days ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
 - [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (1 month ago)
@@ -21,15 +21,15 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [5.9.4 prep](https://github.com/phalcon/cphalcon/pull/16820) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Docblocks and adding the latest video in readme](https://github.com/phalcon/rest-api-v6/pull/21) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 days ago)
+- [5.9.4 prep](https://github.com/phalcon/cphalcon/pull/16820) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Docblocks and adding the latest video in readme](https://github.com/phalcon/rest-api-v6/pull/21) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 days ago)
 - [fixing typos](https://github.com/response-interop/interface/pull/1) on [response-interop/interface](https://github.com/response-interop/interface) (1 week ago)
 - [Video 10](https://github.com/phalcon/rest-api-v6/pull/20) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 week ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/19) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/18) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (3 weeks ago)
 - [README update](https://github.com/phalcon/rest-api-v6/pull/17) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
-- [Video #8](https://github.com/phalcon/rest-api-v6/pull/16) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
+- [Video #8](https://github.com/phalcon/rest-api-v6/pull/16) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
 - [Video #7](https://github.com/phalcon/rest-api-v6/pull/15) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
