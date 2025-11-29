@@ -27,7 +27,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Video 10](https://github.com/phalcon/rest-api-v6/pull/20) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/19) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
 - [Video #9](https://github.com/phalcon/rest-api-v6/pull/18) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
-- [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (4 weeks ago)
+- [reworded security and acl; reformat for warnings](https://github.com/phalcon/documentation/pull/290) on [phalcon/documentation](https://github.com/phalcon/documentation) (1 month ago)
 - [README update](https://github.com/phalcon/rest-api-v6/pull/17) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Video #8](https://github.com/phalcon/rest-api-v6/pull/16) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 - [Video #7](https://github.com/phalcon/rest-api-v6/pull/15) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
