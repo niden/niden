@@ -37,7 +37,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-11](https://github.com/phalcon/rest-api-v6/releases/tag/video-11), 1 week ago) - A REST API developed with Phalcon v6
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 3 months ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 3 months ago) - Provides Connection and ConnectionLocator functionality.
-- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 4 months ago) - Send mail with Phalcon
+- [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 5 months ago) - Send mail with Phalcon
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.19.0](https://github.com/zephir-lang/zephir/releases/tag/0.19.0), 6 months ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 
 #### 🌱 My latest projects
