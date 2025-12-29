@@ -8,12 +8,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 day ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (6 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
+- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 week ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 month ago)
 - [response-interop/interface](https://github.com/response-interop/interface) - Interoperable server response interfaces for PHP. (1 month ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (1 month ago)
@@ -21,21 +21,21 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 day ago)
-- [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 day ago)
-- [Video 12](https://github.com/phalcon/rest-api-v6/pull/24) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 day ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/351) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 days ago)
-- [5.10.0](https://github.com/phalcon/cphalcon/pull/16828) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [Fixing docblocks](https://github.com/phalcon/cphalcon/pull/16826) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [T16778 helper xhtml](https://github.com/phalcon/cphalcon/pull/16824) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
-- [T16778 helper xhtml](https://github.com/phalcon/phalcon/pull/698) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (6 days ago)
-- [[#.x] - adding missing .env file](https://github.com/phalcon/rest-api-v6/pull/23) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (4 weeks ago)
+- [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 days ago)
+- [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 days ago)
+- [Video 12](https://github.com/phalcon/rest-api-v6/pull/24) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/351) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (4 days ago)
+- [5.10.0](https://github.com/phalcon/cphalcon/pull/16828) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [Fixing docblocks](https://github.com/phalcon/cphalcon/pull/16826) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [T16778 helper xhtml](https://github.com/phalcon/cphalcon/pull/16824) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
+- [T16778 helper xhtml](https://github.com/phalcon/phalcon/pull/698) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [[#.x] - adding missing .env file](https://github.com/phalcon/rest-api-v6/pull/23) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 1 day ago) - A REST API developed with Phalcon v6
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 2 days ago) - A REST API developed with Phalcon v6
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 3 months ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 3 months ago) - Provides Connection and ConnectionLocator functionality.
 - [phalcon/incubator-mailer](https://github.com/phalcon/incubator-mailer) ([v3.0.0](https://github.com/phalcon/incubator-mailer/releases/tag/v3.0.0), 5 months ago) - Send mail with Phalcon
