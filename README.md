@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (5 days ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (6 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (6 days ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 week ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
-- [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
-- [Video 12](https://github.com/phalcon/rest-api-v6/pull/24) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (5 days ago)
+- [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (6 days ago)
+- [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (6 days ago)
+- [Video 12](https://github.com/phalcon/rest-api-v6/pull/24) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (6 days ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/351) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (1 week ago)
 - [5.10.0](https://github.com/phalcon/cphalcon/pull/16828) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
@@ -34,7 +34,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 5 days ago) - A REST API developed with Phalcon v6
+- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 6 days ago) - A REST API developed with Phalcon v6
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 1 week ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 4 months ago) - Query statement builders.
 - [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 4 months ago) - Provides Connection and ConnectionLocator functionality.
