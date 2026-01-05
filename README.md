@@ -12,8 +12,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 week ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 week ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
+- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 weeks ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 month ago)
 - [response-interop/interface](https://github.com/response-interop/interface) - Interoperable server response interfaces for PHP. (1 month ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (2 months ago)
@@ -28,8 +28,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [5.10.0](https://github.com/phalcon/cphalcon/pull/16828) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [Fixing docblocks](https://github.com/phalcon/cphalcon/pull/16826) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [T16778 helper xhtml](https://github.com/phalcon/cphalcon/pull/16824) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [T16778 helper xhtml](https://github.com/phalcon/phalcon/pull/698) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 week ago)
+- [T16778 helper xhtml](https://github.com/phalcon/cphalcon/pull/16824) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
+- [T16778 helper xhtml](https://github.com/phalcon/phalcon/pull/698) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 weeks ago)
 - [[#.x] - adding missing .env file](https://github.com/phalcon/rest-api-v6/pull/23) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
