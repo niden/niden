@@ -10,8 +10,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 - [ioc-interop/interface](https://github.com/ioc-interop/interface) - Interoperable IOC container interfaces. (1 week ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 weeks ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 weeks ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 weeks ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 weeks ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (3 weeks ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/356) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (5 days ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/356) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (6 days ago)
 - [Minor fixes](https://github.com/ioc-interop/interface/pull/2) on [ioc-interop/interface](https://github.com/ioc-interop/interface) (1 week ago)
 - [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
 - [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (2 weeks ago)
