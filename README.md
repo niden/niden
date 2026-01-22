@@ -26,10 +26,10 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [Stable version to master](https://github.com/phalcon/rest-api-v6/pull/26) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
 - [[#.x] - correcting variable names](https://github.com/phalcon/rest-api-v6/pull/25) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
 - [Video 12](https://github.com/phalcon/rest-api-v6/pull/24) on [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) (3 weeks ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/351) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (3 weeks ago)
+- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/351) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (4 weeks ago)
 - [5.10.0](https://github.com/phalcon/cphalcon/pull/16828) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
-- [Fixing docblocks](https://github.com/phalcon/cphalcon/pull/16826) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 weeks ago)
+- [5.10 prep](https://github.com/phalcon/cphalcon/pull/16827) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
+- [Fixing docblocks](https://github.com/phalcon/cphalcon/pull/16826) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 - [T16778 helper xhtml](https://github.com/phalcon/cphalcon/pull/16824) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
