@@ -8,6 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
 - [ioc-interop/interface](https://github.com/ioc-interop/interface) - Interoperable IOC container interfaces. (1 month ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (1 month ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1 month ago)
@@ -15,7 +16,6 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 month ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
 - [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (1 month ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 months ago)
 - [response-interop/interface](https://github.com/response-interop/interface) - Interoperable server response interfaces for PHP. (3 months ago)
 - [niden-net/niden.net](https://github.com/niden-net/niden.net) - niden.net Blog (3 months ago)
 
