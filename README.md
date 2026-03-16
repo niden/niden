@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (1 month ago)
@@ -21,7 +21,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16852 logger adjustments](https://github.com/phalcon/cphalcon/pull/16853) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [T16852 logger adjustments](https://github.com/phalcon/cphalcon/pull/16853) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16847 jwt passphrase](https://github.com/phalcon/cphalcon/pull/16851) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16846 audience default value](https://github.com/phalcon/cphalcon/pull/16850) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16845 change base in random](https://github.com/phalcon/cphalcon/pull/16849) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
