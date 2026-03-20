@@ -28,7 +28,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [T16844 added validateClaim to the validator](https://github.com/phalcon/cphalcon/pull/16848) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [changing flags to use no-incompatible-pointer-types](https://github.com/zephir-lang/zephir/pull/2483) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 weeks ago)
 - [T13042 di alias](https://github.com/phalcon/cphalcon/pull/16841) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [T13042 di alias](https://github.com/phalcon/phalcon/pull/711) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 weeks ago)
+- [T13042 di alias](https://github.com/phalcon/phalcon/pull/711) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
 - [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/356) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 months ago)
 - [Minor fixes](https://github.com/ioc-interop/interface/pull/2) on [ioc-interop/interface](https://github.com/ioc-interop/interface) (2 months ago)
 
