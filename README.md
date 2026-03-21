@@ -8,37 +8,37 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (1 day ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 weeks ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (1 month ago)
 - [ioc-interop/interface](https://github.com/ioc-interop/interface) - Interoperable IOC container interfaces. (2 months ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 months ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 months ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 months ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 months ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 months ago)
-- [niden/phalcon-module](https://github.com/niden/phalcon-module) - Implementation of C parsers to the PHP userland - used in v6 (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Upgrading the plugin #6](https://github.com/zephir-lang/idea-plugin/pull/34) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
+- [Upgrading the plugin #5](https://github.com/zephir-lang/idea-plugin/pull/33) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
+- [Upgrading the plugin #4](https://github.com/zephir-lang/idea-plugin/pull/32) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
+- [Upgrading the plugin #3](https://github.com/zephir-lang/idea-plugin/pull/31) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
+- [Upgrading the plugin #2](https://github.com/zephir-lang/idea-plugin/pull/30) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
+- [Upgrading the plugin #1](https://github.com/zephir-lang/idea-plugin/pull/29) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 day ago)
 - [T16852 logger adjustments](https://github.com/phalcon/cphalcon/pull/16853) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16847 jwt passphrase](https://github.com/phalcon/cphalcon/pull/16851) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16846 audience default value](https://github.com/phalcon/cphalcon/pull/16850) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
 - [T16845 change base in random](https://github.com/phalcon/cphalcon/pull/16849) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [T16844 added validateClaim to the validator](https://github.com/phalcon/cphalcon/pull/16848) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 week ago)
-- [changing flags to use no-incompatible-pointer-types](https://github.com/zephir-lang/zephir/pull/2483) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 weeks ago)
-- [T13042 di alias](https://github.com/phalcon/cphalcon/pull/16841) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [T13042 di alias](https://github.com/phalcon/phalcon/pull/711) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 month ago)
-- [New Crowdin updates](https://github.com/phalcon/phalcon.io/pull/356) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (2 months ago)
-- [Minor fixes](https://github.com/ioc-interop/interface/pull/2) on [ioc-interop/interface](https://github.com/ioc-interop/interface) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.5.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.5.0), 1 day ago) - An IntelliJ plugin for editing Zephir code
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) ([v8](https://github.com/niden/actions-memcached/releases/tag/v8), 1 month ago) - Memcached container based on Alpine for Github Actions
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 2 months ago) - A REST API developed with Phalcon v6
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 2 months ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [atlasphp/Atlas.Statement](https://github.com/atlasphp/Atlas.Statement) ([1.1.0](https://github.com/atlasphp/Atlas.Statement/releases/tag/1.1.0), 6 months ago) - Query statement builders.
-- [atlasphp/Atlas.Pdo](https://github.com/atlasphp/Atlas.Pdo) ([2.0.1](https://github.com/atlasphp/Atlas.Pdo/releases/tag/2.0.1), 6 months ago) - Provides Connection and ConnectionLocator functionality.
 
 #### 🌱 My latest projects
 
