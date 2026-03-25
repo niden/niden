@@ -8,33 +8,33 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (4 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 day ago)
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (5 days ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 weeks ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 weeks ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 weeks ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (1 month ago)
 - [ioc-interop/interface](https://github.com/ioc-interop/interface) - Interoperable IOC container interfaces. (2 months ago)
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (2 months ago)
 - [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2 months ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 months ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Updating plugin #6.1](https://github.com/zephir-lang/idea-plugin/pull/35) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (3 days ago)
-- [Upgrading the plugin #6](https://github.com/zephir-lang/idea-plugin/pull/34) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
-- [Upgrading the plugin #5](https://github.com/zephir-lang/idea-plugin/pull/33) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
-- [Upgrading the plugin #4](https://github.com/zephir-lang/idea-plugin/pull/32) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
-- [Upgrading the plugin #3](https://github.com/zephir-lang/idea-plugin/pull/31) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
-- [Upgrading the plugin #2](https://github.com/zephir-lang/idea-plugin/pull/30) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
-- [Upgrading the plugin #1](https://github.com/zephir-lang/idea-plugin/pull/29) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
+- [upgrading to php 8.5 and also actions upgrade](https://github.com/zephir-lang/templates/pull/2) on [zephir-lang/templates](https://github.com/zephir-lang/templates) (1 day ago)
+- [Updating plugin #6.1](https://github.com/zephir-lang/idea-plugin/pull/35) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (4 days ago)
+- [Upgrading the plugin #6](https://github.com/zephir-lang/idea-plugin/pull/34) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
+- [Upgrading the plugin #5](https://github.com/zephir-lang/idea-plugin/pull/33) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
+- [Upgrading the plugin #4](https://github.com/zephir-lang/idea-plugin/pull/32) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
+- [Upgrading the plugin #3](https://github.com/zephir-lang/idea-plugin/pull/31) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
+- [Upgrading the plugin #2](https://github.com/zephir-lang/idea-plugin/pull/30) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
+- [Upgrading the plugin #1](https://github.com/zephir-lang/idea-plugin/pull/29) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (5 days ago)
 - [T16852 logger adjustments](https://github.com/phalcon/cphalcon/pull/16853) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 - [T16847 jwt passphrase](https://github.com/phalcon/cphalcon/pull/16851) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
-- [T16846 audience default value](https://github.com/phalcon/cphalcon/pull/16850) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 3 days ago) - An IntelliJ plugin for editing Zephir code
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 4 days ago) - An IntelliJ plugin for editing Zephir code
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) ([v8](https://github.com/niden/actions-memcached/releases/tag/v8), 1 month ago) - Memcached container based on Alpine for Github Actions
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 2 months ago) - A REST API developed with Phalcon v6
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.10.0](https://github.com/phalcon/cphalcon/releases/tag/v5.10.0), 3 months ago) - High performance, full-stack PHP framework delivered as a C extension.
