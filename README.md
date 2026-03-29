@@ -8,7 +8,7 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 days ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (5 days ago)
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (1 week ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (3 weeks ago)
@@ -21,9 +21,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [removing version_compare directives](https://github.com/phalcon/cphalcon/pull/16858) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Converting tests to phpunit](https://github.com/phalcon/cphalcon/pull/16857) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [upgrading to php 8.5 and also actions upgrade](https://github.com/zephir-lang/templates/pull/2) on [zephir-lang/templates](https://github.com/zephir-lang/templates) (4 days ago)
+- [removing version_compare directives](https://github.com/phalcon/cphalcon/pull/16858) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Converting tests to phpunit](https://github.com/phalcon/cphalcon/pull/16857) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [upgrading to php 8.5 and also actions upgrade](https://github.com/zephir-lang/templates/pull/2) on [zephir-lang/templates](https://github.com/zephir-lang/templates) (5 days ago)
 - [Updating plugin #6.1](https://github.com/zephir-lang/idea-plugin/pull/35) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 week ago)
 - [Upgrading the plugin #6](https://github.com/zephir-lang/idea-plugin/pull/34) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 week ago)
 - [Upgrading the plugin #5](https://github.com/zephir-lang/idea-plugin/pull/33) on [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) (1 week ago)
