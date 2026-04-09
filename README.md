@@ -8,33 +8,33 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5 days ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (2 weeks ago)
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (2 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 month ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (1 month ago)
 - [ioc-interop/interface](https://github.com/ioc-interop/interface) - Interoperable IOC container interfaces. (3 months ago)
-- [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) - A REST API developed with Phalcon v6 (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T16884 globals get set](https://github.com/phalcon/cphalcon/pull/16885) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [T16859 cache deletemultiple](https://github.com/phalcon/cphalcon/pull/16883) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [5.11.1](https://github.com/phalcon/ide-stubs/pull/117) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (4 days ago)
-- [v5.11.1](https://github.com/phalcon/cphalcon/pull/16881) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [5.11.1 prep](https://github.com/phalcon/cphalcon/pull/16880) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16878 ide stubs](https://github.com/phalcon/cphalcon/pull/16879) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16873 settings globals](https://github.com/phalcon/cphalcon/pull/16877) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16867 redis cluster](https://github.com/phalcon/cphalcon/pull/16870) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [v5.11.0](https://github.com/phalcon/ide-stubs/pull/116) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (5 days ago)
-- [correcting version](https://github.com/phalcon/cphalcon/pull/16868) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [CI Improvements](https://github.com/phalcon/phalcon/pull/728) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (today)
+- [5.0.x](https://github.com/phalcon/cphalcon/pull/16887) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#724] - fixing setlocale for php 8.5 - remove type error](https://github.com/phalcon/phalcon/pull/727) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [Test alignment with cphalcon](https://github.com/phalcon/phalcon/pull/726) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [[#724] Fix TypeError in Gettext::setLocale() on PHP 8.5](https://github.com/phalcon/phalcon/pull/725) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [Readding tests](https://github.com/phalcon/phql/pull/4) on [phalcon/phql](https://github.com/phalcon/phql) (1 day ago)
+- [Fix PHP re2c scanner state machine translation bugs](https://github.com/phalcon/phql/pull/3) on [phalcon/phql](https://github.com/phalcon/phql) (1 day ago)
+- [PHP translation: fix Scanner, State, Parser and add orchestration entry point](https://github.com/phalcon/phql/pull/2) on [phalcon/phql](https://github.com/phalcon/phql) (1 day ago)
+- [T16884 globals get set](https://github.com/phalcon/cphalcon/pull/16885) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [T16859 cache deletemultiple](https://github.com/phalcon/cphalcon/pull/16883) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.11.1](https://github.com/phalcon/cphalcon/releases/tag/v5.11.1), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.11.1](https://github.com/phalcon/cphalcon/releases/tag/v5.11.1), 5 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 2 weeks ago) - An IntelliJ plugin for editing Zephir code
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) ([v8](https://github.com/niden/actions-memcached/releases/tag/v8), 1 month ago) - Memcached container based on Alpine for Github Actions
 - [phalcon/rest-api-v6](https://github.com/phalcon/rest-api-v6) ([video-12](https://github.com/phalcon/rest-api-v6/releases/tag/video-12), 3 months ago) - A REST API developed with Phalcon v6
