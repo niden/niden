@@ -8,9 +8,9 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 day ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (3 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2 days ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (4 days ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
@@ -21,16 +21,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [PHQL and Volt](https://github.com/phalcon/phalcon/pull/730) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (today)
-- [adding cphalcon parser tests to ensure alignment](https://github.com/phalcon/volt/pull/72) on [phalcon/volt](https://github.com/phalcon/volt) (1 day ago)
-- [alignment with cphalcon](https://github.com/phalcon/volt/pull/71) on [phalcon/volt](https://github.com/phalcon/volt) (1 day ago)
-- [Feature/parser refactor phase2](https://github.com/phalcon/volt/pull/70) on [phalcon/volt](https://github.com/phalcon/volt) (1 day ago)
-- [Feature/volt phase1](https://github.com/phalcon/volt/pull/69) on [phalcon/volt](https://github.com/phalcon/volt) (1 day ago)
-- [Refactor Phase 1: typed enums, readonly Token, full test coverage](https://github.com/phalcon/phql/pull/7) on [phalcon/phql](https://github.com/phalcon/phql) (3 days ago)
-- [Fix parser key ordering and PHVOLT_T_ASSIGN opcode to match C implementation](https://github.com/phalcon/volt/pull/68) on [phalcon/volt](https://github.com/phalcon/volt) (3 days ago)
-- [[#hql] - Fix operator types, Token handling, bracket identifiers and join conditions](https://github.com/phalcon/phql/pull/6) on [phalcon/phql](https://github.com/phalcon/phql) (4 days ago)
-- [PHQL Tests](https://github.com/phalcon/cphalcon/pull/16888) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [PHQL parser fixes](https://github.com/phalcon/phql/pull/5) on [phalcon/phql](https://github.com/phalcon/phql) (5 days ago)
+- [PHQL and Volt](https://github.com/phalcon/phalcon/pull/730) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [adding cphalcon parser tests to ensure alignment](https://github.com/phalcon/volt/pull/72) on [phalcon/volt](https://github.com/phalcon/volt) (2 days ago)
+- [alignment with cphalcon](https://github.com/phalcon/volt/pull/71) on [phalcon/volt](https://github.com/phalcon/volt) (2 days ago)
+- [Feature/parser refactor phase2](https://github.com/phalcon/volt/pull/70) on [phalcon/volt](https://github.com/phalcon/volt) (2 days ago)
+- [Feature/volt phase1](https://github.com/phalcon/volt/pull/69) on [phalcon/volt](https://github.com/phalcon/volt) (2 days ago)
+- [Refactor Phase 1: typed enums, readonly Token, full test coverage](https://github.com/phalcon/phql/pull/7) on [phalcon/phql](https://github.com/phalcon/phql) (4 days ago)
+- [Fix parser key ordering and PHVOLT_T_ASSIGN opcode to match C implementation](https://github.com/phalcon/volt/pull/68) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
+- [[#hql] - Fix operator types, Token handling, bracket identifiers and join conditions](https://github.com/phalcon/phql/pull/6) on [phalcon/phql](https://github.com/phalcon/phql) (5 days ago)
+- [PHQL Tests](https://github.com/phalcon/cphalcon/pull/16888) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
+- [PHQL parser fixes](https://github.com/phalcon/phql/pull/5) on [phalcon/phql](https://github.com/phalcon/phql) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
