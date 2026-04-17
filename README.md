@@ -8,29 +8,29 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3 days ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (5 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 day ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (6 days ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (3 weeks ago)
-- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (3 weeks ago)
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (4 weeks ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Tests coverage phalcon 2](https://github.com/phalcon/cphalcon/pull/16889) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [PHQL and Volt](https://github.com/phalcon/phalcon/pull/730) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
-- [adding cphalcon parser tests to ensure alignment](https://github.com/phalcon/volt/pull/72) on [phalcon/volt](https://github.com/phalcon/volt) (3 days ago)
-- [alignment with cphalcon](https://github.com/phalcon/volt/pull/71) on [phalcon/volt](https://github.com/phalcon/volt) (3 days ago)
-- [Feature/parser refactor phase2](https://github.com/phalcon/volt/pull/70) on [phalcon/volt](https://github.com/phalcon/volt) (3 days ago)
-- [Feature/volt phase1](https://github.com/phalcon/volt/pull/69) on [phalcon/volt](https://github.com/phalcon/volt) (3 days ago)
-- [Refactor Phase 1: typed enums, readonly Token, full test coverage](https://github.com/phalcon/phql/pull/7) on [phalcon/phql](https://github.com/phalcon/phql) (5 days ago)
-- [Fix parser key ordering and PHVOLT_T_ASSIGN opcode to match C implementation](https://github.com/phalcon/volt/pull/68) on [phalcon/volt](https://github.com/phalcon/volt) (5 days ago)
-- [[#hql] - Fix operator types, Token handling, bracket identifiers and join conditions](https://github.com/phalcon/phql/pull/6) on [phalcon/phql](https://github.com/phalcon/phql) (6 days ago)
-- [PHQL Tests](https://github.com/phalcon/cphalcon/pull/16888) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6 days ago)
+- [v6 alignment; more test coverage](https://github.com/phalcon/cphalcon/pull/16890) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [Increasing code coverage - removing markSkipped tests](https://github.com/phalcon/phalcon/pull/732) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [cphalcon alignment ](https://github.com/phalcon/phalcon/pull/731) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
+- [Reworked the constants/enums](https://github.com/phalcon/volt/pull/74) on [phalcon/volt](https://github.com/phalcon/volt) (1 day ago)
+- [Tests coverage phalcon 2](https://github.com/phalcon/cphalcon/pull/16889) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [PHQL and Volt](https://github.com/phalcon/phalcon/pull/730) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
+- [adding cphalcon parser tests to ensure alignment](https://github.com/phalcon/volt/pull/72) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
+- [alignment with cphalcon](https://github.com/phalcon/volt/pull/71) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
+- [Feature/parser refactor phase2](https://github.com/phalcon/volt/pull/70) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
+- [Feature/volt phase1](https://github.com/phalcon/volt/pull/69) on [phalcon/volt](https://github.com/phalcon/volt) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
