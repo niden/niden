@@ -8,29 +8,29 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
-- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (4 weeks ago)
+- [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (1 month ago)
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 month ago)
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) - Memcached container based on Alpine for Github Actions (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T15996 dispatcher volt name resolution](https://github.com/phalcon/phalcon/pull/746) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [Test adjustments](https://github.com/phalcon/phalcon/pull/745) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [[#16830] - adding back missing commit for 16830](https://github.com/phalcon/cphalcon/pull/16899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [Container EnvDefault](https://github.com/phalcon/phalcon/pull/744) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
-- [T742 adjusting interfaces to use container](https://github.com/phalcon/phalcon/pull/743) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [T740 injectable container](https://github.com/phalcon/phalcon/pull/741) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [T737 models event factory](https://github.com/phalcon/phalcon/pull/739) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
-- [T736 di bucket](https://github.com/phalcon/phalcon/pull/738) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4 days ago)
-- [T16894 html helpers](https://github.com/phalcon/cphalcon/pull/16895) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [Refactor `Forms\Element\Select` to use `TagFactory` instead of `Tag\Select`](https://github.com/phalcon/phalcon/pull/735) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
+- [[#14810] Call model setters during ORM hydration in cloneResultMap()](https://github.com/phalcon/cphalcon/pull/16906) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#15711] Fix toArray() and unserialize() for typed PHP properties that are uninitialized](https://github.com/phalcon/cphalcon/pull/16905) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#15491] Fix allowEmpty value-list array support in AbstractValidator and Alpha empty-value handling](https://github.com/phalcon/cphalcon/pull/16904) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#14656] Fix ORM memory leak in long-running processes when using findFirst() with a numeric argument](https://github.com/phalcon/cphalcon/pull/16903) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T15554 reusable](https://github.com/phalcon/cphalcon/pull/16902) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T15266 paginator group null](https://github.com/phalcon/cphalcon/pull/16901) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16522 transaction manager](https://github.com/phalcon/cphalcon/pull/16900) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T15996 dispatcher volt name resolution](https://github.com/phalcon/phalcon/pull/746) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [Test adjustments](https://github.com/phalcon/phalcon/pull/745) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [[#16830] - adding back missing commit for 16830](https://github.com/phalcon/cphalcon/pull/16899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
