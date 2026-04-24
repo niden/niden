@@ -8,8 +8,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 week ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
@@ -21,16 +21,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [[#14810] Call model setters during ORM hydration in cloneResultMap()](https://github.com/phalcon/cphalcon/pull/16906) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [[#15711] Fix toArray() and unserialize() for typed PHP properties that are uninitialized](https://github.com/phalcon/cphalcon/pull/16905) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [[#15491] Fix allowEmpty value-list array support in AbstractValidator and Alpha empty-value handling](https://github.com/phalcon/cphalcon/pull/16904) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [[#14656] Fix ORM memory leak in long-running processes when using findFirst() with a numeric argument](https://github.com/phalcon/cphalcon/pull/16903) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T15554 reusable](https://github.com/phalcon/cphalcon/pull/16902) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T15266 paginator group null](https://github.com/phalcon/cphalcon/pull/16901) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16522 transaction manager](https://github.com/phalcon/cphalcon/pull/16900) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T15996 dispatcher volt name resolution](https://github.com/phalcon/phalcon/pull/746) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
-- [Test adjustments](https://github.com/phalcon/phalcon/pull/745) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
-- [[#16830] - adding back missing commit for 16830](https://github.com/phalcon/cphalcon/pull/16899) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [T16304 assets inline](https://github.com/phalcon/cphalcon/pull/16915) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [T15906 onconstruct cached model](https://github.com/phalcon/cphalcon/pull/16914) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16426 varchar 255 empty](https://github.com/phalcon/cphalcon/pull/16913) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T15934 reusable cache](https://github.com/phalcon/cphalcon/pull/16912) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16032 write connection for update](https://github.com/phalcon/cphalcon/pull/16911) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16350 raw value](https://github.com/phalcon/cphalcon/pull/16910) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#16052] Fix Query balias lcfirst for namespaced models](https://github.com/phalcon/cphalcon/pull/16909) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [Adding support for typed constants (stubs) for php 8.3&#43;](https://github.com/zephir-lang/zephir/pull/2498) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 day ago)
+- [7.0.x sync](https://github.com/phalcon/cphalcon/pull/16908) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16896 new container](https://github.com/phalcon/cphalcon/pull/16907) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
