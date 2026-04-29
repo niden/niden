@@ -9,28 +9,28 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 👷 Work in Progress
 
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1 day ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (4 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (5 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (5 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (6 days ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 week ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 week ago)
 - [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (2 weeks ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 weeks ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 weeks ago)
 - [zephir-lang/templates](https://github.com/zephir-lang/templates) - Templates and reusable workflows for Github Actions (1 month ago)
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T167 remove db](https://github.com/phalcon/migrations/pull/171) on [phalcon/migrations](https://github.com/phalcon/migrations) (today)
-- [T166 remove config](https://github.com/phalcon/migrations/pull/170) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 day ago)
-- [Docker compose per project and stubs](https://github.com/phalcon/cphalcon/pull/16922) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [T16436 pgsql curval](https://github.com/phalcon/cphalcon/pull/16921) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [Tests and CI](https://github.com/phalcon/cphalcon/pull/16920) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [T16239 left join](https://github.com/phalcon/cphalcon/pull/16919) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16454 cloneresultset setters](https://github.com/phalcon/cphalcon/pull/16918) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16410 model snapshots](https://github.com/phalcon/cphalcon/pull/16917) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16453 softdelete](https://github.com/phalcon/cphalcon/pull/16916) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
-- [T16304 assets inline](https://github.com/phalcon/cphalcon/pull/16915) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [T16812 manager not](https://github.com/phalcon/cphalcon/pull/16929) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16238 annotations controller name](https://github.com/phalcon/cphalcon/pull/16928) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T15829 alter boolean](https://github.com/phalcon/cphalcon/pull/16927) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16156 image crop](https://github.com/phalcon/cphalcon/pull/16926) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16316 image resize transparency](https://github.com/phalcon/cphalcon/pull/16925) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [[#15912] - fixing issue with groupby multiple columns and postgresq](https://github.com/phalcon/cphalcon/pull/16924) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T16000 save hasone](https://github.com/phalcon/cphalcon/pull/16923) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [T168 phpunit](https://github.com/phalcon/migrations/pull/172) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 day ago)
+- [T167 remove db](https://github.com/phalcon/migrations/pull/171) on [phalcon/migrations](https://github.com/phalcon/migrations) (1 day ago)
+- [T166 remove config](https://github.com/phalcon/migrations/pull/170) on [phalcon/migrations](https://github.com/phalcon/migrations) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
