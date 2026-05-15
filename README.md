@@ -8,12 +8,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (2 days ago)
-- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (3 days ago)
-- [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (5 days ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (3 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
+- [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (4 days ago)
+- [phalcon/forum-static](https://github.com/phalcon/forum-static) - Phosphorum Static (6 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 weeks ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 weeks ago)
 - [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 weeks ago)
@@ -21,20 +21,20 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Moving SelectData in Contracts](https://github.com/phalcon/cphalcon/pull/17018) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T17015 router performance enhancement](https://github.com/phalcon/cphalcon/pull/17016) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T17007 url hostname](https://github.com/phalcon/cphalcon/pull/17014) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16960 left join bc](https://github.com/phalcon/cphalcon/pull/17011) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T17005 config cast](https://github.com/phalcon/cphalcon/pull/17010) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Corrections for stubs generation with phpstan](https://github.com/zephir-lang/zephir/pull/2511) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (1 day ago)
-- [T17000 collection revamp](https://github.com/phalcon/cphalcon/pull/17009) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T17002 volt escape sequence](https://github.com/phalcon/cphalcon/pull/17003) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [T16553 arm binaries](https://github.com/phalcon/cphalcon/pull/17001) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [T16996 forms enhancements](https://github.com/phalcon/cphalcon/pull/16999) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T14754 paginator cursor](https://github.com/phalcon/cphalcon/pull/17021) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [Moving SelectData in Contracts](https://github.com/phalcon/cphalcon/pull/17018) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T17015 router performance enhancement](https://github.com/phalcon/cphalcon/pull/17016) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T17007 url hostname](https://github.com/phalcon/cphalcon/pull/17014) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T16960 left join bc](https://github.com/phalcon/cphalcon/pull/17011) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T17005 config cast](https://github.com/phalcon/cphalcon/pull/17010) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Corrections for stubs generation with phpstan](https://github.com/zephir-lang/zephir/pull/2511) on [zephir-lang/zephir](https://github.com/zephir-lang/zephir) (2 days ago)
+- [T17000 collection revamp](https://github.com/phalcon/cphalcon/pull/17009) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T17002 volt escape sequence](https://github.com/phalcon/cphalcon/pull/17003) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [T16553 arm binaries](https://github.com/phalcon/cphalcon/pull/17001) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.20.0](https://github.com/zephir-lang/zephir/releases/tag/0.20.0), 2 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.20.0](https://github.com/zephir-lang/zephir/releases/tag/0.20.0), 3 days ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.12.1](https://github.com/phalcon/cphalcon/releases/tag/v5.12.1), 2 weeks ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 1 month ago) - An IntelliJ plugin for editing Zephir code
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) ([v8](https://github.com/niden/actions-memcached/releases/tag/v8), 3 months ago) - Memcached container based on Alpine for Github Actions
