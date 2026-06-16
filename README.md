@@ -8,34 +8,34 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 day ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 day ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (2 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (3 days ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (5 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1 week ago)
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (1 week ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (2 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (3 days ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (4 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (6 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP (2 weeks ago)
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) - An IntelliJ plugin for editing Zephir code (2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17150 translate](https://github.com/phalcon/cphalcon/pull/17174) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [CP-17151 time optimizations](https://github.com/phalcon/cphalcon/pull/17172) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [CP-17148 auth optimizations](https://github.com/phalcon/cphalcon/pull/17171) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [CP-17147 assets optimization](https://github.com/phalcon/cphalcon/pull/17170) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [Cp 17146 application optimizations](https://github.com/phalcon/cphalcon/pull/17169) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [CP-17143 acl fixes](https://github.com/phalcon/cphalcon/pull/17144) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [stubs: update to v5.14.2](https://github.com/phalcon/ide-stubs/pull/127) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (3 days ago)
-- [5.14.2 Release](https://github.com/phalcon/cphalcon/pull/17139) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [5.14.2 prep](https://github.com/phalcon/cphalcon/pull/17138) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [CP-17126 redis session lock](https://github.com/phalcon/cphalcon/pull/17137) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [CP-17155 logger optimizations](https://github.com/phalcon/cphalcon/pull/17182) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17154 messages optimization](https://github.com/phalcon/cphalcon/pull/17181) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17153 paginator optimizations](https://github.com/phalcon/cphalcon/pull/17180) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17152 support optimizations](https://github.com/phalcon/cphalcon/pull/17179) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17176 save method null into strings](https://github.com/phalcon/cphalcon/pull/17178) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17173 bug error when validating form with entity](https://github.com/phalcon/cphalcon/pull/17177) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17149 autoload optimizations](https://github.com/phalcon/cphalcon/pull/17175) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17150 translate](https://github.com/phalcon/cphalcon/pull/17174) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [CP-17151 time optimizations](https://github.com/phalcon/cphalcon/pull/17172) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [CP-17148 auth optimizations](https://github.com/phalcon/cphalcon/pull/17171) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.14.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.14.2), 1 day ago) - Phalcon IDE Stubs
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.14.2](https://github.com/phalcon/cphalcon/releases/tag/v5.14.2), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.14.2](https://github.com/phalcon/ide-stubs/releases/tag/v5.14.2), 2 days ago) - Phalcon IDE Stubs
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.14.2](https://github.com/phalcon/cphalcon/releases/tag/v5.14.2), 4 days ago) - High performance, full-stack PHP framework delivered as a C extension.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([0.23.0](https://github.com/zephir-lang/zephir/releases/tag/0.23.0), 1 week ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
 - [zephir-lang/idea-plugin](https://github.com/zephir-lang/idea-plugin) ([0.6.0](https://github.com/zephir-lang/idea-plugin/releases/tag/0.6.0), 2 months ago) - An IntelliJ plugin for editing Zephir code
 - [niden/actions-memcached](https://github.com/niden/actions-memcached) ([v8](https://github.com/niden/actions-memcached/releases/tag/v8), 4 months ago) - Memcached container based on Alpine for Github Actions
