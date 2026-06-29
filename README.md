@@ -8,37 +8,37 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/talon](https://github.com/phalcon/talon) (1 day ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
 - [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1 day ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 day ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3 days ago)
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) (4 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (5 days ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (6 days ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6 days ago)
+- [phalcon/talon](https://github.com/phalcon/talon) (2 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2 days ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (4 days ago)
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) (5 days ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Code adjustments](https://github.com/phalcon/talon/pull/1) on [phalcon/talon](https://github.com/phalcon/talon) (1 day ago)
-- [Modernization](https://github.com/phalcon/invo/pull/114) on [phalcon/invo](https://github.com/phalcon/invo) (1 day ago)
-- [CP-17228 hydrator refactor 1](https://github.com/phalcon/cphalcon/pull/17230) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [CP-17225 infection](https://github.com/phalcon/cphalcon/pull/17227) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
-- [CP-17225 infection](https://github.com/phalcon/phalcon/pull/764) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
-- [CP-17224 model messages](https://github.com/phalcon/cphalcon/pull/17226) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
-- [V5 upgrade](https://github.com/phalcon/vokuro/pull/167) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (5 days ago)
-- [CP-17220 acl refactor](https://github.com/phalcon/cphalcon/pull/17223) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5 days ago)
-- [CP-17220 acl refactor](https://github.com/phalcon/phalcon/pull/763) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
-- [CP-17201 skipped tests](https://github.com/phalcon/phalcon/pull/760) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5 days ago)
+- [CP-17232 form fields](https://github.com/phalcon/cphalcon/pull/17246) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (today)
+- [Talon refactor](https://github.com/phalcon/vokuro/pull/170) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (1 day ago)
+- [0.2.0](https://github.com/phalcon/talon/pull/3) on [phalcon/talon](https://github.com/phalcon/talon) (1 day ago)
+- [Code adjustments](https://github.com/phalcon/talon/pull/1) on [phalcon/talon](https://github.com/phalcon/talon) (2 days ago)
+- [Modernization](https://github.com/phalcon/invo/pull/114) on [phalcon/invo](https://github.com/phalcon/invo) (2 days ago)
+- [CP-17228 hydrator refactor 1](https://github.com/phalcon/cphalcon/pull/17230) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [CP-17225 infection](https://github.com/phalcon/cphalcon/pull/17227) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [CP-17225 infection](https://github.com/phalcon/phalcon/pull/764) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3 days ago)
+- [CP-17224 model messages](https://github.com/phalcon/cphalcon/pull/17226) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [V5 upgrade](https://github.com/phalcon/vokuro/pull/167) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/talon](https://github.com/phalcon/talon) ([v0.1](https://github.com/phalcon/talon/releases/tag/v0.1), 1 day ago)
-- [phalcon/invo](https://github.com/phalcon/invo) ([v5.0.0](https://github.com/phalcon/invo/releases/tag/v5.0.0), 1 day ago) - Sample application for the Phalcon PHP Framework
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) ([v3.0.0](https://github.com/phalcon/bridge-psr3/releases/tag/v3.0.0), 3 days ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) ([v5.0.0](https://github.com/phalcon/vokuro/releases/tag/v5.0.0), 5 days ago) - Sample application for Phalcon Framework (Acl, Auth, Security)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.16.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.16.0), 6 days ago) - Phalcon IDE Stubs
+- [phalcon/talon](https://github.com/phalcon/talon) ([v0.2.0](https://github.com/phalcon/talon/releases/tag/v0.2.0), 1 day ago)
+- [phalcon/invo](https://github.com/phalcon/invo) ([v5.0.0](https://github.com/phalcon/invo/releases/tag/v5.0.0), 2 days ago) - Sample application for the Phalcon PHP Framework
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) ([v3.0.0](https://github.com/phalcon/bridge-psr3/releases/tag/v3.0.0), 4 days ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) ([v5.0.0](https://github.com/phalcon/vokuro/releases/tag/v5.0.0), 6 days ago) - Sample application for Phalcon Framework (Acl, Auth, Security)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.16.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.16.0), 1 week ago) - Phalcon IDE Stubs
 
 #### 🌱 My latest projects
 
