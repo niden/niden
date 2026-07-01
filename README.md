@@ -8,37 +8,37 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 👷 Work in Progress
 
-- [phalcon/talon](https://github.com/phalcon/talon) (1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (1 day ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (2 days ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3 days ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (3 days ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4 days ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (5 days ago)
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) (6 days ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1 day ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1 day ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1 day ago)
+- [phalcon/talon](https://github.com/phalcon/talon) (2 days ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - [WIP] Phalcon Framework. Work will continue after release of v5.0 (2 days ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (5 days ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (6 days ago)
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) (1 week ago)
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (1 week ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework&#39;s blog (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T4 acceptance tests](https://github.com/phalcon/talon/pull/6) on [phalcon/talon](https://github.com/phalcon/talon) (1 day ago)
-- [master update](https://github.com/phalcon/phalcon/pull/768) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1 day ago)
-- [CP-17248 getStatusCode](https://github.com/phalcon/cphalcon/pull/17249) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [CP-17209 queue stats](https://github.com/phalcon/cphalcon/pull/17247) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [CP-17232 form fields](https://github.com/phalcon/cphalcon/pull/17246) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
-- [Talon refactor](https://github.com/phalcon/vokuro/pull/170) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (2 days ago)
-- [0.2.0](https://github.com/phalcon/talon/pull/3) on [phalcon/talon](https://github.com/phalcon/talon) (2 days ago)
-- [Code adjustments](https://github.com/phalcon/talon/pull/1) on [phalcon/talon](https://github.com/phalcon/talon) (3 days ago)
-- [Modernization](https://github.com/phalcon/invo/pull/114) on [phalcon/invo](https://github.com/phalcon/invo) (3 days ago)
-- [CP-17228 hydrator refactor 1](https://github.com/phalcon/cphalcon/pull/17230) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4 days ago)
+- [adding octocov](https://github.com/phalcon/vokuro/pull/172) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (1 day ago)
+- [Increasing code coverage](https://github.com/phalcon/invo/pull/116) on [phalcon/invo](https://github.com/phalcon/invo) (1 day ago)
+- [Code coverage](https://github.com/phalcon/vokuro/pull/171) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (1 day ago)
+- [T4 acceptance tests](https://github.com/phalcon/talon/pull/6) on [phalcon/talon](https://github.com/phalcon/talon) (2 days ago)
+- [master update](https://github.com/phalcon/phalcon/pull/768) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2 days ago)
+- [CP-17248 getStatusCode](https://github.com/phalcon/cphalcon/pull/17249) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [CP-17209 queue stats](https://github.com/phalcon/cphalcon/pull/17247) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [CP-17232 form fields](https://github.com/phalcon/cphalcon/pull/17246) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [Talon refactor](https://github.com/phalcon/vokuro/pull/170) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (3 days ago)
+- [0.2.0](https://github.com/phalcon/talon/pull/3) on [phalcon/talon](https://github.com/phalcon/talon) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [response-interop/interface](https://github.com/response-interop/interface) ([1.0.0](https://github.com/response-interop/interface/releases/tag/1.0.0), 1 day ago) - Interoperable server response interfaces for PHP.
-- [phalcon/talon](https://github.com/phalcon/talon) ([v0.3.0](https://github.com/phalcon/talon/releases/tag/v0.3.0), 1 day ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0alpha3](https://github.com/phalcon/phalcon/releases/tag/v6.0.0alpha3), 1 day ago) - [WIP] Phalcon Framework. Work will continue after release of v5.0
-- [phalcon/invo](https://github.com/phalcon/invo) ([v5.0.0](https://github.com/phalcon/invo/releases/tag/v5.0.0), 3 days ago) - Sample application for the Phalcon PHP Framework
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) ([v3.0.0](https://github.com/phalcon/bridge-psr3/releases/tag/v3.0.0), 5 days ago)
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.0.0](https://github.com/zephir-lang/zephir/releases/tag/1.0.0), 1 day ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) ([v5.0.1](https://github.com/phalcon/vokuro/releases/tag/v5.0.1), 1 day ago) - Sample application for Phalcon Framework (Acl, Auth, Security)
+- [phalcon/invo](https://github.com/phalcon/invo) ([v5.0.1](https://github.com/phalcon/invo/releases/tag/v5.0.1), 1 day ago) - Sample application for the Phalcon PHP Framework
+- [phalcon/talon](https://github.com/phalcon/talon) ([v0.4.0](https://github.com/phalcon/talon/releases/tag/v0.4.0), 1 day ago)
+- [response-interop/interface](https://github.com/response-interop/interface) ([1.0.0](https://github.com/response-interop/interface/releases/tag/1.0.0), 2 days ago) - Interoperable server response interfaces for PHP.
 
 #### 🌱 My latest projects
 
