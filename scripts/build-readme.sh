@@ -12,7 +12,7 @@ TEMPLATE="${PROFILE_TEMPLATE:-templates/README.md.tpl}"
 OUTPUT="${PROFILE_OUTPUT:-README.md}"
 META_REPO="${USERNAME}/${USERNAME}"
 
-SECTIONS=(contributions pullrequests releases)
+SECTIONS=(contributions pullrequests releases repositories)
 
 BUILD_DIR=".readme-build"
 trap 'rm -rf "${BUILD_DIR}"' EXIT
@@ -29,27 +29,18 @@ if [[ ! -f "${TEMPLATE}" ]]; then
     exit 1
 fi
 
-# Relative timestamps, matching the wording the previous renderer produced
-# ("now", "5 minutes ago", "1 day ago", "3 weeks ago", ...).
+# Relative timestamps in short form ("now", "5m ago", "18h ago", "3d ago", ...).
 read -r -d '' HELPERS <<'JQ' || true
 def humanize:
     (now - fromdateiso8601) as $d
     | if   $d < 1        then "now"
-      elif $d < 2        then "1 second ago"
-      elif $d < 60       then "\($d | floor) seconds ago"
-      elif $d < 120      then "1 minute ago"
-      elif $d < 3600     then "\(($d / 60) | floor) minutes ago"
-      elif $d < 7200     then "1 hour ago"
-      elif $d < 86400    then "\(($d / 3600) | floor) hours ago"
-      elif $d < 172800   then "1 day ago"
-      elif $d < 604800   then "\(($d / 86400) | floor) days ago"
-      elif $d < 1209600  then "1 week ago"
-      elif $d < 2592000  then "\(($d / 604800) | floor) weeks ago"
-      elif $d < 5184000  then "1 month ago"
-      elif $d < 31536000 then "\(($d / 2592000) | floor) months ago"
-      elif $d < 46656000 then "1 year ago"
-      elif $d < 63072000 then "2 years ago"
-      else                    "\(($d / 31536000) | floor) years ago"
+      elif $d < 60       then "\($d | floor)s ago"
+      elif $d < 3600     then "\(($d / 60) | floor)m ago"
+      elif $d < 86400    then "\(($d / 3600) | floor)h ago"
+      elif $d < 604800   then "\(($d / 86400) | floor)d ago"
+      elif $d < 2592000  then "\(($d / 604800) | floor)w ago"
+      elif $d < 31536000 then "\(($d / 2592000) | floor)mo ago"
+      else                    "\(($d / 31536000) | floor)y ago"
       end;
 
 def suffix:
@@ -197,6 +188,34 @@ jq -r -s --arg meta "${META_REPO}" "${HELPERS}"'
     )
     | .[]
 ' "${BUILD_DIR}/releases.json" > "${BUILD_DIR}/releases.md"
+
+# Latest projects
+#
+# Over-fetch by one so the list still reaches 5 after the meta repository is
+# dropped.
+gh api graphql -f login="${USERNAME}" -f query='
+    query($login: String!) {
+        user(login: $login) {
+            repositories(
+                first: 6
+                privacy: PUBLIC
+                isFork: false
+                ownerAffiliations: OWNER
+                orderBy: {field: CREATED_AT, direction: DESC}
+            ) {
+                nodes { nameWithOwner url description }
+            }
+        }
+    }' \
+    | jq -r --arg meta "${META_REPO}" "${HELPERS}"'
+        [
+            .data.user.repositories.nodes[]
+            | select(.nameWithOwner != $meta)
+        ]
+        | .[0:5]
+        | map("- [\(.nameWithOwner)](\(.url))" + (.description | suffix))
+        | .[]
+    ' > "${BUILD_DIR}/repositories.md"
 
 for section in "${SECTIONS[@]}"; do
     if [[ ! -s "${BUILD_DIR}/${section}.md" ]]; then
