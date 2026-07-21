@@ -12,7 +12,7 @@ TEMPLATE="${PROFILE_TEMPLATE:-templates/README.md.tpl}"
 OUTPUT="${PROFILE_OUTPUT:-README.md}"
 META_REPO="${USERNAME}/${USERNAME}"
 
-SECTIONS=(contributions)
+SECTIONS=(contributions pullrequests)
 
 BUILD_DIR=".readme-build"
 trap 'rm -rf "${BUILD_DIR}"' EXIT
@@ -91,6 +91,38 @@ gh api graphql -f login="${USERNAME}" -f query='
         )
         | .[]
     ' > "${BUILD_DIR}/contributions.md"
+
+# Latest Pull Requests
+#
+# Over-fetch slightly so the list still reaches 10 after the meta and private
+# repositories are dropped.
+gh api graphql -f login="${USERNAME}" -f query='
+    query($login: String!) {
+        user(login: $login) {
+            pullRequests(first: 15, orderBy: {field: CREATED_AT, direction: DESC}) {
+                nodes {
+                    title
+                    url
+                    createdAt
+                    repository { nameWithOwner url isPrivate }
+                }
+            }
+        }
+    }' \
+    | jq -r --arg meta "${META_REPO}" "${HELPERS}"'
+        [
+            .data.user.pullRequests.nodes[]
+            | select(.repository.isPrivate | not)
+            | select(.repository.nameWithOwner != $meta)
+        ]
+        | .[0:10]
+        | map(
+            "- [\(.title)](\(.url))"
+            + " on [\(.repository.nameWithOwner)](\(.repository.url))"
+            + " (\(.createdAt | humanize))"
+        )
+        | .[]
+    ' > "${BUILD_DIR}/pullrequests.md"
 
 for section in "${SECTIONS[@]}"; do
     if [[ ! -s "${BUILD_DIR}/${section}.md" ]]; then

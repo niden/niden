@@ -19,4 +19,17 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (3 days ago)
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (4 days ago)
 
+#### 🔨 Latest Pull Requests I published
+
+- [CP-17379 create viewresponder for adr](https://github.com/phalcon/cphalcon/pull/17384) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 hours ago)
+- [CP-17382 skipattributes no longer skips mysql](https://github.com/phalcon/cphalcon/pull/17383) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (8 hours ago)
+- [CP-17380 update class strings with class](https://github.com/phalcon/cphalcon/pull/17381) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1 day ago)
+- [CP-17341 add ADR implementation](https://github.com/phalcon/cphalcon/pull/17378) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [ADR - convention router](https://github.com/phalcon/cphalcon/pull/17377) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2 days ago)
+- [B4 - ADR - error responder, application, emitter, provider, kernel](https://github.com/phalcon/cphalcon/pull/17376) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [B3 - ADR pipeline/route: Events, Pipeline, Middleware, Dispatcher, Router](https://github.com/phalcon/cphalcon/pull/17375) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [B2 - ADR domain surface: Input, Formatters, Responder](https://github.com/phalcon/cphalcon/pull/17374) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [B1 - ADR foundations: Payload, StatusMapper, attributes, exceptions, contracts](https://github.com/phalcon/cphalcon/pull/17373) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+- [CP-17367 introduce attributes in http request](https://github.com/phalcon/cphalcon/pull/17369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
+
 

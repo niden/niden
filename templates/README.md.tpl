@@ -10,4 +10,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 <!--CONTRIBUTIONS-->
 
+#### 🔨 Latest Pull Requests I published
+
+<!--PULLREQUESTS-->
+
 
