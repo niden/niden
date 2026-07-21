@@ -32,4 +32,12 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 - [B1 - ADR foundations: Payload, StatusMapper, attributes, exceptions, contracts](https://github.com/phalcon/cphalcon/pull/17373) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 - [CP-17367 introduce attributes in http request](https://github.com/phalcon/cphalcon/pull/17369) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3 days ago)
 
+#### 🔭 Latest releases I've contributed to
+
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.17.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.17.0), 3 days ago) - Phalcon IDE Stubs
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) ([v5.1.0](https://github.com/phalcon/rest-api/releases/tag/v5.1.0), 3 days ago) - Implementation of an API application using the Phalcon Framework
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.17.0](https://github.com/phalcon/cphalcon/releases/tag/v5.17.0), 3 days ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/talon](https://github.com/phalcon/talon) ([v0.8.0](https://github.com/phalcon/talon/releases/tag/v0.8.0), 5 days ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) ([v5.0.4](https://github.com/phalcon/vokuro/releases/tag/v5.0.4), 6 days ago) - Sample application for Phalcon Framework (Acl, Auth, Security)
+
 

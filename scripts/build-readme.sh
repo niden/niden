@@ -12,7 +12,7 @@ TEMPLATE="${PROFILE_TEMPLATE:-templates/README.md.tpl}"
 OUTPUT="${PROFILE_OUTPUT:-README.md}"
 META_REPO="${USERNAME}/${USERNAME}"
 
-SECTIONS=(contributions pullrequests)
+SECTIONS=(contributions pullrequests releases)
 
 BUILD_DIR=".readme-build"
 trap 'rm -rf "${BUILD_DIR}"' EXIT
@@ -123,6 +123,80 @@ gh api graphql -f login="${USERNAME}" -f query='
         )
         | .[]
     ' > "${BUILD_DIR}/pullrequests.md"
+
+# Latest releases contributed to
+#
+# repositoriesContributedTo has a hard cost ceiling somewhere between 10 and 15
+# repositories per request - above that the API answers RESOURCE_LIMITS_EXCEEDED
+# regardless of how few fields are nested - so walk it a page at a time and
+# collect the nodes before formatting.
+after="null"
+pages=0
+: > "${BUILD_DIR}/releases.json"
+
+while :; do
+    response=$(gh api graphql -f login="${USERNAME}" -F after="${after}" -f query='
+        query($login: String!, $after: String) {
+            user(login: $login) {
+                repositoriesContributedTo(
+                    first: 10
+                    after: $after
+                    includeUserRepositories: true
+                    contributionTypes: COMMIT
+                    privacy: PUBLIC
+                ) {
+                    pageInfo { hasNextPage endCursor }
+                    nodes {
+                        nameWithOwner
+                        url
+                        description
+                        releases(first: 10, orderBy: {field: CREATED_AT, direction: DESC}) {
+                            nodes { tagName url publishedAt isPrerelease isDraft }
+                        }
+                    }
+                }
+            }
+        }')
+
+    jq -c '.data.user.repositoriesContributedTo.nodes[]' <<<"${response}" >> "${BUILD_DIR}/releases.json"
+
+    pages=$((pages + 1))
+    if [[ "$(jq -r '.data.user.repositoriesContributedTo.pageInfo.hasNextPage' <<<"${response}")" != "true" ]]; then
+        break
+    fi
+    if [[ "${pages}" -ge 20 ]]; then
+        echo "warning: stopped paginating releases after ${pages} pages" >&2
+        break
+    fi
+    after=$(jq -r '.data.user.repositoriesContributedTo.pageInfo.endCursor' <<<"${response}")
+done
+
+jq -r -s --arg meta "${META_REPO}" "${HELPERS}"'
+    [
+        .[]
+        | select(.nameWithOwner != $meta)
+        | . as $repo
+        | (
+            [
+                .releases.nodes[]
+                | select((.isDraft | not) and (.isPrerelease | not))
+                | select(.publishedAt != null and .tagName != "")
+            ]
+            | first
+          ) as $release
+        | select($release != null)
+        | {repo: $repo, release: $release}
+    ]
+    | sort_by(.release.publishedAt)
+    | reverse
+    | .[0:5]
+    | map(
+        "- [\(.repo.nameWithOwner)](\(.repo.url))"
+        + " ([\(.release.tagName)](\(.release.url)), \(.release.publishedAt | humanize))"
+        + (.repo.description | suffix)
+    )
+    | .[]
+' "${BUILD_DIR}/releases.json" > "${BUILD_DIR}/releases.md"
 
 for section in "${SECTIONS[@]}"; do
     if [[ ! -s "${BUILD_DIR}/${section}.md" ]]; then
