@@ -12,12 +12,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@v0.1
+      - run: ./scripts/build-readme.sh
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - uses: actions/upload-artifact@v4
         with:
