@@ -5,8 +5,8 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=6b0ea9ef">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=6b0ea9ef">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=5d37f264">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=5d37f264">
 </picture>
 
 #### 👷 Work in Progress
