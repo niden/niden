@@ -5,40 +5,40 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=58ddf415">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=58ddf415">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=381056f9">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=381056f9">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (18h ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (18h ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
-- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (1d ago)
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) (1d ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (2d ago)
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (2d ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (2d ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2d ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (2d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (18h ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1d ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1d ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (1d ago)
+- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (2d ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) (2d ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (3d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (3d ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (3d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17393 adr router enhancements](https://github.com/phalcon/cphalcon/pull/17394) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3h ago)
-- [Tutorial modernization](https://github.com/phalcon/tutorial/pull/16) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (8h ago)
-- [CP-17391 container autowiring a service with container](https://github.com/phalcon/cphalcon/pull/17392) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17389 augment adr application](https://github.com/phalcon/cphalcon/pull/17390) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17379 create viewresponder for adr](https://github.com/phalcon/cphalcon/pull/17384) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
-- [CP-17382 skipattributes no longer skips mysql](https://github.com/phalcon/cphalcon/pull/17383) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
-- [CP-17380 update class strings with class](https://github.com/phalcon/cphalcon/pull/17381) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
-- [CP-17341 add ADR implementation](https://github.com/phalcon/cphalcon/pull/17378) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5d ago)
-- [ADR - convention router](https://github.com/phalcon/cphalcon/pull/17377) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6d ago)
-- [B4 - ADR - error responder, application, emitter, provider, kernel](https://github.com/phalcon/cphalcon/pull/17376) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6d ago)
+- [CP-17395 cookies are not deleted](https://github.com/phalcon/cphalcon/pull/17396) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4h ago)
+- [CP-17393 adr router enhancements](https://github.com/phalcon/cphalcon/pull/17394) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [Tutorial modernization](https://github.com/phalcon/tutorial/pull/16) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (1d ago)
+- [CP-17391 container autowiring a service with container](https://github.com/phalcon/cphalcon/pull/17392) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17389 augment adr application](https://github.com/phalcon/cphalcon/pull/17390) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17379 create viewresponder for adr](https://github.com/phalcon/cphalcon/pull/17384) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5d ago)
+- [CP-17382 skipattributes no longer skips mysql](https://github.com/phalcon/cphalcon/pull/17383) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5d ago)
+- [CP-17380 update class strings with class](https://github.com/phalcon/cphalcon/pull/17381) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5d ago)
+- [CP-17341 add ADR implementation](https://github.com/phalcon/cphalcon/pull/17378) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6d ago)
+- [ADR - convention router](https://github.com/phalcon/cphalcon/pull/17377) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta1](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta1), 2h ago) - Phalcon Framework as a PHP implementation
-- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.17.x](https://github.com/phalcon/tutorial/releases/tag/5.17.x), 8h ago) - Phalcon Tutorial
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta1](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta1), 1d ago) - Phalcon Framework as a PHP implementation
+- [phalcon/tutorial](https://github.com/phalcon/tutorial) ([5.17.x](https://github.com/phalcon/tutorial/releases/tag/5.17.x), 1d ago) - Phalcon Tutorial
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.17.0](https://github.com/phalcon/ide-stubs/releases/tag/v5.17.0), 1w ago) - Phalcon IDE Stubs
 - [phalcon/rest-api](https://github.com/phalcon/rest-api) ([v5.1.0](https://github.com/phalcon/rest-api/releases/tag/v5.1.0), 1w ago) - Implementation of an API application using the Phalcon Framework
 - [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.17.0](https://github.com/phalcon/cphalcon/releases/tag/v5.17.0), 1w ago) - High performance, full-stack PHP framework delivered as a C extension.
