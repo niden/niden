@@ -5,35 +5,35 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=1f107725">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=1f107725">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=aa627aae">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=aa627aae">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (18h ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (1d ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (2d ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (2d ago)
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) (2d ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (5d ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (5d ago)
-- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (5d ago)
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (6d ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1w ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (18h ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (3d ago)
+- [phalcon/quill](https://github.com/phalcon/quill) (3d ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) (3d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (6d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (6d ago)
+- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (6d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1w ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17443 config alignment](https://github.com/phalcon/cphalcon/pull/17504) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (8h ago)
-- [CP-17442 cli alignment](https://github.com/phalcon/cphalcon/pull/17502) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17499 callback closure bind](https://github.com/phalcon/cphalcon/pull/17500) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17507 - fixing docblock/null type error](https://github.com/phalcon/cphalcon/pull/17508) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2h ago)
+- [CP-17501 datamapper events](https://github.com/phalcon/cphalcon/pull/17506) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
+- [CP-17503 stringlength max validator](https://github.com/phalcon/cphalcon/pull/17505) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
+- [CP-17443 config alignment](https://github.com/phalcon/cphalcon/pull/17504) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17442 cli alignment](https://github.com/phalcon/cphalcon/pull/17502) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17499 callback closure bind](https://github.com/phalcon/cphalcon/pull/17500) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
 - [CP-17446 datamapper alignment](https://github.com/phalcon/cphalcon/pull/17498) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 - [CP-17441 cache alignment](https://github.com/phalcon/cphalcon/pull/17497) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 - [CP-17470 tag alignment](https://github.com/phalcon/cphalcon/pull/17496) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 - [CP-17459 http alignment](https://github.com/phalcon/cphalcon/pull/17495) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
-- [CP-17468 support alignment](https://github.com/phalcon/cphalcon/pull/17494) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
-- [T 30 schema fixtures](https://github.com/phalcon/talon/pull/34) on [phalcon/talon](https://github.com/phalcon/talon) (1w ago)
-- [CP-17440 autoload alignment](https://github.com/phalcon/cphalcon/pull/17493) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 
 #### 🔭 Latest releases I've contributed to
 
