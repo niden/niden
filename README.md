@@ -5,43 +5,43 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=fb8a7ea6">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=fb8a7ea6">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=2ae829e8">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=2ae829e8">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (18h ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) (18h ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1d ago)
 - [phalcon/quill](https://github.com/phalcon/quill) (1d ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1d ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (3d ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (4d ago)
-- [phalcon/talon](https://github.com/phalcon/talon) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs. (4d ago)
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (5d ago)
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (5d ago)
-- [phalcon/crest](https://github.com/phalcon/crest) (5d ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (4d ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (5d ago)
+- [phalcon/talon](https://github.com/phalcon/talon) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs. (5d ago)
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) - Phalcon IDE Stubs (6d ago)
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (6d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17454 filter alignment](https://github.com/phalcon/cphalcon/pull/17550) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1h ago)
-- [CP-17548 ip per field](https://github.com/phalcon/cphalcon/pull/17549) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (12h ago)
-- [CP-17541 checkupload](https://github.com/phalcon/cphalcon/pull/17544) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
-- [CP-17542 getimagesize](https://github.com/phalcon/cphalcon/pull/17543) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
-- [CP-17455 flash alignment](https://github.com/phalcon/cphalcon/pull/17540) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17456 forms alignment](https://github.com/phalcon/cphalcon/pull/17539) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [Nimbus docs](https://github.com/phalcon/documentation/pull/343) on [phalcon/documentation](https://github.com/phalcon/documentation) (1d ago)
-- [CP-17536 - fixing the options for checkbox/radio; removing dead code](https://github.com/phalcon/cphalcon/pull/17537) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
-- [CP-17444 container alignment](https://github.com/phalcon/cphalcon/pull/17535) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
-- [stubs: update to v5.20.3](https://github.com/phalcon/ide-stubs/pull/136) on [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) (5d ago)
+- [CP-17453 factory alignment](https://github.com/phalcon/cphalcon/pull/17552) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (46m ago)
+- [CP-17546 findfirst eager](https://github.com/phalcon/cphalcon/pull/17551) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
+- [T11 nimbus page links](https://github.com/phalcon/quill/pull/12) on [phalcon/quill](https://github.com/phalcon/quill) (23h ago)
+- [CP-17454 filter alignment](https://github.com/phalcon/cphalcon/pull/17550) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17548 ip per field](https://github.com/phalcon/cphalcon/pull/17549) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17541 checkupload](https://github.com/phalcon/cphalcon/pull/17544) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17542 getimagesize](https://github.com/phalcon/cphalcon/pull/17543) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17455 flash alignment](https://github.com/phalcon/cphalcon/pull/17540) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17456 forms alignment](https://github.com/phalcon/cphalcon/pull/17539) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [Nimbus docs](https://github.com/phalcon/documentation/pull/343) on [phalcon/documentation](https://github.com/phalcon/documentation) (2d ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/quill](https://github.com/phalcon/quill) ([v0.4.0](https://github.com/phalcon/quill/releases/tag/v0.4.0), 1d ago)
-- [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.3](https://github.com/phalcon/talon/releases/tag/v1.0.3), 4d ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
-- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.20.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.20.3), 5d ago) - Phalcon IDE Stubs
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta11](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta11), 5d ago) - Phalcon Framework as a PHP implementation
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.20.3](https://github.com/phalcon/cphalcon/releases/tag/v5.20.3), 5d ago) - High performance, full-stack PHP framework delivered as a C extension.
+- [phalcon/quill](https://github.com/phalcon/quill) ([v0.5.0](https://github.com/phalcon/quill/releases/tag/v0.5.0), 23h ago)
+- [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.3](https://github.com/phalcon/talon/releases/tag/v1.0.3), 5d ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
+- [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.20.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.20.3), 6d ago) - Phalcon IDE Stubs
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta11](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta11), 6d ago) - Phalcon Framework as a PHP implementation
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) ([v5.20.3](https://github.com/phalcon/cphalcon/releases/tag/v5.20.3), 1w ago) - High performance, full-stack PHP framework delivered as a C extension.
 
 #### 🌱 My latest projects
 
