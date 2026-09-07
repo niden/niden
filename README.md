@@ -5,17 +5,17 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=5e34d46c">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=5e34d46c">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=cebe578e">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=cebe578e">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (18h ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) (3d ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (4d ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (4d ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (1d ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (1d ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) (4d ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (5d ago)
+- [phalcon/quill](https://github.com/phalcon/quill) (5d ago)
 - [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1w ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (1w ago)
 - [phalcon/talon](https://github.com/phalcon/talon) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs. (1w ago)
@@ -24,21 +24,21 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17447 db alignment](https://github.com/phalcon/cphalcon/pull/17571) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2h ago)
-- [CP-17463 mvc alignment](https://github.com/phalcon/cphalcon/pull/17570) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
-- [CP-17568 simple current](https://github.com/phalcon/cphalcon/pull/17569) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17565 volt cleanup](https://github.com/phalcon/cphalcon/pull/17567) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17561 stream mkdir](https://github.com/phalcon/cphalcon/pull/17563) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17560 readattribute reusable](https://github.com/phalcon/cphalcon/pull/17562) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17558 column map absent](https://github.com/phalcon/cphalcon/pull/17559) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17556 relation field guards](https://github.com/phalcon/cphalcon/pull/17557) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
-- [CP-17554 eager fallback](https://github.com/phalcon/cphalcon/pull/17555) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
-- [CP-17446 datamapper alignment](https://github.com/phalcon/cphalcon/pull/17553) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17472 annotations alignment](https://github.com/phalcon/cphalcon/pull/17573) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (20h ago)
+- [CP-17447 db alignment](https://github.com/phalcon/cphalcon/pull/17571) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17463 mvc alignment](https://github.com/phalcon/cphalcon/pull/17570) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17568 simple current](https://github.com/phalcon/cphalcon/pull/17569) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17565 volt cleanup](https://github.com/phalcon/cphalcon/pull/17567) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17561 stream mkdir](https://github.com/phalcon/cphalcon/pull/17563) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17560 readattribute reusable](https://github.com/phalcon/cphalcon/pull/17562) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17558 column map absent](https://github.com/phalcon/cphalcon/pull/17559) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17556 relation field guards](https://github.com/phalcon/cphalcon/pull/17557) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
+- [CP-17554 eager fallback](https://github.com/phalcon/cphalcon/pull/17555) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/traits](https://github.com/phalcon/traits) ([4.1.0](https://github.com/phalcon/traits/releases/tag/4.1.0), 1d ago) - Traits used primarily in the v6 package but also available as a helper package for applications
-- [phalcon/quill](https://github.com/phalcon/quill) ([v0.5.0](https://github.com/phalcon/quill/releases/tag/v0.5.0), 3d ago)
+- [phalcon/traits](https://github.com/phalcon/traits) ([4.1.0](https://github.com/phalcon/traits/releases/tag/4.1.0), 2d ago) - Traits used primarily in the v6 package but also available as a helper package for applications
+- [phalcon/quill](https://github.com/phalcon/quill) ([v0.5.0](https://github.com/phalcon/quill/releases/tag/v0.5.0), 4d ago)
 - [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.3](https://github.com/phalcon/talon/releases/tag/v1.0.3), 1w ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
 - [phalcon/ide-stubs](https://github.com/phalcon/ide-stubs) ([v5.20.3](https://github.com/phalcon/ide-stubs/releases/tag/v5.20.3), 1w ago) - Phalcon IDE Stubs
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) ([v6.0.0beta11](https://github.com/phalcon/phalcon/releases/tag/v6.0.0beta11), 1w ago) - Phalcon Framework as a PHP implementation
