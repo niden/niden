@@ -5,43 +5,43 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=c6cd9667">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=c6cd9667">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=e7351c1f">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=e7351c1f">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (18h ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (18h ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (18h ago)
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) (18h ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (18h ago)
-- [phalcon/talon](https://github.com/phalcon/talon) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs. (18h ago)
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (1d ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (3d ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1w ago)
+- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (18h ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1d ago)
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (1d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1d ago)
+- [phalcon/quill](https://github.com/phalcon/quill) (1d ago)
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) (1d ago)
+- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (1d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17581 cloneresult](https://github.com/phalcon/cphalcon/pull/17584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (44m ago)
-- [CP-17582 getprivateproperties](https://github.com/phalcon/cphalcon/pull/17583) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (8h ago)
-- [CP-17578 caseinsensitivecolumnmap](https://github.com/phalcon/cphalcon/pull/17579) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (11h ago)
-- [CP-17574 cached query toarray](https://github.com/phalcon/cphalcon/pull/17577) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
-- [CP-17451 encryption alignment](https://github.com/phalcon/cphalcon/pull/17576) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [CP-17450 domain alignment](https://github.com/phalcon/cphalcon/pull/17575) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [Astro conversion](https://github.com/niden-net/niden.net/pull/38) on [niden-net/niden.net](https://github.com/niden-net/niden.net) (1d ago)
-- [CP-17472 annotations alignment](https://github.com/phalcon/cphalcon/pull/17573) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
-- [CP-17447 db alignment](https://github.com/phalcon/cphalcon/pull/17571) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
-- [CP-17463 mvc alignment](https://github.com/phalcon/cphalcon/pull/17570) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
+- [CP-17585 phql escaping](https://github.com/phalcon/cphalcon/pull/17587) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (7h ago)
+- [CP-17581 cloneresult](https://github.com/phalcon/cphalcon/pull/17584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17582 getprivateproperties](https://github.com/phalcon/cphalcon/pull/17583) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17578 caseinsensitivecolumnmap](https://github.com/phalcon/cphalcon/pull/17579) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17574 cached query toarray](https://github.com/phalcon/cphalcon/pull/17577) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17451 encryption alignment](https://github.com/phalcon/cphalcon/pull/17576) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [CP-17450 domain alignment](https://github.com/phalcon/cphalcon/pull/17575) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [Astro conversion](https://github.com/niden-net/niden.net/pull/38) on [niden-net/niden.net](https://github.com/niden-net/niden.net) (2d ago)
+- [CP-17472 annotations alignment](https://github.com/phalcon/cphalcon/pull/17573) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
+- [CP-17447 db alignment](https://github.com/phalcon/cphalcon/pull/17571) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.4.0](https://github.com/zephir-lang/zephir/releases/tag/1.4.0), 2h ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [phalcon/code-quality](https://github.com/phalcon/code-quality) ([1.0.0](https://github.com/phalcon/code-quality/releases/tag/1.0.0), 5h ago) - Repository hosting code quality configuration files, shared in the organization
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) ([2.0.0](https://github.com/niden-net/niden.net/releases/tag/2.0.0), 1d ago) - niden.net Blog
-- [phalcon/traits](https://github.com/phalcon/traits) ([4.1.0](https://github.com/phalcon/traits/releases/tag/4.1.0), 4d ago) - Traits used primarily in the v6 package but also available as a helper package for applications
-- [phalcon/quill](https://github.com/phalcon/quill) ([v0.5.0](https://github.com/phalcon/quill/releases/tag/v0.5.0), 6d ago)
+- [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.4](https://github.com/phalcon/talon/releases/tag/v1.0.4), 22h ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
+- [phalcon/code-quality](https://github.com/phalcon/code-quality) ([1.0.1](https://github.com/phalcon/code-quality/releases/tag/1.0.1), 23h ago) - Repository hosting code quality configuration files, shared in the organization
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.4.0](https://github.com/zephir-lang/zephir/releases/tag/1.4.0), 1d ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) ([2.0.0](https://github.com/niden-net/niden.net/releases/tag/2.0.0), 2d ago) - niden.net Blog
+- [phalcon/traits](https://github.com/phalcon/traits) ([4.1.0](https://github.com/phalcon/traits/releases/tag/4.1.0), 5d ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 
 #### 🌱 My latest projects
 
