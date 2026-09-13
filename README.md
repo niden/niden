@@ -5,42 +5,42 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=b620cb7a">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=b620cb7a">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=b93e1869">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=b93e1869">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
-- [phalcon/crest](https://github.com/phalcon/crest) (1d ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (1d ago)
-- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (2d ago)
-- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (3d ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (3d ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (3d ago)
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (3d ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (3d ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (3d ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (1d ago)
+- [phalcon/crest](https://github.com/phalcon/crest) (2d ago)
+- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (2d ago)
+- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (3d ago)
+- [phalcon/bridge-psr3](https://github.com/phalcon/bridge-psr3) - Bridge PSR-3 connects the Phalcon logger and the PSR-3 standard in both directions (4d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (4d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (4d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (4d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (4d ago)
+- [phalcon/quill](https://github.com/phalcon/quill) (4d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17428 - phpstan / alignment final pass](https://github.com/phalcon/cphalcon/pull/17592) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3h ago)
-- [CP-17445 contracts alignment](https://github.com/phalcon/cphalcon/pull/17591) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (7h ago)
-- [CP-17452 events alignment](https://github.com/phalcon/cphalcon/pull/17590) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (10h ago)
-- [Removing PSR-14 from v6](https://github.com/phalcon/phalcon/pull/783) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (11h ago)
-- [Cp 17448 di alignment](https://github.com/phalcon/cphalcon/pull/17589) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
-- [CP-17473 traits alignment](https://github.com/phalcon/cphalcon/pull/17588) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
-- [Astro conversion](https://github.com/phalcon/blog/pull/632) on [phalcon/blog](https://github.com/phalcon/blog) (1d ago)
-- [CP-17585 phql escaping](https://github.com/phalcon/cphalcon/pull/17587) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
-- [CP-17581 cloneresult](https://github.com/phalcon/cphalcon/pull/17584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
-- [CP-17582 getprivateproperties](https://github.com/phalcon/cphalcon/pull/17583) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
+- [CP-17428 - phpstan / alignment final pass](https://github.com/phalcon/cphalcon/pull/17592) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17445 contracts alignment](https://github.com/phalcon/cphalcon/pull/17591) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17452 events alignment](https://github.com/phalcon/cphalcon/pull/17590) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [Removing PSR-14 from v6](https://github.com/phalcon/phalcon/pull/783) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1d ago)
+- [Cp 17448 di alignment](https://github.com/phalcon/cphalcon/pull/17589) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17473 traits alignment](https://github.com/phalcon/cphalcon/pull/17588) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2d ago)
+- [Astro conversion](https://github.com/phalcon/blog/pull/632) on [phalcon/blog](https://github.com/phalcon/blog) (2d ago)
+- [CP-17585 phql escaping](https://github.com/phalcon/cphalcon/pull/17587) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3d ago)
+- [CP-17581 cloneresult](https://github.com/phalcon/cphalcon/pull/17584) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
+- [CP-17582 getprivateproperties](https://github.com/phalcon/cphalcon/pull/17583) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4d ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.4](https://github.com/phalcon/talon/releases/tag/v1.0.4), 2d ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
-- [phalcon/code-quality](https://github.com/phalcon/code-quality) ([1.0.1](https://github.com/phalcon/code-quality/releases/tag/1.0.1), 2d ago) - Repository hosting code quality configuration files, shared in the organization
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.4.0](https://github.com/zephir-lang/zephir/releases/tag/1.4.0), 3d ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [niden-net/niden.net](https://github.com/niden-net/niden.net) ([2.0.0](https://github.com/niden-net/niden.net/releases/tag/2.0.0), 4d ago) - niden.net Blog
+- [phalcon/talon](https://github.com/phalcon/talon) ([v1.0.4](https://github.com/phalcon/talon/releases/tag/v1.0.4), 3d ago) - Test harness and Phalcon bootstrapping for PHPUnit and beyond - the part of Phalcon that catches the bugs.
+- [phalcon/code-quality](https://github.com/phalcon/code-quality) ([1.0.1](https://github.com/phalcon/code-quality/releases/tag/1.0.1), 3d ago) - Repository hosting code quality configuration files, shared in the organization
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.4.0](https://github.com/zephir-lang/zephir/releases/tag/1.4.0), 4d ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [niden-net/niden.net](https://github.com/niden-net/niden.net) ([2.0.0](https://github.com/niden-net/niden.net/releases/tag/2.0.0), 5d ago) - niden.net Blog
 - [phalcon/traits](https://github.com/phalcon/traits) ([4.1.0](https://github.com/phalcon/traits/releases/tag/4.1.0), 1w ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 
 #### 🌱 My latest projects
