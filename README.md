@@ -5,16 +5,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=b93c1c03">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=b93c1c03">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=43d4186d">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=43d4186d">
 </picture>
 
 #### 👷 Work in Progress
 
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (18h ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (18h ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1d ago)
-- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (2d ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2d ago)
+- [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension. (3d ago)
 - [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1w ago)
 - [phalcon/crest](https://github.com/phalcon/crest) (1w ago)
 - [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (1w ago)
@@ -24,16 +24,16 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17696 factory](https://github.com/phalcon/cphalcon/pull/17699) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
-- [CP-17695 benchmark subjects](https://github.com/phalcon/cphalcon/pull/17698) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (7h ago)
-- [CP-17693 rebuild method index](https://github.com/phalcon/cphalcon/pull/17694) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (23h ago)
-- [CP-17687 php 8.6](https://github.com/phalcon/cphalcon/pull/17688) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (6d ago)
+- [CP-17702 config set](https://github.com/phalcon/cphalcon/pull/17707) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (4h ago)
+- [CP-17701 acl optimization](https://github.com/phalcon/cphalcon/pull/17706) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (7h ago)
+- [CP-17697 filter validation perf](https://github.com/phalcon/cphalcon/pull/17700) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (11h ago)
+- [CP-17696 factory](https://github.com/phalcon/cphalcon/pull/17699) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17695 benchmark subjects](https://github.com/phalcon/cphalcon/pull/17698) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17693 rebuild method index](https://github.com/phalcon/cphalcon/pull/17694) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1d ago)
+- [CP-17687 php 8.6](https://github.com/phalcon/cphalcon/pull/17688) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 - [T54 crest new db service](https://github.com/phalcon/crest/pull/72) on [phalcon/crest](https://github.com/phalcon/crest) (1w ago)
 - [CP-17677 volt cache remove](https://github.com/phalcon/cphalcon/pull/17686) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
 - [CP-17676 volt call](https://github.com/phalcon/cphalcon/pull/17685) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
-- [CP-17683 collection optimization](https://github.com/phalcon/cphalcon/pull/17684) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (1w ago)
-- [T53 make model options](https://github.com/phalcon/crest/pull/68) on [phalcon/crest](https://github.com/phalcon/crest) (1w ago)
-- [T52 model all](https://github.com/phalcon/crest/pull/67) on [phalcon/crest](https://github.com/phalcon/crest) (1w ago)
 
 #### 🔭 Latest releases I've contributed to
 
