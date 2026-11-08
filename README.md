@@ -5,35 +5,35 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=3a9ba0b9">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=3a9ba0b9">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=827a882e">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=827a882e">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (17h ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (17h ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (17h ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (17h ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (17h ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (17h ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (17h ago)
 - [phalcon/debugbar](https://github.com/phalcon/debugbar) (17h ago)
-- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (17h ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (17h ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1d ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1d ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (1d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [updating actions and dependencies](https://github.com/phalcon/volt/pull/126) on [phalcon/volt](https://github.com/phalcon/volt) (4m ago)
-- [updating actions and dependencies](https://github.com/phalcon/vokuro-adr/pull/26) on [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) (4m ago)
-- [updating actions and dependencies](https://github.com/phalcon/vokuro/pull/201) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (4m ago)
-- [updating dependencies](https://github.com/phalcon/tutorial/pull/35) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (5m ago)
-- [updating actions and dependencies](https://github.com/phalcon/traits/pull/80) on [phalcon/traits](https://github.com/phalcon/traits) (5m ago)
-- [updating actions and dependencies](https://github.com/phalcon/talon/pull/47) on [phalcon/talon](https://github.com/phalcon/talon) (6m ago)
-- [updating actions and dependencies](https://github.com/phalcon/rest-api/pull/73) on [phalcon/rest-api](https://github.com/phalcon/rest-api) (6m ago)
-- [updating actions and dependencies](https://github.com/phalcon/quill/pull/25) on [phalcon/quill](https://github.com/phalcon/quill) (6m ago)
-- [updating actions and dependencies](https://github.com/phalcon/phql/pull/36) on [phalcon/phql](https://github.com/phalcon/phql) (7m ago)
-- [updating dependencies](https://github.com/phalcon/phalcon.io/pull/364) on [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) (7m ago)
+- [T99 collector edge cases](https://github.com/phalcon/debugbar/pull/138) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (9m ago)
+- [T98 request resolvers](https://github.com/phalcon/debugbar/pull/137) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (22m ago)
+- [T97 shipped minified assets](https://github.com/phalcon/debugbar/pull/136) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (38m ago)
+- [T92 row limit](https://github.com/phalcon/debugbar/pull/135) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (1h ago)
+- [CP-17743 debug htmlrenderer](https://github.com/phalcon/cphalcon/pull/17744) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2h ago)
+- [T103 js test gaps](https://github.com/phalcon/debugbar/pull/133) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (19h ago)
+- [T96 fail closed](https://github.com/phalcon/debugbar/pull/132) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (19h ago)
+- [T94 name constants](https://github.com/phalcon/debugbar/pull/131) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (19h ago)
+- [T93 redact adr attributes](https://github.com/phalcon/debugbar/pull/130) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (19h ago)
+- [T91 one json encoder](https://github.com/phalcon/debugbar/pull/129) on [phalcon/debugbar](https://github.com/phalcon/debugbar) (19h ago)
 
 #### 🔭 Latest releases I've contributed to
 
