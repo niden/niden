@@ -5,43 +5,43 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=ec30539a">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=ec30539a">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=10d8a252">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=10d8a252">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (17h ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (17h ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (17h ago)
-- [phalcon/crest](https://github.com/phalcon/crest) (17h ago)
 - [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (17h ago)
 - [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (17h ago)
-- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (1d ago)
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (2d ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (2d ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (2d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1d ago)
+- [phalcon/crest](https://github.com/phalcon/crest) (1d ago)
+- [phalcon/invo](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework (2d ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (3d ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (3d ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) - Generate or migrate database changes via migrations. (3d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [T875 cs-fixer weak types trait](https://github.com/phalcon/phalcon/pull/876) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3h ago)
-- [T873 paginator image options](https://github.com/phalcon/phalcon/pull/874) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3h ago)
-- [T871 filter security options](https://github.com/phalcon/phalcon/pull/872) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4h ago)
-- [T869 mvc model options](https://github.com/phalcon/phalcon/pull/870) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4h ago)
-- [T867 logger translate options](https://github.com/phalcon/phalcon/pull/868) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (4h ago)
-- [T865 storage options](https://github.com/phalcon/phalcon/pull/866) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5h ago)
-- [T863 libmemcached options](https://github.com/phalcon/phalcon/pull/864) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (5h ago)
-- [CP-17762 rediscluster options](https://github.com/phalcon/cphalcon/pull/17763) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
-- [T841 return types](https://github.com/phalcon/phalcon/pull/862) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (9h ago)
-- [T840 typed properties](https://github.com/phalcon/phalcon/pull/861) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (9h ago)
+- [T882 csv blank line](https://github.com/phalcon/phalcon/pull/896) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (10m ago)
+- [T881 router wrong paths key](https://github.com/phalcon/phalcon/pull/895) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (22m ago)
+- [T880 resultset hydrate arrays](https://github.com/phalcon/phalcon/pull/894) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (32m ago)
+- [T879 resultset serializer](https://github.com/phalcon/phalcon/pull/893) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (42m ago)
+- [T887 reverse other](https://github.com/phalcon/phalcon/pull/892) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1h ago)
+- [T886 reverse filter acl http](https://github.com/phalcon/phalcon/pull/891) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (21h ago)
+- [T885 reverse router view](https://github.com/phalcon/phalcon/pull/890) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (22h ago)
+- [T884 reverse model db](https://github.com/phalcon/phalcon/pull/889) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (23h ago)
+- [T883 reverse adapters](https://github.com/phalcon/phalcon/pull/888) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (23h ago)
+- [T875 cs-fixer weak types trait](https://github.com/phalcon/phalcon/pull/876) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1d ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [phalcon/volt](https://github.com/phalcon/volt) ([v1.0.0](https://github.com/phalcon/volt/releases/tag/v1.0.0), 34m ago) - Volt template engine.
-- [phalcon/debugbar](https://github.com/phalcon/debugbar) ([v1.0.0](https://github.com/phalcon/debugbar/releases/tag/v1.0.0), 5d ago)
-- [phalcon/migrations](https://github.com/phalcon/migrations) ([v4.0.1](https://github.com/phalcon/migrations/releases/tag/v4.0.1), 6d ago) - Generate or migrate database changes via migrations.
+- [phalcon/phql](https://github.com/phalcon/phql) ([v1.0.0](https://github.com/phalcon/phql/releases/tag/v1.0.0), 23h ago) - Phalcon Query Language (PHQL).
+- [phalcon/volt](https://github.com/phalcon/volt) ([v1.0.0](https://github.com/phalcon/volt/releases/tag/v1.0.0), 1d ago) - Volt template engine.
+- [phalcon/debugbar](https://github.com/phalcon/debugbar) ([v1.0.0](https://github.com/phalcon/debugbar/releases/tag/v1.0.0), 6d ago)
+- [phalcon/migrations](https://github.com/phalcon/migrations) ([v4.0.1](https://github.com/phalcon/migrations/releases/tag/v4.0.1), 1w ago) - Generate or migrate database changes via migrations.
 - [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.8.0](https://github.com/zephir-lang/zephir/releases/tag/1.8.0), 1w ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [phalcon/traits](https://github.com/phalcon/traits) ([4.2.0](https://github.com/phalcon/traits/releases/tag/4.2.0), 2w ago) - Traits used primarily in the v6 package but also available as a helper package for applications
 
 #### 🌱 My latest projects
 
