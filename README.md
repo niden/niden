@@ -5,42 +5,42 @@ My name is Nikolaos Dimopoulos. I am a sofware developer (primarily PHP) and am 
 #### 📈 My GitHub Statistics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=6d522805">
-  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=6d522805">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg?v=47a65178">
+  <img alt="My GitHub Statistics" src="./assets/stats-light.svg?v=47a65178">
 </picture>
 
 #### 👷 Work in Progress
 
-- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (17h ago)
-- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (17h ago)
-- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (17h ago)
-- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (17h ago)
-- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (17h ago)
-- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (17h ago)
-- [phalcon/quill](https://github.com/phalcon/quill) (17h ago)
 - [phalcon/assets](https://github.com/phalcon/assets) - This repository holds all the assets that Phalcon sites use (17h ago)
-- [phalcon/vokuro](https://github.com/phalcon/vokuro) - Sample application for Phalcon Framework (Acl, Auth, Security) (17h ago)
-- [phalcon/blog](https://github.com/phalcon/blog) - Phalcon Framework's blog (17h ago)
+- [phalcon/documentation](https://github.com/phalcon/documentation) - Official Phalcon Documentation (17h ago)
+- [phalcon/phalcon](https://github.com/phalcon/phalcon) - Phalcon Framework as a PHP implementation (17h ago)
+- [phalcon/traits](https://github.com/phalcon/traits) - Traits used primarily in the v6 package but also available as a helper package for applications (1d ago)
+- [phalcon/phalcon.io](https://github.com/phalcon/phalcon.io) - phalcon.io website (1d ago)
+- [phalcon/phql](https://github.com/phalcon/phql) - Phalcon Query Language (PHQL). (1d ago)
+- [phalcon/rest-api](https://github.com/phalcon/rest-api) - Implementation of an API application using the Phalcon Framework (1d ago)
+- [phalcon/volt](https://github.com/phalcon/volt) - Volt template engine. (1d ago)
+- [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) - Sample ADR application for Phalcon Framework (Acl, Auth, Security) (1d ago)
+- [phalcon/quill](https://github.com/phalcon/quill) (1d ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [CP-17788 debug build return types](https://github.com/phalcon/cphalcon/pull/17789) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (28m ago)
-- [CP-17785 tagfactory newinstance](https://github.com/phalcon/cphalcon/pull/17786) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (2h ago)
-- [CP-17783 escaper doescape](https://github.com/phalcon/cphalcon/pull/17784) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3h ago)
-- [CP-17781 forms element getform](https://github.com/phalcon/cphalcon/pull/17782) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (3h ago)
-- [updating actions and dependencies](https://github.com/phalcon/volt/pull/132) on [phalcon/volt](https://github.com/phalcon/volt) (4h ago)
-- [updating actions and dependencies](https://github.com/phalcon/vokuro-adr/pull/32) on [phalcon/vokuro-adr](https://github.com/phalcon/vokuro-adr) (4h ago)
-- [updating actions and dependencies](https://github.com/phalcon/vokuro/pull/210) on [phalcon/vokuro](https://github.com/phalcon/vokuro) (4h ago)
-- [updating dependencies](https://github.com/phalcon/tutorial/pull/41) on [phalcon/tutorial](https://github.com/phalcon/tutorial) (4h ago)
-- [updating actions and dependencies](https://github.com/phalcon/traits/pull/84) on [phalcon/traits](https://github.com/phalcon/traits) (4h ago)
-- [updating actions and dependencies](https://github.com/phalcon/talon/pull/51) on [phalcon/talon](https://github.com/phalcon/talon) (4h ago)
+- [T851 forms parameter types](https://github.com/phalcon/phalcon/pull/917) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (1h ago)
+- [T850 other parameter types](https://github.com/phalcon/phalcon/pull/916) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2h ago)
+- [T849 container di parameter types](https://github.com/phalcon/phalcon/pull/915) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2h ago)
+- [T848 auth parameter types](https://github.com/phalcon/phalcon/pull/914) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2h ago)
+- [T847 db parameter types](https://github.com/phalcon/phalcon/pull/913) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (2h ago)
+- [T846 support parameter types](https://github.com/phalcon/phalcon/pull/912) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3h ago)
+- [T845 annotations parameter types](https://github.com/phalcon/phalcon/pull/911) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3h ago)
+- [T844 http parameter types](https://github.com/phalcon/phalcon/pull/910) on [phalcon/phalcon](https://github.com/phalcon/phalcon) (3h ago)
+- [CP-17678 volt double escape](https://github.com/phalcon/cphalcon/pull/17795) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (5h ago)
+- [[#17790] - corrections to pr template and contributing](https://github.com/phalcon/cphalcon/pull/17793) on [phalcon/cphalcon](https://github.com/phalcon/cphalcon) (8h ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.10.0](https://github.com/zephir-lang/zephir/releases/tag/1.10.0), 5h ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
-- [ioc-interop/interface](https://github.com/ioc-interop/interface) ([1.0.0](https://github.com/ioc-interop/interface/releases/tag/1.0.0), 1d ago) - Interoperable IOC container interfaces.
-- [phalcon/phql](https://github.com/phalcon/phql) ([v1.0.0](https://github.com/phalcon/phql/releases/tag/v1.0.0), 4d ago) - Phalcon Query Language (PHQL).
-- [phalcon/volt](https://github.com/phalcon/volt) ([v1.0.0](https://github.com/phalcon/volt/releases/tag/v1.0.0), 5d ago) - Volt template engine.
+- [zephir-lang/zephir](https://github.com/zephir-lang/zephir) ([1.10.0](https://github.com/zephir-lang/zephir/releases/tag/1.10.0), 1d ago) - Zephir is a compiled high-level language aimed to ease the creation of C-extensions for PHP
+- [ioc-interop/interface](https://github.com/ioc-interop/interface) ([1.0.0](https://github.com/ioc-interop/interface/releases/tag/1.0.0), 2d ago) - Interoperable IOC container interfaces.
+- [phalcon/phql](https://github.com/phalcon/phql) ([v1.0.0](https://github.com/phalcon/phql/releases/tag/v1.0.0), 5d ago) - Phalcon Query Language (PHQL).
+- [phalcon/volt](https://github.com/phalcon/volt) ([v1.0.0](https://github.com/phalcon/volt/releases/tag/v1.0.0), 6d ago) - Volt template engine.
 - [phalcon/debugbar](https://github.com/phalcon/debugbar) ([v1.0.0](https://github.com/phalcon/debugbar/releases/tag/v1.0.0), 1w ago)
 
 #### 🌱 My latest projects
